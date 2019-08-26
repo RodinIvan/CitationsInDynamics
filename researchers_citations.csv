@@ -1,0 +1,2805 @@
+;i;j;period;weight
+0;Batagelj, Vladimir;Bertrand, Patrice;1;1.0
+1;Batagelj, Vladimir;Ferligoj, Anuska;1;5.0
+2;Batagelj, Vladimir;Murtagh, Fionn;1;1.0
+3;Batagelj, Vladimir;Wolfgang A. Gaul;1;1.0
+4;Batagelj, Vladimir;Edvin Diday;1;3.0
+5;Braak, Cajo ter;Verde, Rosanna;1;1.0
+6;De Carvalho, Francisco De Assis Tenhorio;Edvin Diday;1;2.0
+7;Ferligoj, Anuska;Bertrand, Patrice;1;1.0
+8;Ferligoj, Anuska;Mirkin, Boris;1;1.0
+9;Ferligoj, Anuska;Murtagh, Fionn;1;1.0
+10;Ferligoj, Anuska;Wolfgang A. Gaul;1;1.0
+11;Ferligoj, Anuska;Edvin Diday;1;1.0
+12;Geyer-Schulz, Andreas;Frank Klawonn;1;1.0
+13;Geyer-Schulz, Andreas;Rudolf Kruse;1;1.0
+14;Groenen, Patrick J.F.;Leisch, Friedrich;1;1.0
+15;Groenen, Patrick J.F.;Meulman, Jacqueline;1;4.0
+16;Groenen, Patrick J.F.;Tibshirani, Robert;1;1.0
+17;Groenen, Patrick J.F.;Renato Coppi;1;2.0
+18;Groenen, Patrick J.F.;Wolfgang A. Gaul;1;1.0
+19;Hastie, Trevor;McLachlan, Geoff;1;1.0
+20;Hennig, Christian;Wolfgang A. Gaul;1;1.0
+21;Kiers, Henk;Rocci, Roberto;1;5.0
+22;Kiers, Henk;Renato Coppi;1;5.0
+23;Kiers, Henk;Vichi, Maurizio;1;1.0
+24;Kiers, Henk;Wojtek J Krzanowski;1;4.0
+25;Lausen, Berthold;Hastie, Trevor;1;1.0
+26;Leisch, Friedrich;Tibshirani, Robert;1;2.0
+27;Makarenkov, Vladimir;Mirkin, Boris;1;2.0
+28;Makarenkov, Vladimir;Alain Guenoche;1;2.0
+29;Makarenkov, Vladimir;Edvin Diday;1;2.0
+30;McLachlan, Geoff;Hastie, Trevor;1;1.0
+31;McLachlan, Geoff;Lausen, Berthold;1;2.0
+32;McLachlan, Geoff;Murtagh, Fionn;1;1.0
+33;McLachlan, Geoff;Tibshirani, Robert;1;4.0
+34;McLachlan, Geoff;Gilles Celeux;1;5.0
+35;McLachlan, Geoff;Wojtek J Krzanowski;1;2.0
+36;McLachlan, Geoff;Adrian Raftery;1;4.0
+37;Meulman, Jacqueline;Groenen, Patrick J.F.;1;7.0
+38;Meulman, Jacqueline;Hastie, Trevor;1;3.0
+39;Meulman, Jacqueline;Lausen, Berthold;1;3.0
+40;Meulman, Jacqueline;McLachlan, Geoff;1;2.0
+41;Meulman, Jacqueline;Mirkin, Boris;1;2.0
+42;Meulman, Jacqueline;Tibshirani, Robert;1;5.0
+43;Meulman, Jacqueline;Gilles Celeux;1;1.0
+44;Meulman, Jacqueline;Renato Coppi;1;2.0
+45;Meulman, Jacqueline;Vichi, Maurizio;1;2.0
+46;Meulman, Jacqueline;Wojtek J Krzanowski;1;5.0
+47;Meulman, Jacqueline;Gilbert Saporta;1;1.0
+48;Meulman, Jacqueline;Edvin Diday;1;2.0
+49;Meulman, Jacqueline;Adrian Raftery;1;2.0
+50;Mirkin, Boris;Makarenkov, Vladimir;1;1.0
+51;Mirkin, Boris;Meulman, Jacqueline;1;3.0
+52;Mirkin, Boris;Van Mechelen Iven;1;1.0
+53;Mirkin, Boris;Alain Guenoche;1;2.0
+54;Mirkin, Boris;Edvin Diday;1;2.0
+55;Murtagh, Fionn;McLachlan, Geoff;1;1.0
+56;Murtagh, Fionn;Gilles Celeux;1;2.0
+57;Murtagh, Fionn;Wojtek J Krzanowski;1;2.0
+58;Murtagh, Fionn;Adrian Raftery;1;5.0
+59;Riani, Marco;McLachlan, Geoff;1;1.0
+60;Riani, Marco;Wojtek J Krzanowski;1;1.0
+61;Rocci, Roberto;Kiers, Henk;1;1.0
+62;Rocci, Roberto;Renato Coppi;1;1.0
+63;Tibshirani, Robert;Braak, Cajo ter;1;1.0
+64;Tibshirani, Robert;Hastie, Trevor;1;1.0
+65;Tibshirani, Robert;McLachlan, Geoff;1;1.0
+66;Tibshirani, Robert;Adrian Raftery;1;1.0
+67;Van Mechelen Iven;Lausen, Berthold;1;1.0
+68;Van Mechelen Iven;Meulman, Jacqueline;1;1.0
+69;Van Mechelen Iven;Mirkin, Boris;1;1.0
+70;Van Mechelen Iven;Edvin Diday;1;1.0
+71;Paula Brito;Bertrand, Patrice;1;1.0
+72;Paula Brito;Edvin Diday;1;1.0
+73;Gilles Celeux;McLachlan, Geoff;1;1.0
+74;Gilles Celeux;Murtagh, Fionn;1;1.0
+75;Renato Coppi;Bertrand, Patrice;1;1.0
+76;Alain Guenoche;De Carvalho, Francisco De Assis Tenhorio;1;1.0
+77;Alain Guenoche;Edvin Diday;1;1.0
+78;Rudolf Kruse;Braak, Cajo ter;1;1.0
+79;Rudolf Kruse;Frank Klawonn;1;1.0
+80;Rudolf Kruse;Edvin Diday;1;1.0
+81;Vichi, Maurizio;McLachlan, Geoff;1;1.0
+82;Wolfgang A. Gaul;Bertrand, Patrice;1;1.0
+83;Wolfgang A. Gaul;Ferligoj, Anuska;1;1.0
+84;Wojtek J Krzanowski;Hastie, Trevor;1;1.0
+85;Wojtek J Krzanowski;McLachlan, Geoff;1;1.0
+86;Wojtek J Krzanowski;Meulman, Jacqueline;1;1.0
+87;Wojtek J Krzanowski;Tibshirani, Robert;1;1.0
+88;Adrian Raftery;Ferligoj, Anuska;1;1.0
+89;Adrian Raftery;Hastie, Trevor;1;1.0
+90;Adrian Raftery;Lausen, Berthold;1;1.0
+91;Adrian Raftery;McLachlan, Geoff;1;2.0
+92;Adrian Raftery;Murtagh, Fionn;1;1.0
+93;Adrian Raftery;Gilles Celeux;1;2.0
+94;Adrian Raftery;Edvin Diday;1;1.0
+95;Batagelj, Vladimir;Bertrand, Patrice;2;2.0
+96;Batagelj, Vladimir;Bodjanova, Slavka;2;1.0
+97;Batagelj, Vladimir;De Carvalho, Francisco De Assis Tenhorio;2;1.0
+98;Batagelj, Vladimir;Ferligoj, Anuska;2;5.0
+99;Batagelj, Vladimir;Groenen, Patrick J.F.;2;1.0
+100;Batagelj, Vladimir;Hennig, Christian;2;1.0
+101;Batagelj, Vladimir;Kiers, Henk;2;2.0
+102;Batagelj, Vladimir;Meulman, Jacqueline;2;1.0
+103;Batagelj, Vladimir;Murtagh, Fionn;2;2.0
+104;Batagelj, Vladimir;Riani, Marco;2;1.0
+105;Batagelj, Vladimir;Rocci, Roberto;2;1.0
+106;Batagelj, Vladimir;Van Mechelen Iven;2;1.0
+107;Batagelj, Vladimir;Paula Brito;2;2.0
+108;Batagelj, Vladimir;Vichi, Maurizio;2;3.0
+109;Batagelj, Vladimir;Wolfgang A. Gaul;2;3.0
+110;Batagelj, Vladimir;Edvin Diday;2;3.0
+111;Bertrand, Patrice;Batagelj, Vladimir;2;1.0
+112;Bertrand, Patrice;Bodjanova, Slavka;2;1.0
+113;Bertrand, Patrice;De Carvalho, Francisco De Assis Tenhorio;2;3.0
+114;Bertrand, Patrice;Ferligoj, Anuska;2;1.0
+115;Bertrand, Patrice;Groenen, Patrick J.F.;2;1.0
+116;Bertrand, Patrice;Kiers, Henk;2;1.0
+117;Bertrand, Patrice;Meulman, Jacqueline;2;1.0
+118;Bertrand, Patrice;Murtagh, Fionn;2;1.0
+119;Bertrand, Patrice;Riani, Marco;2;1.0
+120;Bertrand, Patrice;Rocci, Roberto;2;1.0
+121;Bertrand, Patrice;Van Mechelen Iven;2;1.0
+122;Bertrand, Patrice;Paula Brito;2;1.0
+123;Bertrand, Patrice;Alain Guenoche;2;1.0
+124;Bertrand, Patrice;Rudolf Kruse;2;1.0
+125;Bertrand, Patrice;Vichi, Maurizio;2;1.0
+126;Bertrand, Patrice;Wolfgang A. Gaul;2;1.0
+127;Bertrand, Patrice;Edvin Diday;2;3.0
+128;Bodjanova, Slavka;Rudolf Kruse;2;2.0
+129;Bodjanova, Slavka;Edvin Diday;2;1.0
+130;De Carvalho, Francisco De Assis Tenhorio;Kiers, Henk;2;2.0
+131;De Carvalho, Francisco De Assis Tenhorio;Palumbo, Francesco;2;1.0
+132;De Carvalho, Francisco De Assis Tenhorio;Paula Brito;2;1.0
+133;De Carvalho, Francisco De Assis Tenhorio;Gilles Celeux;2;1.0
+134;De Carvalho, Francisco De Assis Tenhorio;Verde, Rosanna;2;3.0
+135;De Carvalho, Francisco De Assis Tenhorio;Vichi, Maurizio;2;2.0
+136;De Carvalho, Francisco De Assis Tenhorio;Edvin Diday;2;3.0
+137;Ferligoj, Anuska;Bertrand, Patrice;2;1.0
+138;Ferligoj, Anuska;Murtagh, Fionn;2;1.0
+139;Ferligoj, Anuska;Wolfgang A. Gaul;2;1.0
+140;Ferligoj, Anuska;Edvin Diday;2;1.0
+141;Geyer-Schulz, Andreas;Wolfgang A. Gaul;2;1.0
+142;Groenen, Patrick J.F.;Leisch, Friedrich;2;1.0
+143;Groenen, Patrick J.F.;Meulman, Jacqueline;2;8.0
+144;Groenen, Patrick J.F.;Tibshirani, Robert;2;2.0
+145;Groenen, Patrick J.F.;Renato Coppi;2;1.0
+146;Groenen, Patrick J.F.;Wolfgang A. Gaul;2;4.0
+147;Groenen, Patrick J.F.;Wojtek J Krzanowski;2;4.0
+148;Groenen, Patrick J.F.;Edvin Diday;2;2.0
+149;Hastie, Trevor;Wojtek J Krzanowski;2;1.0
+150;Hastie, Trevor;Adrian Raftery;2;1.0
+151;Hennig, Christian;Jajuga, Krzysztof;2;1.0
+152;Hennig, Christian;Kiers, Henk;2;1.0
+153;Hennig, Christian;Wolfgang A. Gaul;2;2.0
+154;Hennig, Christian;Adrian Raftery;2;1.0
+155;Hruschka, Harald;Hastie, Trevor;2;2.0
+156;Hruschka, Harald;Tibshirani, Robert;2;2.0
+157;Hruschka, Harald;Wolfgang A. Gaul;2;4.0
+158;Hruschka, Harald;Adrian Raftery;2;1.0
+159;Jajuga, Krzysztof;Vichi, Maurizio;2;1.0
+160;Jajuga, Krzysztof;Wolfgang A. Gaul;2;2.0
+161;Kiers, Henk;Rocci, Roberto;2;1.0
+162;Kiers, Henk;Van Mechelen Iven;2;1.0
+163;Kiers, Henk;Renato Coppi;2;4.0
+164;Kiers, Henk;Wolfgang A. Gaul;2;1.0
+165;Kiers, Henk;Wojtek J Krzanowski;2;2.0
+166;Kuntz, Pascale;Kiers, Henk;2;1.0
+167;Lausen, Berthold;Rudolf Kruse;2;1.0
+168;Leisch, Friedrich;Tibshirani, Robert;2;1.0
+169;Leisch, Friedrich;Rudolf Kruse;2;1.0
+170;Leisch, Friedrich;Wojtek J Krzanowski;2;1.0
+171;Makarenkov, Vladimir;Braak, Cajo ter;2;1.0
+172;Makarenkov, Vladimir;Groenen, Patrick J.F.;2;1.0
+173;Makarenkov, Vladimir;Jajuga, Krzysztof;2;1.0
+174;Makarenkov, Vladimir;Kiers, Henk;2;2.0
+175;Makarenkov, Vladimir;Mirkin, Boris;2;4.0
+176;Makarenkov, Vladimir;Alain Guenoche;2;4.0
+177;Makarenkov, Vladimir;Adrian Raftery;2;1.0
+178;McLachlan, Geoff;Ferligoj, Anuska;2;1.0
+179;McLachlan, Geoff;Groenen, Patrick J.F.;2;2.0
+180;McLachlan, Geoff;Hastie, Trevor;2;1.0
+181;McLachlan, Geoff;Murtagh, Fionn;2;1.0
+182;McLachlan, Geoff;Tibshirani, Robert;2;2.0
+183;McLachlan, Geoff;Vichi, Maurizio;2;1.0
+184;McLachlan, Geoff;Gilbert Saporta;2;1.0
+185;McLachlan, Geoff;Adrian Raftery;2;2.0
+186;Meulman, Jacqueline;Ferligoj, Anuska;2;1.0
+187;Meulman, Jacqueline;Groenen, Patrick J.F.;2;5.0
+188;Meulman, Jacqueline;Hastie, Trevor;2;1.0
+189;Meulman, Jacqueline;Kiers, Henk;2;2.0
+190;Meulman, Jacqueline;Makarenkov, Vladimir;2;1.0
+191;Meulman, Jacqueline;McLachlan, Geoff;2;1.0
+192;Meulman, Jacqueline;Tibshirani, Robert;2;2.0
+193;Meulman, Jacqueline;Renato Coppi;2;1.0
+194;Meulman, Jacqueline;Vichi, Maurizio;2;2.0
+195;Meulman, Jacqueline;Wolfgang A. Gaul;2;2.0
+196;Meulman, Jacqueline;Wojtek J Krzanowski;2;5.0
+197;Meulman, Jacqueline;Gilbert Saporta;2;1.0
+198;Mirkin, Boris;Murtagh, Fionn;2;1.0
+199;Mirkin, Boris;Tibshirani, Robert;2;1.0
+200;Mirkin, Boris;Frank Klawonn;2;2.0
+201;Mirkin, Boris;Rudolf Kruse;2;1.0
+202;Murtagh, Fionn;De Carvalho, Francisco De Assis Tenhorio;2;1.0
+203;Murtagh, Fionn;Ferligoj, Anuska;2;1.0
+204;Murtagh, Fionn;Hastie, Trevor;2;1.0
+205;Murtagh, Fionn;Gilles Celeux;2;1.0
+206;Murtagh, Fionn;Wolfgang A. Gaul;2;2.0
+207;Murtagh, Fionn;Wojtek J Krzanowski;2;1.0
+208;Murtagh, Fionn;Adrian Raftery;2;3.0
+209;Palumbo, Francesco;De Carvalho, Francisco De Assis Tenhorio;2;3.0
+210;Palumbo, Francesco;Kiers, Henk;2;1.0
+211;Palumbo, Francesco;Verde, Rosanna;2;2.0
+212;Palumbo, Francesco;Vichi, Maurizio;2;1.0
+213;Riani, Marco;Bertrand, Patrice;2;1.0
+214;Riani, Marco;Bodjanova, Slavka;2;1.0
+215;Riani, Marco;De Carvalho, Francisco De Assis Tenhorio;2;1.0
+216;Riani, Marco;Ferligoj, Anuska;2;1.0
+217;Riani, Marco;Groenen, Patrick J.F.;2;1.0
+218;Riani, Marco;Hennig, Christian;2;1.0
+219;Riani, Marco;Kiers, Henk;2;1.0
+220;Riani, Marco;McLachlan, Geoff;2;1.0
+221;Riani, Marco;Meulman, Jacqueline;2;1.0
+222;Riani, Marco;Murtagh, Fionn;2;1.0
+223;Riani, Marco;Rocci, Roberto;2;1.0
+224;Riani, Marco;Van Mechelen Iven;2;1.0
+225;Riani, Marco;Paula Brito;2;1.0
+226;Riani, Marco;Alain Guenoche;2;1.0
+227;Riani, Marco;Rudolf Kruse;2;1.0
+228;Riani, Marco;Vichi, Maurizio;2;1.0
+229;Riani, Marco;Wolfgang A. Gaul;2;2.0
+230;Riani, Marco;Edvin Diday;2;1.0
+231;Rocci, Roberto;Kiers, Henk;2;1.0
+232;Rocci, Roberto;Vichi, Maurizio;2;1.0
+233;Tibshirani, Robert;Hastie, Trevor;2;5.0
+234;Tibshirani, Robert;McLachlan, Geoff;2;1.0
+235;Tibshirani, Robert;Adrian Raftery;2;1.0
+236;Van Mechelen Iven;Hastie, Trevor;2;1.0
+237;Van Mechelen Iven;Kiers, Henk;2;2.0
+238;Van Mechelen Iven;Tibshirani, Robert;2;2.0
+239;Van Mechelen Iven;Renato Coppi;2;1.0
+240;Van Mechelen Iven;Alain Guenoche;2;1.0
+241;Van Mechelen Iven;Adrian Raftery;2;2.0
+242;Gilles Celeux;Hastie, Trevor;2;1.0
+243;Gilles Celeux;Kiers, Henk;2;1.0
+244;Gilles Celeux;Tibshirani, Robert;2;1.0
+245;Gilles Celeux;Paula Brito;2;1.0
+246;Gilles Celeux;Adrian Raftery;2;1.0
+247;Renato Coppi;Vichi, Maurizio;2;1.0
+248;Renato Coppi;Gilbert Saporta;2;1.0
+249;Alain Guenoche;Kiers, Henk;2;1.0
+250;Alain Guenoche;Makarenkov, Vladimir;2;2.0
+251;Alain Guenoche;Mirkin, Boris;2;1.0
+252;Rudolf Kruse;Wolfgang A. Gaul;2;1.0
+253;Verde, Rosanna;De Carvalho, Francisco De Assis Tenhorio;2;2.0
+254;Verde, Rosanna;Kiers, Henk;2;1.0
+255;Verde, Rosanna;Gilles Celeux;2;1.0
+256;Verde, Rosanna;Vichi, Maurizio;2;2.0
+257;Verde, Rosanna;Gilbert Saporta;2;1.0
+258;Verde, Rosanna;Edvin Diday;2;1.0
+259;Verde, Rosanna;Adrian Raftery;2;1.0
+260;Vichi, Maurizio;Murtagh, Fionn;2;1.0
+261;Vichi, Maurizio;Edvin Diday;2;1.0
+262;Wojtek J Krzanowski;Braak, Cajo ter;2;1.0
+263;Wojtek J Krzanowski;Ferligoj, Anuska;2;1.0
+264;Wojtek J Krzanowski;Hastie, Trevor;2;2.0
+265;Wojtek J Krzanowski;Kiers, Henk;2;1.0
+266;Wojtek J Krzanowski;Makarenkov, Vladimir;2;1.0
+267;Wojtek J Krzanowski;McLachlan, Geoff;2;1.0
+268;Wojtek J Krzanowski;Meulman, Jacqueline;2;1.0
+269;Wojtek J Krzanowski;Murtagh, Fionn;2;1.0
+270;Wojtek J Krzanowski;Tibshirani, Robert;2;1.0
+271;Wojtek J Krzanowski;Gilles Celeux;2;1.0
+272;Gilbert Saporta;Makarenkov, Vladimir;2;1.0
+273;Gilbert Saporta;Meulman, Jacqueline;2;1.0
+274;Gilbert Saporta;Murtagh, Fionn;2;1.0
+275;Edvin Diday;Bertrand, Patrice;2;1.0
+276;Edvin Diday;Kiers, Henk;2;1.0
+277;Edvin Diday;Palumbo, Francesco;2;1.0
+278;Edvin Diday;Paula Brito;2;2.0
+279;Edvin Diday;Gilles Celeux;2;1.0
+280;Edvin Diday;Verde, Rosanna;2;1.0
+281;Edvin Diday;Vichi, Maurizio;2;1.0
+282;Adrian Raftery;Hastie, Trevor;2;2.0
+283;Adrian Raftery;McLachlan, Geoff;2;1.0
+284;Adrian Raftery;Murtagh, Fionn;2;1.0
+285;Adrian Raftery;Tibshirani, Robert;2;2.0
+286;Adrian Raftery;Gilles Celeux;2;1.0
+287;Adrian Raftery;Edvin Diday;2;1.0
+288;Batagelj, Vladimir;De Carvalho, Francisco De Assis Tenhorio;3;1.0
+289;Batagelj, Vladimir;Ferligoj, Anuska;3;5.0
+290;Batagelj, Vladimir;Groenen, Patrick J.F.;3;2.0
+291;Batagelj, Vladimir;Jajuga, Krzysztof;3;1.0
+292;Batagelj, Vladimir;Kiers, Henk;3;1.0
+293;Batagelj, Vladimir;Mirkin, Boris;3;1.0
+294;Batagelj, Vladimir;Murtagh, Fionn;3;2.0
+295;Batagelj, Vladimir;Paula Brito;3;1.0
+296;Batagelj, Vladimir;Verde, Rosanna;3;1.0
+297;Batagelj, Vladimir;Vichi, Maurizio;3;3.0
+298;Batagelj, Vladimir;Wolfgang A. Gaul;3;1.0
+299;Batagelj, Vladimir;Edvin Diday;3;3.0
+300;Bertrand, Patrice;Mirkin, Boris;3;1.0
+301;Bertrand, Patrice;Edvin Diday;3;1.0
+302;Bodjanova, Slavka;Jajuga, Krzysztof;3;1.0
+303;Bodjanova, Slavka;Rudolf Kruse;3;1.0
+304;Braak, Cajo ter;Tibshirani, Robert;3;3.0
+305;Braak, Cajo ter;Adrian Raftery;3;1.0
+306;De Carvalho, Francisco De Assis Tenhorio;Jajuga, Krzysztof;3;1.0
+307;De Carvalho, Francisco De Assis Tenhorio;Tibshirani, Robert;3;1.0
+308;De Carvalho, Francisco De Assis Tenhorio;Paula Brito;3;1.0
+309;De Carvalho, Francisco De Assis Tenhorio;Gilles Celeux;3;1.0
+310;De Carvalho, Francisco De Assis Tenhorio;Verde, Rosanna;3;2.0
+311;De Carvalho, Francisco De Assis Tenhorio;Vichi, Maurizio;3;1.0
+312;Ferligoj, Anuska;Batagelj, Vladimir;3;2.0
+313;Ferligoj, Anuska;Hastie, Trevor;3;1.0
+314;Ferligoj, Anuska;Jajuga, Krzysztof;3;1.0
+315;Ferligoj, Anuska;Murtagh, Fionn;3;1.0
+316;Ferligoj, Anuska;Wojtek J Krzanowski;3;1.0
+317;Geyer-Schulz, Andreas;Wolfgang A. Gaul;3;4.0
+318;Gorban, Alexander N;Hastie, Trevor;3;2.0
+319;Groenen, Patrick J.F.;Bertrand, Patrice;3;1.0
+320;Groenen, Patrick J.F.;Jajuga, Krzysztof;3;1.0
+321;Groenen, Patrick J.F.;McLachlan, Geoff;3;1.0
+322;Groenen, Patrick J.F.;Meulman, Jacqueline;3;5.0
+323;Groenen, Patrick J.F.;Murtagh, Fionn;3;1.0
+324;Groenen, Patrick J.F.;Rudolf Kruse;3;1.0
+325;Groenen, Patrick J.F.;Wolfgang A. Gaul;3;1.0
+326;Groenen, Patrick J.F.;Wojtek J Krzanowski;3;2.0
+327;Groenen, Patrick J.F.;Edvin Diday;3;2.0
+328;Hastie, Trevor;Braak, Cajo ter;3;1.0
+329;Hastie, Trevor;Wolfgang A. Gaul;3;1.0
+330;Hastie, Trevor;Wojtek J Krzanowski;3;1.0
+331;Hastie, Trevor;Edvin Diday;3;1.0
+332;Hastie, Trevor;Adrian Raftery;3;3.0
+333;Hennig, Christian;Groenen, Patrick J.F.;3;2.0
+334;Hennig, Christian;Hastie, Trevor;3;1.0
+335;Hennig, Christian;Jajuga, Krzysztof;3;1.0
+336;Hennig, Christian;Kiers, Henk;3;2.0
+337;Hennig, Christian;McLachlan, Geoff;3;3.0
+338;Hennig, Christian;Tibshirani, Robert;3;1.0
+339;Hennig, Christian;Wolfgang A. Gaul;3;2.0
+340;Hennig, Christian;Wojtek J Krzanowski;3;1.0
+341;Hennig, Christian;Adrian Raftery;3;2.0
+342;Hruschka, Harald;Hastie, Trevor;3;1.0
+343;Hruschka, Harald;Tibshirani, Robert;3;1.0
+344;Hruschka, Harald;Wolfgang A. Gaul;3;1.0
+345;Hruschka, Harald;Adrian Raftery;3;1.0
+346;Jajuga, Krzysztof;Groenen, Patrick J.F.;3;1.0
+347;Jajuga, Krzysztof;McLachlan, Geoff;3;1.0
+348;Jajuga, Krzysztof;Meulman, Jacqueline;3;1.0
+349;Jajuga, Krzysztof;Vichi, Maurizio;3;1.0
+350;Jajuga, Krzysztof;Wolfgang A. Gaul;3;1.0
+351;Kiers, Henk;Groenen, Patrick J.F.;3;1.0
+352;Kiers, Henk;Hastie, Trevor;3;1.0
+353;Kiers, Henk;Lausen, Berthold;3;1.0
+354;Kiers, Henk;Rocci, Roberto;3;2.0
+355;Kiers, Henk;Tibshirani, Robert;3;4.0
+356;Kiers, Henk;Van Mechelen Iven;3;3.0
+357;Kiers, Henk;Renato Coppi;3;1.0
+358;Kiers, Henk;Vichi, Maurizio;3;1.0
+359;Kiers, Henk;Wojtek J Krzanowski;3;1.0
+360;Kiers, Henk;Edvin Diday;3;1.0
+361;Kuntz, Pascale;Bertrand, Patrice;3;2.0
+362;Kuntz, Pascale;Groenen, Patrick J.F.;3;1.0
+363;Kuntz, Pascale;Alain Guenoche;3;1.0
+364;Kuntz, Pascale;Wolfgang A. Gaul;3;1.0
+365;Kuntz, Pascale;Edvin Diday;3;2.0
+366;Lausen, Berthold;Groenen, Patrick J.F.;3;2.0
+367;Lausen, Berthold;Hastie, Trevor;3;1.0
+368;Lausen, Berthold;Jajuga, Krzysztof;3;3.0
+369;Lausen, Berthold;Kiers, Henk;3;2.0
+370;Lausen, Berthold;Tibshirani, Robert;3;5.0
+371;Leisch, Friedrich;Hastie, Trevor;3;2.0
+372;Leisch, Friedrich;Hennig, Christian;3;1.0
+373;Leisch, Friedrich;Lausen, Berthold;3;1.0
+374;Leisch, Friedrich;Tibshirani, Robert;3;1.0
+375;Leisch, Friedrich;Rudolf Kruse;3;1.0
+376;Makarenkov, Vladimir;Bertrand, Patrice;3;1.0
+377;Makarenkov, Vladimir;Braak, Cajo ter;3;1.0
+378;Makarenkov, Vladimir;Groenen, Patrick J.F.;3;4.0
+379;Makarenkov, Vladimir;Jajuga, Krzysztof;3;1.0
+380;Makarenkov, Vladimir;Kiers, Henk;3;4.0
+381;Makarenkov, Vladimir;Lausen, Berthold;3;1.0
+382;Makarenkov, Vladimir;Mirkin, Boris;3;3.0
+383;Makarenkov, Vladimir;Alain Guenoche;3;4.0
+384;Makarenkov, Vladimir;Edvin Diday;3;1.0
+385;McLachlan, Geoff;Hastie, Trevor;3;2.0
+386;McLachlan, Geoff;Hennig, Christian;3;1.0
+387;McLachlan, Geoff;Murtagh, Fionn;3;1.0
+388;McLachlan, Geoff;Tibshirani, Robert;3;2.0
+389;McLachlan, Geoff;Gilles Celeux;3;1.0
+390;McLachlan, Geoff;Adrian Raftery;3;2.0
+391;Meulman, Jacqueline;Batagelj, Vladimir;3;1.0
+392;Meulman, Jacqueline;Groenen, Patrick J.F.;3;2.0
+393;Meulman, Jacqueline;Hastie, Trevor;3;2.0
+394;Meulman, Jacqueline;Jajuga, Krzysztof;3;1.0
+395;Meulman, Jacqueline;Lausen, Berthold;3;1.0
+396;Meulman, Jacqueline;Mirkin, Boris;3;1.0
+397;Meulman, Jacqueline;Tibshirani, Robert;3;2.0
+398;Meulman, Jacqueline;Gilles Celeux;3;1.0
+399;Meulman, Jacqueline;Alain Guenoche;3;1.0
+400;Meulman, Jacqueline;Wolfgang A. Gaul;3;2.0
+401;Meulman, Jacqueline;Edvin Diday;3;3.0
+402;Mirkin, Boris;Murtagh, Fionn;3;1.0
+403;Mirkin, Boris;Tibshirani, Robert;3;1.0
+404;Mirkin, Boris;Frank Klawonn;3;1.0
+405;Mirkin, Boris;Rudolf Kruse;3;1.0
+406;Mirkin, Boris;Gilbert Saporta;3;1.0
+407;Mirkin, Boris;Edvin Diday;3;1.0
+408;Murtagh, Fionn;De Carvalho, Francisco De Assis Tenhorio;3;1.0
+409;Murtagh, Fionn;Gilles Celeux;3;2.0
+410;Murtagh, Fionn;Adrian Raftery;3;4.0
+411;Palumbo, Francesco;Bertrand, Patrice;3;1.0
+412;Palumbo, Francesco;McLachlan, Geoff;3;1.0
+413;Palumbo, Francesco;Verde, Rosanna;3;1.0
+414;Palumbo, Francesco;Wojtek J Krzanowski;3;1.0
+415;Riani, Marco;McLachlan, Geoff;3;1.0
+416;Riani, Marco;Adrian Raftery;3;1.0
+417;Rocci, Roberto;Hastie, Trevor;3;1.0
+418;Rocci, Roberto;Kiers, Henk;3;4.0
+419;Rocci, Roberto;McLachlan, Geoff;3;1.0
+420;Rocci, Roberto;Tibshirani, Robert;3;1.0
+421;Rocci, Roberto;Renato Coppi;3;1.0
+422;Rocci, Roberto;Vichi, Maurizio;3;2.0
+423;Rocci, Roberto;Wolfgang A. Gaul;3;1.0
+424;Rocci, Roberto;Gilbert Saporta;3;1.0
+425;Rocci, Roberto;Edvin Diday;3;2.0
+426;Tibshirani, Robert;Hastie, Trevor;3;8.0
+427;Tibshirani, Robert;Wolfgang A. Gaul;3;1.0
+428;Tibshirani, Robert;Wojtek J Krzanowski;3;1.0
+429;Tibshirani, Robert;Edvin Diday;3;1.0
+430;Tibshirani, Robert;Adrian Raftery;3;3.0
+431;Van Mechelen Iven;McLachlan, Geoff;3;1.0
+432;Van Mechelen Iven;Meulman, Jacqueline;3;1.0
+433;Van Mechelen Iven;Mirkin, Boris;3;1.0
+434;Van Mechelen Iven;Wolfgang A. Gaul;3;1.0
+435;Paula Brito;Bertrand, Patrice;3;1.0
+436;Paula Brito;De Carvalho, Francisco De Assis Tenhorio;3;2.0
+437;Paula Brito;Gilles Celeux;3;1.0
+438;Renato Coppi;Batagelj, Vladimir;3;1.0
+439;Renato Coppi;Rocci, Roberto;3;1.0
+440;Renato Coppi;Vichi, Maurizio;3;2.0
+441;Renato Coppi;Gilbert Saporta;3;1.0
+442;Alain Guenoche;Jajuga, Krzysztof;3;1.0
+443;Alain Guenoche;Mirkin, Boris;3;1.0
+444;Frank Klawonn;Lausen, Berthold;3;1.0
+445;Verde, Rosanna;Vichi, Maurizio;3;1.0
+446;Verde, Rosanna;Adrian Raftery;3;2.0
+447;Vermunt, Jeroen;McLachlan, Geoff;3;1.0
+448;Vermunt, Jeroen;Gilles Celeux;3;1.0
+449;Vermunt, Jeroen;Wojtek J Krzanowski;3;1.0
+450;Vichi, Maurizio;Hastie, Trevor;3;1.0
+451;Vichi, Maurizio;Jajuga, Krzysztof;3;1.0
+452;Vichi, Maurizio;Kiers, Henk;3;2.0
+453;Vichi, Maurizio;Lausen, Berthold;3;1.0
+454;Vichi, Maurizio;Mirkin, Boris;3;1.0
+455;Vichi, Maurizio;Rocci, Roberto;3;1.0
+456;Vichi, Maurizio;Edvin Diday;3;1.0
+457;Wolfgang A. Gaul;Geyer-Schulz, Andreas;3;1.0
+458;Wojtek J Krzanowski;McLachlan, Geoff;3;3.0
+459;Wojtek J Krzanowski;Tibshirani, Robert;3;1.0
+460;Gilbert Saporta;Jajuga, Krzysztof;3;1.0
+461;Gilbert Saporta;Meulman, Jacqueline;3;1.0
+462;Gilbert Saporta;Edvin Diday;3;2.0
+463;Edvin Diday;Bertrand, Patrice;3;1.0
+464;Edvin Diday;Groenen, Patrick J.F.;3;1.0
+465;Edvin Diday;Jajuga, Krzysztof;3;2.0
+466;Edvin Diday;Kiers, Henk;3;1.0
+467;Adrian Raftery;Groenen, Patrick J.F.;3;1.0
+468;Adrian Raftery;Hastie, Trevor;3;1.0
+469;Adrian Raftery;Kiers, Henk;3;1.0
+470;Adrian Raftery;McLachlan, Geoff;3;1.0
+471;Adrian Raftery;Gilles Celeux;3;1.0
+472;Adrian Raftery;Edvin Diday;3;1.0
+473;Batagelj, Vladimir;Ferligoj, Anuska;4;3.0
+474;Batagelj, Vladimir;Murtagh, Fionn;4;2.0
+475;Batagelj, Vladimir;Wolfgang A. Gaul;4;1.0
+476;Batagelj, Vladimir;Adrian Raftery;4;1.0
+477;Bertrand, Patrice;Mirkin, Boris;4;1.0
+478;Bertrand, Patrice;Wolfgang A. Gaul;4;1.0
+479;Bertrand, Patrice;Edvin Diday;4;1.0
+480;Bodjanova, Slavka;Jajuga, Krzysztof;4;1.0
+481;Braak, Cajo ter;McLachlan, Geoff;4;1.0
+482;Braak, Cajo ter;Meulman, Jacqueline;4;1.0
+483;Braak, Cajo ter;Tibshirani, Robert;4;3.0
+484;Braak, Cajo ter;Gilles Celeux;4;1.0
+485;Braak, Cajo ter;Vermunt, Jeroen;4;1.0
+486;Braak, Cajo ter;Wojtek J Krzanowski;4;1.0
+487;Braak, Cajo ter;Edvin Diday;4;1.0
+488;Braak, Cajo ter;Adrian Raftery;4;1.0
+489;De Carvalho, Francisco De Assis Tenhorio;Bertrand, Patrice;4;1.0
+490;De Carvalho, Francisco De Assis Tenhorio;Jajuga, Krzysztof;4;4.0
+491;De Carvalho, Francisco De Assis Tenhorio;Kiers, Henk;4;4.0
+492;De Carvalho, Francisco De Assis Tenhorio;Tibshirani, Robert;4;1.0
+493;De Carvalho, Francisco De Assis Tenhorio;Paula Brito;4;3.0
+494;De Carvalho, Francisco De Assis Tenhorio;Verde, Rosanna;4;5.0
+495;De Carvalho, Francisco De Assis Tenhorio;Vichi, Maurizio;4;1.0
+496;De Carvalho, Francisco De Assis Tenhorio;Wolfgang A. Gaul;4;1.0
+497;De Carvalho, Francisco De Assis Tenhorio;Edvin Diday;4;11.0
+498;Ferligoj, Anuska;Batagelj, Vladimir;4;2.0
+499;Ferligoj, Anuska;Kuntz, Pascale;4;1.0
+500;Ferligoj, Anuska;Murtagh, Fionn;4;1.0
+501;Ferligoj, Anuska;Wolfgang A. Gaul;4;1.0
+502;Ferligoj, Anuska;Wojtek J Krzanowski;4;1.0
+503;Ferligoj, Anuska;Edvin Diday;4;1.0
+504;Geyer-Schulz, Andreas;Jajuga, Krzysztof;4;1.0
+505;Geyer-Schulz, Andreas;Wolfgang A. Gaul;4;4.0
+506;Gorban, Alexander N;Hastie, Trevor;4;1.0
+507;Groenen, Patrick J.F.;Hastie, Trevor;4;1.0
+508;Groenen, Patrick J.F.;Kiers, Henk;4;2.0
+509;Groenen, Patrick J.F.;Meulman, Jacqueline;4;2.0
+510;Groenen, Patrick J.F.;Mirkin, Boris;4;1.0
+511;Groenen, Patrick J.F.;Tibshirani, Robert;4;1.0
+512;Groenen, Patrick J.F.;Vichi, Maurizio;4;1.0
+513;Groenen, Patrick J.F.;Wolfgang A. Gaul;4;1.0
+514;Groenen, Patrick J.F.;Wojtek J Krzanowski;4;4.0
+515;Groenen, Patrick J.F.;Edvin Diday;4;1.0
+516;Hastie, Trevor;Braak, Cajo ter;4;1.0
+517;Hastie, Trevor;McLachlan, Geoff;4;2.0
+518;Hastie, Trevor;Murtagh, Fionn;4;1.0
+519;Hastie, Trevor;Adrian Raftery;4;1.0
+520;Hennig, Christian;Bertrand, Patrice;4;1.0
+521;Hennig, Christian;Groenen, Patrick J.F.;4;1.0
+522;Hennig, Christian;Hastie, Trevor;4;1.0
+523;Hennig, Christian;Jajuga, Krzysztof;4;2.0
+524;Hennig, Christian;Kiers, Henk;4;2.0
+525;Hennig, Christian;McLachlan, Geoff;4;3.0
+526;Hennig, Christian;Tibshirani, Robert;4;2.0
+527;Hennig, Christian;Paula Brito;4;1.0
+528;Hennig, Christian;Gilles Celeux;4;1.0
+529;Hennig, Christian;Wolfgang A. Gaul;4;3.0
+530;Hennig, Christian;Edvin Diday;4;1.0
+531;Hennig, Christian;Adrian Raftery;4;4.0
+532;Hruschka, Harald;Hastie, Trevor;4;1.0
+533;Hruschka, Harald;Tibshirani, Robert;4;1.0
+534;Hruschka, Harald;Adrian Raftery;4;2.0
+535;Jajuga, Krzysztof;Wolfgang A. Gaul;4;1.0
+536;Kiers, Henk;Groenen, Patrick J.F.;4;2.0
+537;Kiers, Henk;Hastie, Trevor;4;1.0
+538;Kiers, Henk;Meulman, Jacqueline;4;1.0
+539;Kiers, Henk;Palumbo, Francesco;4;1.0
+540;Kiers, Henk;Rocci, Roberto;4;1.0
+541;Kiers, Henk;Tibshirani, Robert;4;2.0
+542;Kiers, Henk;Van Mechelen Iven;4;2.0
+543;Kiers, Henk;Renato Coppi;4;2.0
+544;Kiers, Henk;Vichi, Maurizio;4;1.0
+545;Kiers, Henk;Wolfgang A. Gaul;4;1.0
+546;Kiers, Henk;Wojtek J Krzanowski;4;2.0
+547;Kiers, Henk;Edvin Diday;4;2.0
+548;Kuntz, Pascale;Bertrand, Patrice;4;1.0
+549;Lausen, Berthold;Groenen, Patrick J.F.;4;1.0
+550;Lausen, Berthold;Hastie, Trevor;4;2.0
+551;Lausen, Berthold;Jajuga, Krzysztof;4;1.0
+552;Lausen, Berthold;Kiers, Henk;4;1.0
+553;Lausen, Berthold;McLachlan, Geoff;4;1.0
+554;Lausen, Berthold;Meulman, Jacqueline;4;1.0
+555;Lausen, Berthold;Tibshirani, Robert;4;8.0
+556;Lausen, Berthold;Rudolf Kruse;4;1.0
+557;Leisch, Friedrich;Hastie, Trevor;4;6.0
+558;Leisch, Friedrich;Hennig, Christian;4;3.0
+559;Leisch, Friedrich;Lausen, Berthold;4;3.0
+560;Leisch, Friedrich;McLachlan, Geoff;4;3.0
+561;Leisch, Friedrich;Murtagh, Fionn;4;1.0
+562;Leisch, Friedrich;Tibshirani, Robert;4;7.0
+563;Leisch, Friedrich;Adrian Raftery;4;2.0
+564;Makarenkov, Vladimir;Groenen, Patrick J.F.;4;2.0
+565;Makarenkov, Vladimir;Hastie, Trevor;4;2.0
+566;Makarenkov, Vladimir;Jajuga, Krzysztof;4;1.0
+567;Makarenkov, Vladimir;Kiers, Henk;4;2.0
+568;Makarenkov, Vladimir;Mirkin, Boris;4;4.0
+569;Makarenkov, Vladimir;Tibshirani, Robert;4;2.0
+570;Makarenkov, Vladimir;Alain Guenoche;4;6.0
+571;McLachlan, Geoff;Hastie, Trevor;4;3.0
+572;McLachlan, Geoff;Hennig, Christian;4;1.0
+573;McLachlan, Geoff;Palumbo, Francesco;4;2.0
+574;McLachlan, Geoff;Tibshirani, Robert;4;5.0
+575;McLachlan, Geoff;Gilles Celeux;4;1.0
+576;McLachlan, Geoff;Rudolf Kruse;4;1.0
+577;McLachlan, Geoff;Wojtek J Krzanowski;4;2.0
+578;McLachlan, Geoff;Adrian Raftery;4;5.0
+579;Meulman, Jacqueline;Bertrand, Patrice;4;1.0
+580;Meulman, Jacqueline;Groenen, Patrick J.F.;4;3.0
+581;Meulman, Jacqueline;Hastie, Trevor;4;5.0
+582;Meulman, Jacqueline;Kiers, Henk;4;1.0
+583;Meulman, Jacqueline;Lausen, Berthold;4;1.0
+584;Meulman, Jacqueline;McLachlan, Geoff;4;3.0
+585;Meulman, Jacqueline;Mirkin, Boris;4;1.0
+586;Meulman, Jacqueline;Murtagh, Fionn;4;1.0
+587;Meulman, Jacqueline;Tibshirani, Robert;4;5.0
+588;Meulman, Jacqueline;Van Mechelen Iven;4;1.0
+589;Meulman, Jacqueline;Gilles Celeux;4;1.0
+590;Meulman, Jacqueline;Wolfgang A. Gaul;4;2.0
+591;Meulman, Jacqueline;Wojtek J Krzanowski;4;2.0
+592;Meulman, Jacqueline;Gilbert Saporta;4;1.0
+593;Meulman, Jacqueline;Edvin Diday;4;1.0
+594;Meulman, Jacqueline;Adrian Raftery;4;2.0
+595;Mirkin, Boris;Frank Klawonn;4;1.0
+596;Mirkin, Boris;Rudolf Kruse;4;1.0
+597;Murtagh, Fionn;Hastie, Trevor;4;1.0
+598;Murtagh, Fionn;Makarenkov, Vladimir;4;1.0
+599;Murtagh, Fionn;McLachlan, Geoff;4;5.0
+600;Murtagh, Fionn;Tibshirani, Robert;4;1.0
+601;Murtagh, Fionn;Gilles Celeux;4;1.0
+602;Murtagh, Fionn;Wolfgang A. Gaul;4;4.0
+603;Murtagh, Fionn;Wojtek J Krzanowski;4;1.0
+604;Murtagh, Fionn;Edvin Diday;4;1.0
+605;Murtagh, Fionn;Adrian Raftery;4;7.0
+606;Palumbo, Francesco;Wojtek J Krzanowski;4;1.0
+607;Riani, Marco;McLachlan, Geoff;4;1.0
+608;Riani, Marco;Wojtek J Krzanowski;4;3.0
+609;Riani, Marco;Adrian Raftery;4;2.0
+610;Rocci, Roberto;Kiers, Henk;4;4.0
+611;Rocci, Roberto;Vichi, Maurizio;4;2.0
+612;Rocci, Roberto;Gilbert Saporta;4;1.0
+613;Rocci, Roberto;Edvin Diday;4;3.0
+614;Steinley, Doug;Groenen, Patrick J.F.;4;2.0
+615;Steinley, Doug;Kiers, Henk;4;3.0
+616;Steinley, Doug;Vichi, Maurizio;4;1.0
+617;Steinley, Doug;Wolfgang A. Gaul;4;1.0
+618;Steinley, Doug;Adrian Raftery;4;1.0
+619;Tibshirani, Robert;Bertrand, Patrice;4;1.0
+620;Tibshirani, Robert;De Carvalho, Francisco De Assis Tenhorio;4;1.0
+621;Tibshirani, Robert;Hastie, Trevor;4;8.0
+622;Tibshirani, Robert;McLachlan, Geoff;4;5.0
+623;Tibshirani, Robert;Murtagh, Fionn;4;1.0
+624;Tibshirani, Robert;Gilles Celeux;4;1.0
+625;Tibshirani, Robert;Rudolf Kruse;4;1.0
+626;Van Mechelen Iven;Groenen, Patrick J.F.;4;2.0
+627;Van Mechelen Iven;Jajuga, Krzysztof;4;2.0
+628;Van Mechelen Iven;Kiers, Henk;4;3.0
+629;Van Mechelen Iven;Lausen, Berthold;4;1.0
+630;Van Mechelen Iven;McLachlan, Geoff;4;1.0
+631;Van Mechelen Iven;Meulman, Jacqueline;4;1.0
+632;Van Mechelen Iven;Mirkin, Boris;4;1.0
+633;Van Mechelen Iven;Rocci, Roberto;4;2.0
+634;Van Mechelen Iven;Tibshirani, Robert;4;1.0
+635;Van Mechelen Iven;Gilles Celeux;4;3.0
+636;Van Mechelen Iven;Renato Coppi;4;2.0
+637;Van Mechelen Iven;Vermunt, Jeroen;4;2.0
+638;Van Mechelen Iven;Vichi, Maurizio;4;3.0
+639;Van Mechelen Iven;Wolfgang A. Gaul;4;3.0
+640;Van Mechelen Iven;Edvin Diday;4;1.0
+641;Van Mechelen Iven;Adrian Raftery;4;3.0
+642;Paula Brito;Bertrand, Patrice;4;1.0
+643;Paula Brito;De Carvalho, Francisco De Assis Tenhorio;4;1.0
+644;Paula Brito;Edvin Diday;4;1.0
+645;Gilles Celeux;McLachlan, Geoff;4;1.0
+646;Gilles Celeux;Tibshirani, Robert;4;1.0
+647;Gilles Celeux;Adrian Raftery;4;1.0
+648;Renato Coppi;Batagelj, Vladimir;4;1.0
+649;Renato Coppi;Jajuga, Krzysztof;4;1.0
+650;Renato Coppi;Rocci, Roberto;4;1.0
+651;Renato Coppi;Rudolf Kruse;4;1.0
+652;Renato Coppi;Vichi, Maurizio;4;1.0
+653;Renato Coppi;Gilbert Saporta;4;1.0
+654;Alain Guenoche;Jajuga, Krzysztof;4;1.0
+655;Alain Guenoche;Mirkin, Boris;4;1.0
+656;Alain Guenoche;Edvin Diday;4;1.0
+657;Rudolf Kruse;De Carvalho, Francisco De Assis Tenhorio;4;1.0
+658;Rudolf Kruse;Frank Klawonn;4;1.0
+659;Verde, Rosanna;De Carvalho, Francisco De Assis Tenhorio;4;1.0
+660;Verde, Rosanna;Groenen, Patrick J.F.;4;1.0
+661;Verde, Rosanna;Kiers, Henk;4;2.0
+662;Verde, Rosanna;Palumbo, Francesco;4;2.0
+663;Verde, Rosanna;Gilles Celeux;4;2.0
+664;Verde, Rosanna;Edvin Diday;4;1.0
+665;Verde, Rosanna;Adrian Raftery;4;1.0
+666;Vermunt, Jeroen;Rocci, Roberto;4;1.0
+667;Vermunt, Jeroen;Tibshirani, Robert;4;1.0
+668;Vichi, Maurizio;Geyer-Schulz, Andreas;4;1.0
+669;Vichi, Maurizio;Jajuga, Krzysztof;4;1.0
+670;Vichi, Maurizio;Kiers, Henk;4;1.0
+671;Vichi, Maurizio;McLachlan, Geoff;4;1.0
+672;Vichi, Maurizio;Meulman, Jacqueline;4;1.0
+673;Vichi, Maurizio;Rocci, Roberto;4;1.0
+674;Vichi, Maurizio;Van Mechelen Iven;4;1.0
+675;Vichi, Maurizio;Renato Coppi;4;2.0
+676;Vichi, Maurizio;Rudolf Kruse;4;1.0
+677;Vichi, Maurizio;Gilbert Saporta;4;1.0
+678;Vichi, Maurizio;Edvin Diday;4;2.0
+679;Wolfgang A. Gaul;Geyer-Schulz, Andreas;4;2.0
+680;Wolfgang A. Gaul;Vichi, Maurizio;4;1.0
+681;Wojtek J Krzanowski;Batagelj, Vladimir;4;1.0
+682;Wojtek J Krzanowski;Bertrand, Patrice;4;1.0
+683;Wojtek J Krzanowski;De Carvalho, Francisco De Assis Tenhorio;4;1.0
+684;Wojtek J Krzanowski;Ferligoj, Anuska;4;1.0
+685;Wojtek J Krzanowski;Steinley, Doug;4;1.0
+686;Gilbert Saporta;Batagelj, Vladimir;4;1.0
+687;Gilbert Saporta;Bertrand, Patrice;4;1.0
+688;Gilbert Saporta;Ferligoj, Anuska;4;1.0
+689;Gilbert Saporta;Hennig, Christian;4;1.0
+690;Gilbert Saporta;Jajuga, Krzysztof;4;1.0
+691;Gilbert Saporta;Steinley, Doug;4;1.0
+692;Gilbert Saporta;Tibshirani, Robert;4;1.0
+693;Gilbert Saporta;Gilles Celeux;4;1.0
+694;Gilbert Saporta;Verde, Rosanna;4;1.0
+695;Edvin Diday;Bertrand, Patrice;4;1.0
+696;Edvin Diday;Groenen, Patrick J.F.;4;1.0
+697;Edvin Diday;Jajuga, Krzysztof;4;1.0
+698;Edvin Diday;Kiers, Henk;4;1.0
+699;Edvin Diday;Meulman, Jacqueline;4;1.0
+700;Edvin Diday;Van Mechelen Iven;4;1.0
+701;Edvin Diday;Paula Brito;4;2.0
+702;Edvin Diday;Gilles Celeux;4;2.0
+703;Edvin Diday;Alain Guenoche;4;1.0
+704;Edvin Diday;Verde, Rosanna;4;1.0
+705;Edvin Diday;Wolfgang A. Gaul;4;1.0
+706;Edvin Diday;Gilbert Saporta;4;1.0
+707;Adrian Raftery;Hastie, Trevor;4;1.0
+708;Adrian Raftery;McLachlan, Geoff;4;2.0
+709;Adrian Raftery;Meulman, Jacqueline;4;1.0
+710;Adrian Raftery;Murtagh, Fionn;4;2.0
+711;Adrian Raftery;Tibshirani, Robert;4;1.0
+712;Adrian Raftery;Gilles Celeux;4;2.0
+713;Batagelj, Vladimir;Bertrand, Patrice;5;1.0
+714;Batagelj, Vladimir;Bodjanova, Slavka;5;1.0
+715;Batagelj, Vladimir;De Carvalho, Francisco De Assis Tenhorio;5;1.0
+716;Batagelj, Vladimir;Ferligoj, Anuska;5;3.0
+717;Batagelj, Vladimir;Geyer-Schulz, Andreas;5;1.0
+718;Batagelj, Vladimir;Groenen, Patrick J.F.;5;1.0
+719;Batagelj, Vladimir;Hastie, Trevor;5;1.0
+720;Batagelj, Vladimir;Hennig, Christian;5;2.0
+721;Batagelj, Vladimir;Jajuga, Krzysztof;5;1.0
+722;Batagelj, Vladimir;Kiers, Henk;5;1.0
+723;Batagelj, Vladimir;Kuntz, Pascale;5;1.0
+724;Batagelj, Vladimir;Lausen, Berthold;5;1.0
+725;Batagelj, Vladimir;Leisch, Friedrich;5;1.0
+726;Batagelj, Vladimir;Makarenkov, Vladimir;5;1.0
+727;Batagelj, Vladimir;Meulman, Jacqueline;5;1.0
+728;Batagelj, Vladimir;Mirkin, Boris;5;1.0
+729;Batagelj, Vladimir;Murtagh, Fionn;5;2.0
+730;Batagelj, Vladimir;Palumbo, Francesco;5;1.0
+731;Batagelj, Vladimir;Rocci, Roberto;5;1.0
+732;Batagelj, Vladimir;Tibshirani, Robert;5;1.0
+733;Batagelj, Vladimir;Van Mechelen Iven;5;1.0
+734;Batagelj, Vladimir;Paula Brito;5;1.0
+735;Batagelj, Vladimir;Alain Guenoche;5;1.0
+736;Batagelj, Vladimir;Rudolf Kruse;5;1.0
+737;Batagelj, Vladimir;Verde, Rosanna;5;1.0
+738;Batagelj, Vladimir;Vichi, Maurizio;5;1.0
+739;Batagelj, Vladimir;Wolfgang A. Gaul;5;1.0
+740;Batagelj, Vladimir;Wojtek J Krzanowski;5;1.0
+741;Batagelj, Vladimir;Edvin Diday;5;2.0
+742;Batagelj, Vladimir;Adrian Raftery;5;1.0
+743;Bertrand, Patrice;De Carvalho, Francisco De Assis Tenhorio;5;1.0
+744;Bertrand, Patrice;Mirkin, Boris;5;1.0
+745;Bertrand, Patrice;Steinley, Doug;5;1.0
+746;Bertrand, Patrice;Tibshirani, Robert;5;2.0
+747;Bertrand, Patrice;Vermunt, Jeroen;5;1.0
+748;Bertrand, Patrice;Wojtek J Krzanowski;5;1.0
+749;Braak, Cajo ter;Tibshirani, Robert;5;1.0
+750;De Carvalho, Francisco De Assis Tenhorio;Bertrand, Patrice;5;1.0
+751;De Carvalho, Francisco De Assis Tenhorio;Groenen, Patrick J.F.;5;2.0
+752;De Carvalho, Francisco De Assis Tenhorio;Jajuga, Krzysztof;5;5.0
+753;De Carvalho, Francisco De Assis Tenhorio;Kiers, Henk;5;2.0
+754;De Carvalho, Francisco De Assis Tenhorio;Murtagh, Fionn;5;1.0
+755;De Carvalho, Francisco De Assis Tenhorio;Paula Brito;5;5.0
+756;De Carvalho, Francisco De Assis Tenhorio;Gilles Celeux;5;5.0
+757;De Carvalho, Francisco De Assis Tenhorio;Verde, Rosanna;5;6.0
+758;De Carvalho, Francisco De Assis Tenhorio;Vichi, Maurizio;5;1.0
+759;De Carvalho, Francisco De Assis Tenhorio;Wolfgang A. Gaul;5;6.0
+760;De Carvalho, Francisco De Assis Tenhorio;Edvin Diday;5;8.0
+761;Ferligoj, Anuska;Bertrand, Patrice;5;1.0
+762;Ferligoj, Anuska;Bodjanova, Slavka;5;1.0
+763;Ferligoj, Anuska;De Carvalho, Francisco De Assis Tenhorio;5;1.0
+764;Ferligoj, Anuska;Geyer-Schulz, Andreas;5;1.0
+765;Ferligoj, Anuska;Groenen, Patrick J.F.;5;1.0
+766;Ferligoj, Anuska;Hastie, Trevor;5;1.0
+767;Ferligoj, Anuska;Hennig, Christian;5;1.0
+768;Ferligoj, Anuska;Jajuga, Krzysztof;5;1.0
+769;Ferligoj, Anuska;Kiers, Henk;5;1.0
+770;Ferligoj, Anuska;Kuntz, Pascale;5;1.0
+771;Ferligoj, Anuska;Lausen, Berthold;5;1.0
+772;Ferligoj, Anuska;Leisch, Friedrich;5;1.0
+773;Ferligoj, Anuska;Makarenkov, Vladimir;5;1.0
+774;Ferligoj, Anuska;Meulman, Jacqueline;5;1.0
+775;Ferligoj, Anuska;Mirkin, Boris;5;1.0
+776;Ferligoj, Anuska;Murtagh, Fionn;5;1.0
+777;Ferligoj, Anuska;Rocci, Roberto;5;1.0
+778;Ferligoj, Anuska;Tibshirani, Robert;5;1.0
+779;Ferligoj, Anuska;Van Mechelen Iven;5;1.0
+780;Ferligoj, Anuska;Paula Brito;5;1.0
+781;Ferligoj, Anuska;Alain Guenoche;5;1.0
+782;Ferligoj, Anuska;Rudolf Kruse;5;1.0
+783;Ferligoj, Anuska;Verde, Rosanna;5;1.0
+784;Ferligoj, Anuska;Vermunt, Jeroen;5;1.0
+785;Ferligoj, Anuska;Vichi, Maurizio;5;1.0
+786;Ferligoj, Anuska;Wolfgang A. Gaul;5;2.0
+787;Ferligoj, Anuska;Wojtek J Krzanowski;5;1.0
+788;Ferligoj, Anuska;Gilbert Saporta;5;1.0
+789;Ferligoj, Anuska;Edvin Diday;5;1.0
+790;Ferligoj, Anuska;Adrian Raftery;5;1.0
+791;Geyer-Schulz, Andreas;Jajuga, Krzysztof;5;1.0
+792;Geyer-Schulz, Andreas;Kiers, Henk;5;1.0
+793;Geyer-Schulz, Andreas;Wolfgang A. Gaul;5;2.0
+794;Geyer-Schulz, Andreas;Edvin Diday;5;1.0
+795;Gorban, Alexander N;Batagelj, Vladimir;5;1.0
+796;Gorban, Alexander N;Hastie, Trevor;5;1.0
+797;Gorban, Alexander N;McLachlan, Geoff;5;1.0
+798;Gorban, Alexander N;Tibshirani, Robert;5;1.0
+799;Gorban, Alexander N;Adrian Raftery;5;1.0
+800;Groenen, Patrick J.F.;Braak, Cajo ter;5;1.0
+801;Groenen, Patrick J.F.;Hastie, Trevor;5;1.0
+802;Groenen, Patrick J.F.;Jajuga, Krzysztof;5;1.0
+803;Groenen, Patrick J.F.;Kiers, Henk;5;2.0
+804;Groenen, Patrick J.F.;Meulman, Jacqueline;5;12.0
+805;Groenen, Patrick J.F.;Riani, Marco;5;1.0
+806;Groenen, Patrick J.F.;Tibshirani, Robert;5;3.0
+807;Groenen, Patrick J.F.;Van Mechelen Iven;5;1.0
+808;Groenen, Patrick J.F.;Renato Coppi;5;3.0
+809;Groenen, Patrick J.F.;Vermunt, Jeroen;5;1.0
+810;Groenen, Patrick J.F.;Wolfgang A. Gaul;5;1.0
+811;Groenen, Patrick J.F.;Wojtek J Krzanowski;5;5.0
+812;Groenen, Patrick J.F.;Edvin Diday;5;3.0
+813;Hastie, Trevor;Braak, Cajo ter;5;2.0
+814;Hastie, Trevor;McLachlan, Geoff;5;1.0
+815;Hastie, Trevor;Meulman, Jacqueline;5;3.0
+816;Hastie, Trevor;Rudolf Kruse;5;1.0
+817;Hennig, Christian;Jajuga, Krzysztof;5;1.0
+818;Hennig, Christian;McLachlan, Geoff;5;1.0
+819;Hennig, Christian;Wolfgang A. Gaul;5;2.0
+820;Hennig, Christian;Adrian Raftery;5;6.0
+821;Hruschka, Harald;Hastie, Trevor;5;2.0
+822;Hruschka, Harald;Tibshirani, Robert;5;2.0
+823;Hruschka, Harald;Wolfgang A. Gaul;5;1.0
+824;Hruschka, Harald;Adrian Raftery;5;1.0
+825;Jajuga, Krzysztof;McLachlan, Geoff;5;1.0
+826;Jajuga, Krzysztof;Adrian Raftery;5;2.0
+827;Kiers, Henk;Groenen, Patrick J.F.;5;7.0
+828;Kiers, Henk;Lausen, Berthold;5;1.0
+829;Kiers, Henk;Meulman, Jacqueline;5;7.0
+830;Kiers, Henk;Mirkin, Boris;5;1.0
+831;Kiers, Henk;Palumbo, Francesco;5;1.0
+832;Kiers, Henk;Tibshirani, Robert;5;4.0
+833;Kiers, Henk;Van Mechelen Iven;5;5.0
+834;Kiers, Henk;Renato Coppi;5;4.0
+835;Kiers, Henk;Rudolf Kruse;5;1.0
+836;Kiers, Henk;Vichi, Maurizio;5;1.0
+837;Kiers, Henk;Wojtek J Krzanowski;5;2.0
+838;Kiers, Henk;Edvin Diday;5;2.0
+839;Kuntz, Pascale;De Carvalho, Francisco De Assis Tenhorio;5;1.0
+840;Lausen, Berthold;Jajuga, Krzysztof;5;1.0
+841;Lausen, Berthold;Leisch, Friedrich;5;1.0
+842;Lausen, Berthold;Palumbo, Francesco;5;1.0
+843;Lausen, Berthold;Tibshirani, Robert;5;3.0
+844;Lausen, Berthold;Rudolf Kruse;5;3.0
+845;Lausen, Berthold;Vermunt, Jeroen;5;1.0
+846;Leisch, Friedrich;Hastie, Trevor;5;7.0
+847;Leisch, Friedrich;Hennig, Christian;5;2.0
+848;Leisch, Friedrich;Lausen, Berthold;5;1.0
+849;Leisch, Friedrich;McLachlan, Geoff;5;4.0
+850;Leisch, Friedrich;Tibshirani, Robert;5;4.0
+851;Leisch, Friedrich;Vichi, Maurizio;5;5.0
+852;Leisch, Friedrich;Wojtek J Krzanowski;5;1.0
+853;Leisch, Friedrich;Adrian Raftery;5;3.0
+854;Makarenkov, Vladimir;Bertrand, Patrice;5;1.0
+855;Makarenkov, Vladimir;Groenen, Patrick J.F.;5;1.0
+856;Makarenkov, Vladimir;Hastie, Trevor;5;1.0
+857;Makarenkov, Vladimir;Kiers, Henk;5;1.0
+858;Makarenkov, Vladimir;Mirkin, Boris;5;4.0
+859;Makarenkov, Vladimir;Tibshirani, Robert;5;1.0
+860;Makarenkov, Vladimir;Alain Guenoche;5;1.0
+861;Makarenkov, Vladimir;Wolfgang A. Gaul;5;4.0
+862;Makarenkov, Vladimir;Edvin Diday;5;1.0
+863;McLachlan, Geoff;De Carvalho, Francisco De Assis Tenhorio;5;1.0
+864;McLachlan, Geoff;Hastie, Trevor;5;3.0
+865;McLachlan, Geoff;Hennig, Christian;5;2.0
+866;McLachlan, Geoff;Meulman, Jacqueline;5;1.0
+867;McLachlan, Geoff;Tibshirani, Robert;5;11.0
+868;McLachlan, Geoff;Gilles Celeux;5;3.0
+869;McLachlan, Geoff;Adrian Raftery;5;7.0
+870;Meulman, Jacqueline;Groenen, Patrick J.F.;5;1.0
+871;Meulman, Jacqueline;Hastie, Trevor;5;1.0
+872;Meulman, Jacqueline;Mirkin, Boris;5;1.0
+873;Meulman, Jacqueline;Tibshirani, Robert;5;1.0
+874;Meulman, Jacqueline;Alain Guenoche;5;1.0
+875;Mirkin, Boris;Hastie, Trevor;5;3.0
+876;Mirkin, Boris;Kiers, Henk;5;2.0
+877;Mirkin, Boris;McLachlan, Geoff;5;1.0
+878;Mirkin, Boris;Murtagh, Fionn;5;2.0
+879;Mirkin, Boris;Tibshirani, Robert;5;3.0
+880;Mirkin, Boris;Rudolf Kruse;5;1.0
+881;Mirkin, Boris;Wojtek J Krzanowski;5;3.0
+882;Mirkin, Boris;Adrian Raftery;5;1.0
+883;Murtagh, Fionn;De Carvalho, Francisco De Assis Tenhorio;5;2.0
+884;Murtagh, Fionn;Hastie, Trevor;5;1.0
+885;Murtagh, Fionn;McLachlan, Geoff;5;2.0
+886;Murtagh, Fionn;Mirkin, Boris;5;2.0
+887;Murtagh, Fionn;Tibshirani, Robert;5;2.0
+888;Murtagh, Fionn;Gilles Celeux;5;3.0
+889;Murtagh, Fionn;Verde, Rosanna;5;1.0
+890;Murtagh, Fionn;Edvin Diday;5;1.0
+891;Murtagh, Fionn;Adrian Raftery;5;6.0
+892;Palumbo, Francesco;Groenen, Patrick J.F.;5;2.0
+893;Palumbo, Francesco;Kiers, Henk;5;2.0
+894;Palumbo, Francesco;Meulman, Jacqueline;5;2.0
+895;Palumbo, Francesco;Steinley, Doug;5;1.0
+896;Palumbo, Francesco;Vichi, Maurizio;5;2.0
+897;Palumbo, Francesco;Edvin Diday;5;1.0
+898;Riani, Marco;Batagelj, Vladimir;5;1.0
+899;Riani, Marco;Bertrand, Patrice;5;1.0
+900;Riani, Marco;Ferligoj, Anuska;5;1.0
+901;Riani, Marco;Geyer-Schulz, Andreas;5;1.0
+902;Riani, Marco;Groenen, Patrick J.F.;5;1.0
+903;Riani, Marco;Hennig, Christian;5;1.0
+904;Riani, Marco;Jajuga, Krzysztof;5;1.0
+905;Riani, Marco;Kiers, Henk;5;1.0
+906;Riani, Marco;Meulman, Jacqueline;5;3.0
+907;Riani, Marco;Rocci, Roberto;5;1.0
+908;Riani, Marco;Rudolf Kruse;5;1.0
+909;Riani, Marco;Vichi, Maurizio;5;3.0
+910;Riani, Marco;Wolfgang A. Gaul;5;1.0
+911;Riani, Marco;Wojtek J Krzanowski;5;1.0
+912;Riani, Marco;Edvin Diday;5;1.0
+913;Riani, Marco;Adrian Raftery;5;1.0
+914;Rocci, Roberto;Groenen, Patrick J.F.;5;1.0
+915;Rocci, Roberto;Kiers, Henk;5;1.0
+916;Rocci, Roberto;McLachlan, Geoff;5;1.0
+917;Rocci, Roberto;Meulman, Jacqueline;5;1.0
+918;Rocci, Roberto;Renato Coppi;5;1.0
+919;Rocci, Roberto;Vichi, Maurizio;5;1.0
+920;Rocci, Roberto;Gilbert Saporta;5;1.0
+921;Rocci, Roberto;Edvin Diday;5;1.0
+922;Steinley, Doug;Batagelj, Vladimir;5;1.0
+923;Steinley, Doug;Bertrand, Patrice;5;1.0
+924;Steinley, Doug;Ferligoj, Anuska;5;1.0
+925;Steinley, Doug;Groenen, Patrick J.F.;5;3.0
+926;Steinley, Doug;Hastie, Trevor;5;2.0
+927;Steinley, Doug;Jajuga, Krzysztof;5;1.0
+928;Steinley, Doug;Kiers, Henk;5;2.0
+929;Steinley, Doug;Lausen, Berthold;5;1.0
+930;Steinley, Doug;Makarenkov, Vladimir;5;2.0
+931;Steinley, Doug;McLachlan, Geoff;5;1.0
+932;Steinley, Doug;Meulman, Jacqueline;5;6.0
+933;Steinley, Doug;Mirkin, Boris;5;2.0
+934;Steinley, Doug;Riani, Marco;5;1.0
+935;Steinley, Doug;Tibshirani, Robert;5;2.0
+936;Steinley, Doug;Van Mechelen Iven;5;1.0
+937;Steinley, Doug;Gilles Celeux;5;1.0
+938;Steinley, Doug;Alain Guenoche;5;1.0
+939;Steinley, Doug;Vichi, Maurizio;5;2.0
+940;Steinley, Doug;Wolfgang A. Gaul;5;4.0
+941;Steinley, Doug;Wojtek J Krzanowski;5;2.0
+942;Steinley, Doug;Edvin Diday;5;2.0
+943;Steinley, Doug;Adrian Raftery;5;2.0
+944;Tibshirani, Robert;Hastie, Trevor;5;2.0
+945;Tibshirani, Robert;McLachlan, Geoff;5;2.0
+946;Tibshirani, Robert;Wojtek J Krzanowski;5;1.0
+947;Tibshirani, Robert;Adrian Raftery;5;1.0
+948;Van Mechelen Iven;Jajuga, Krzysztof;5;1.0
+949;Van Mechelen Iven;Kiers, Henk;5;4.0
+950;Van Mechelen Iven;Lausen, Berthold;5;1.0
+951;Van Mechelen Iven;McLachlan, Geoff;5;1.0
+952;Van Mechelen Iven;Meulman, Jacqueline;5;2.0
+953;Van Mechelen Iven;Mirkin, Boris;5;1.0
+954;Van Mechelen Iven;Murtagh, Fionn;5;1.0
+955;Van Mechelen Iven;Rocci, Roberto;5;2.0
+956;Van Mechelen Iven;Steinley, Doug;5;2.0
+957;Van Mechelen Iven;Gilles Celeux;5;1.0
+958;Van Mechelen Iven;Alain Guenoche;5;1.0
+959;Van Mechelen Iven;Vichi, Maurizio;5;2.0
+960;Van Mechelen Iven;Wolfgang A. Gaul;5;2.0
+961;Van Mechelen Iven;Wojtek J Krzanowski;5;2.0
+962;Van Mechelen Iven;Adrian Raftery;5;2.0
+963;Paula Brito;Bertrand, Patrice;5;1.0
+964;Paula Brito;De Carvalho, Francisco De Assis Tenhorio;5;4.0
+965;Paula Brito;Jajuga, Krzysztof;5;2.0
+966;Paula Brito;Palumbo, Francesco;5;1.0
+967;Paula Brito;Rocci, Roberto;5;1.0
+968;Paula Brito;Gilles Celeux;5;1.0
+969;Paula Brito;Alain Guenoche;5;2.0
+970;Paula Brito;Vichi, Maurizio;5;1.0
+971;Paula Brito;Edvin Diday;5;1.0
+972;Gilles Celeux;Batagelj, Vladimir;5;1.0
+973;Gilles Celeux;Groenen, Patrick J.F.;5;1.0
+974;Gilles Celeux;Kiers, Henk;5;1.0
+975;Gilles Celeux;McLachlan, Geoff;5;2.0
+976;Gilles Celeux;Tibshirani, Robert;5;1.0
+977;Gilles Celeux;Paula Brito;5;1.0
+978;Gilles Celeux;Vermunt, Jeroen;5;1.0
+979;Gilles Celeux;Edvin Diday;5;1.0
+980;Gilles Celeux;Adrian Raftery;5;1.0
+981;Renato Coppi;Batagelj, Vladimir;5;1.0
+982;Renato Coppi;Hastie, Trevor;5;1.0
+983;Renato Coppi;Kiers, Henk;5;1.0
+984;Renato Coppi;Meulman, Jacqueline;5;1.0
+985;Renato Coppi;Mirkin, Boris;5;1.0
+986;Renato Coppi;Rocci, Roberto;5;1.0
+987;Renato Coppi;Tibshirani, Robert;5;1.0
+988;Renato Coppi;Rudolf Kruse;5;1.0
+989;Renato Coppi;Vichi, Maurizio;5;1.0
+990;Renato Coppi;Edvin Diday;5;1.0
+991;Alain Guenoche;Batagelj, Vladimir;5;2.0
+992;Alain Guenoche;Gilbert Saporta;5;1.0
+993;Frank Klawonn;Groenen, Patrick J.F.;5;3.0
+994;Frank Klawonn;Tibshirani, Robert;5;1.0
+995;Rudolf Kruse;Bertrand, Patrice;5;1.0
+996;Rudolf Kruse;Geyer-Schulz, Andreas;5;1.0
+997;Rudolf Kruse;Groenen, Patrick J.F.;5;4.0
+998;Rudolf Kruse;Hastie, Trevor;5;1.0
+999;Rudolf Kruse;Jajuga, Krzysztof;5;1.0
+1000;Rudolf Kruse;Kiers, Henk;5;1.0
+1001;Rudolf Kruse;Lausen, Berthold;5;1.0
+1002;Rudolf Kruse;McLachlan, Geoff;5;1.0
+1003;Rudolf Kruse;Meulman, Jacqueline;5;1.0
+1004;Rudolf Kruse;Riani, Marco;5;1.0
+1005;Rudolf Kruse;Rocci, Roberto;5;1.0
+1006;Rudolf Kruse;Van Mechelen Iven;5;1.0
+1007;Rudolf Kruse;Gilles Celeux;5;1.0
+1008;Rudolf Kruse;Renato Coppi;5;1.0
+1009;Rudolf Kruse;Frank Klawonn;5;2.0
+1010;Rudolf Kruse;Vichi, Maurizio;5;1.0
+1011;Rudolf Kruse;Wolfgang A. Gaul;5;1.0
+1012;Rudolf Kruse;Edvin Diday;5;1.0
+1013;Verde, Rosanna;De Carvalho, Francisco De Assis Tenhorio;5;2.0
+1014;Verde, Rosanna;Groenen, Patrick J.F.;5;1.0
+1015;Verde, Rosanna;Kiers, Henk;5;1.0
+1016;Verde, Rosanna;Murtagh, Fionn;5;1.0
+1017;Verde, Rosanna;Gilles Celeux;5;2.0
+1018;Verde, Rosanna;Edvin Diday;5;1.0
+1019;Verde, Rosanna;Adrian Raftery;5;1.0
+1020;Vermunt, Jeroen;Batagelj, Vladimir;5;1.0
+1021;Vermunt, Jeroen;Lausen, Berthold;5;1.0
+1022;Vermunt, Jeroen;McLachlan, Geoff;5;2.0
+1023;Vermunt, Jeroen;Mirkin, Boris;5;1.0
+1024;Vermunt, Jeroen;Tibshirani, Robert;5;1.0
+1025;Vermunt, Jeroen;Gilles Celeux;5;1.0
+1026;Vichi, Maurizio;Batagelj, Vladimir;5;1.0
+1027;Vichi, Maurizio;Bertrand, Patrice;5;1.0
+1028;Vichi, Maurizio;Ferligoj, Anuska;5;1.0
+1029;Vichi, Maurizio;Geyer-Schulz, Andreas;5;1.0
+1030;Vichi, Maurizio;Jajuga, Krzysztof;5;1.0
+1031;Vichi, Maurizio;Kiers, Henk;5;2.0
+1032;Vichi, Maurizio;Lausen, Berthold;5;2.0
+1033;Vichi, Maurizio;Meulman, Jacqueline;5;2.0
+1034;Vichi, Maurizio;Palumbo, Francesco;5;1.0
+1035;Vichi, Maurizio;Riani, Marco;5;2.0
+1036;Vichi, Maurizio;Rocci, Roberto;5;1.0
+1037;Vichi, Maurizio;Gilles Celeux;5;1.0
+1038;Vichi, Maurizio;Renato Coppi;5;1.0
+1039;Vichi, Maurizio;Rudolf Kruse;5;1.0
+1040;Vichi, Maurizio;Wolfgang A. Gaul;5;2.0
+1041;Vichi, Maurizio;Edvin Diday;5;1.0
+1042;Vichi, Maurizio;Adrian Raftery;5;1.0
+1043;Wolfgang A. Gaul;Bertrand, Patrice;5;1.0
+1044;Wolfgang A. Gaul;Geyer-Schulz, Andreas;5;4.0
+1045;Wolfgang A. Gaul;Jajuga, Krzysztof;5;1.0
+1046;Wolfgang A. Gaul;Kiers, Henk;5;1.0
+1047;Wolfgang A. Gaul;Lausen, Berthold;5;1.0
+1048;Wolfgang A. Gaul;Riani, Marco;5;1.0
+1049;Wolfgang A. Gaul;Rocci, Roberto;5;1.0
+1050;Wolfgang A. Gaul;Van Mechelen Iven;5;2.0
+1051;Wolfgang A. Gaul;Frank Klawonn;5;1.0
+1052;Wolfgang A. Gaul;Rudolf Kruse;5;1.0
+1053;Wolfgang A. Gaul;Vermunt, Jeroen;5;2.0
+1054;Wolfgang A. Gaul;Vichi, Maurizio;5;1.0
+1055;Wolfgang A. Gaul;Edvin Diday;5;1.0
+1056;Wolfgang A. Gaul;Adrian Raftery;5;2.0
+1057;Wojtek J Krzanowski;Groenen, Patrick J.F.;5;3.0
+1058;Wojtek J Krzanowski;Hastie, Trevor;5;2.0
+1059;Wojtek J Krzanowski;Jajuga, Krzysztof;5;1.0
+1060;Wojtek J Krzanowski;McLachlan, Geoff;5;1.0
+1061;Wojtek J Krzanowski;Meulman, Jacqueline;5;1.0
+1062;Wojtek J Krzanowski;Mirkin, Boris;5;1.0
+1063;Wojtek J Krzanowski;Tibshirani, Robert;5;1.0
+1064;Gilbert Saporta;Bertrand, Patrice;5;1.0
+1065;Gilbert Saporta;Hastie, Trevor;5;1.0
+1066;Gilbert Saporta;Hennig, Christian;5;1.0
+1067;Gilbert Saporta;Paula Brito;5;1.0
+1068;Gilbert Saporta;Vichi, Maurizio;5;1.0
+1069;Gilbert Saporta;Adrian Raftery;5;1.0
+1070;Edvin Diday;Bertrand, Patrice;5;1.0
+1071;Edvin Diday;Groenen, Patrick J.F.;5;1.0
+1072;Edvin Diday;Jajuga, Krzysztof;5;1.0
+1073;Edvin Diday;Kiers, Henk;5;2.0
+1074;Edvin Diday;McLachlan, Geoff;5;1.0
+1075;Edvin Diday;Meulman, Jacqueline;5;1.0
+1076;Edvin Diday;Gilles Celeux;5;1.0
+1077;Edvin Diday;Renato Coppi;5;1.0
+1078;Edvin Diday;Verde, Rosanna;5;1.0
+1079;Edvin Diday;Wojtek J Krzanowski;5;1.0
+1080;Edvin Diday;Adrian Raftery;5;1.0
+1081;Adrian Raftery;McLachlan, Geoff;5;2.0
+1082;Adrian Raftery;Meulman, Jacqueline;5;1.0
+1083;Adrian Raftery;Murtagh, Fionn;5;1.0
+1084;Adrian Raftery;Tibshirani, Robert;5;2.0
+1085;Adrian Raftery;Gilles Celeux;5;1.0
+1086;Adrian Raftery;Wojtek J Krzanowski;5;2.0
+1087;Batagelj, Vladimir;Ferligoj, Anuska;6;6.0
+1088;Batagelj, Vladimir;Hennig, Christian;6;3.0
+1089;Batagelj, Vladimir;Murtagh, Fionn;6;1.0
+1090;Batagelj, Vladimir;Palumbo, Francesco;6;1.0
+1091;Batagelj, Vladimir;Riani, Marco;6;1.0
+1092;Batagelj, Vladimir;Verde, Rosanna;6;2.0
+1093;Batagelj, Vladimir;Wolfgang A. Gaul;6;2.0
+1094;Batagelj, Vladimir;Adrian Raftery;6;1.0
+1095;Bertrand, Patrice;De Carvalho, Francisco De Assis Tenhorio;6;1.0
+1096;Bertrand, Patrice;Groenen, Patrick J.F.;6;1.0
+1097;Bertrand, Patrice;Meulman, Jacqueline;6;1.0
+1098;Bertrand, Patrice;Mirkin, Boris;6;1.0
+1099;Bertrand, Patrice;Tibshirani, Robert;6;1.0
+1100;Bertrand, Patrice;Van Mechelen Iven;6;1.0
+1101;Bertrand, Patrice;Renato Coppi;6;1.0
+1102;Bertrand, Patrice;Verde, Rosanna;6;1.0
+1103;Bertrand, Patrice;Wolfgang A. Gaul;6;1.0
+1104;Bertrand, Patrice;Wojtek J Krzanowski;6;1.0
+1105;Bertrand, Patrice;Edvin Diday;6;3.0
+1106;Braak, Cajo ter;Kiers, Henk;6;1.0
+1107;Braak, Cajo ter;Murtagh, Fionn;6;1.0
+1108;Braak, Cajo ter;Tibshirani, Robert;6;2.0
+1109;Braak, Cajo ter;Adrian Raftery;6;1.0
+1110;De Carvalho, Francisco De Assis Tenhorio;Bertrand, Patrice;6;4.0
+1111;De Carvalho, Francisco De Assis Tenhorio;Groenen, Patrick J.F.;6;1.0
+1112;De Carvalho, Francisco De Assis Tenhorio;Jajuga, Krzysztof;6;1.0
+1113;De Carvalho, Francisco De Assis Tenhorio;Kiers, Henk;6;1.0
+1114;De Carvalho, Francisco De Assis Tenhorio;Meulman, Jacqueline;6;1.0
+1115;De Carvalho, Francisco De Assis Tenhorio;Palumbo, Francesco;6;4.0
+1116;De Carvalho, Francisco De Assis Tenhorio;Paula Brito;6;4.0
+1117;De Carvalho, Francisco De Assis Tenhorio;Gilles Celeux;6;3.0
+1118;De Carvalho, Francisco De Assis Tenhorio;Verde, Rosanna;6;6.0
+1119;De Carvalho, Francisco De Assis Tenhorio;Vichi, Maurizio;6;3.0
+1120;De Carvalho, Francisco De Assis Tenhorio;Wolfgang A. Gaul;6;2.0
+1121;De Carvalho, Francisco De Assis Tenhorio;Edvin Diday;6;7.0
+1122;Ferligoj, Anuska;Batagelj, Vladimir;6;2.0
+1123;Ferligoj, Anuska;Bertrand, Patrice;6;1.0
+1124;Ferligoj, Anuska;De Carvalho, Francisco De Assis Tenhorio;6;1.0
+1125;Ferligoj, Anuska;Hennig, Christian;6;1.0
+1126;Ferligoj, Anuska;Riani, Marco;6;1.0
+1127;Ferligoj, Anuska;Paula Brito;6;1.0
+1128;Ferligoj, Anuska;Wolfgang A. Gaul;6;1.0
+1129;Ferligoj, Anuska;Adrian Raftery;6;1.0
+1130;Geyer-Schulz, Andreas;Batagelj, Vladimir;6;1.0
+1131;Geyer-Schulz, Andreas;Ferligoj, Anuska;6;1.0
+1132;Geyer-Schulz, Andreas;Leisch, Friedrich;6;1.0
+1133;Geyer-Schulz, Andreas;Mirkin, Boris;6;1.0
+1134;Geyer-Schulz, Andreas;Riani, Marco;6;2.0
+1135;Geyer-Schulz, Andreas;Frank Klawonn;6;1.0
+1136;Geyer-Schulz, Andreas;Rudolf Kruse;6;1.0
+1137;Geyer-Schulz, Andreas;Vichi, Maurizio;6;2.0
+1138;Geyer-Schulz, Andreas;Wolfgang A. Gaul;6;3.0
+1139;Gorban, Alexander N;Batagelj, Vladimir;6;1.0
+1140;Gorban, Alexander N;Hastie, Trevor;6;5.0
+1141;Gorban, Alexander N;McLachlan, Geoff;6;1.0
+1142;Gorban, Alexander N;Mirkin, Boris;6;2.0
+1143;Gorban, Alexander N;Tibshirani, Robert;6;1.0
+1144;Gorban, Alexander N;Adrian Raftery;6;1.0
+1145;Groenen, Patrick J.F.;Batagelj, Vladimir;6;1.0
+1146;Groenen, Patrick J.F.;Bertrand, Patrice;6;1.0
+1147;Groenen, Patrick J.F.;Braak, Cajo ter;6;1.0
+1148;Groenen, Patrick J.F.;De Carvalho, Francisco De Assis Tenhorio;6;1.0
+1149;Groenen, Patrick J.F.;Ferligoj, Anuska;6;1.0
+1150;Groenen, Patrick J.F.;Hastie, Trevor;6;3.0
+1151;Groenen, Patrick J.F.;Jajuga, Krzysztof;6;1.0
+1152;Groenen, Patrick J.F.;Kiers, Henk;6;2.0
+1153;Groenen, Patrick J.F.;Meulman, Jacqueline;6;6.0
+1154;Groenen, Patrick J.F.;Mirkin, Boris;6;1.0
+1155;Groenen, Patrick J.F.;Murtagh, Fionn;6;1.0
+1156;Groenen, Patrick J.F.;Tibshirani, Robert;6;5.0
+1157;Groenen, Patrick J.F.;Frank Klawonn;6;1.0
+1158;Groenen, Patrick J.F.;Rudolf Kruse;6;1.0
+1159;Groenen, Patrick J.F.;Vermunt, Jeroen;6;2.0
+1160;Groenen, Patrick J.F.;Wolfgang A. Gaul;6;1.0
+1161;Groenen, Patrick J.F.;Wojtek J Krzanowski;6;2.0
+1162;Groenen, Patrick J.F.;Gilbert Saporta;6;2.0
+1163;Groenen, Patrick J.F.;Edvin Diday;6;2.0
+1164;Hastie, Trevor;McLachlan, Geoff;6;1.0
+1165;Hastie, Trevor;Meulman, Jacqueline;6;3.0
+1166;Hastie, Trevor;Rudolf Kruse;6;1.0
+1167;Hennig, Christian;Batagelj, Vladimir;6;1.0
+1168;Hennig, Christian;Ferligoj, Anuska;6;1.0
+1169;Hennig, Christian;Jajuga, Krzysztof;6;1.0
+1170;Hennig, Christian;Leisch, Friedrich;6;1.0
+1171;Hennig, Christian;McLachlan, Geoff;6;2.0
+1172;Hennig, Christian;Riani, Marco;6;1.0
+1173;Hennig, Christian;Tibshirani, Robert;6;2.0
+1174;Hennig, Christian;Gilles Celeux;6;1.0
+1175;Hennig, Christian;Vermunt, Jeroen;6;2.0
+1176;Hennig, Christian;Wolfgang A. Gaul;6;3.0
+1177;Hennig, Christian;Adrian Raftery;6;3.0
+1178;Hruschka, Harald;Hastie, Trevor;6;1.0
+1179;Hruschka, Harald;McLachlan, Geoff;6;1.0
+1180;Hruschka, Harald;Tibshirani, Robert;6;1.0
+1181;Hruschka, Harald;Adrian Raftery;6;2.0
+1182;Kiers, Henk;Groenen, Patrick J.F.;6;1.0
+1183;Kiers, Henk;Hastie, Trevor;6;1.0
+1184;Kiers, Henk;McLachlan, Geoff;6;1.0
+1185;Kiers, Henk;Meulman, Jacqueline;6;2.0
+1186;Kiers, Henk;Rocci, Roberto;6;1.0
+1187;Kiers, Henk;Steinley, Doug;6;1.0
+1188;Kiers, Henk;Tibshirani, Robert;6;4.0
+1189;Kiers, Henk;Vichi, Maurizio;6;1.0
+1190;Kiers, Henk;Wojtek J Krzanowski;6;2.0
+1191;Kiers, Henk;Edvin Diday;6;1.0
+1192;Kuntz, Pascale;Bertrand, Patrice;6;2.0
+1193;Kuntz, Pascale;Lausen, Berthold;6;1.0
+1194;Kuntz, Pascale;Murtagh, Fionn;6;1.0
+1195;Kuntz, Pascale;Paula Brito;6;1.0
+1196;Kuntz, Pascale;Rudolf Kruse;6;1.0
+1197;Kuntz, Pascale;Gilbert Saporta;6;1.0
+1198;Kuntz, Pascale;Edvin Diday;6;2.0
+1199;Lausen, Berthold;Geyer-Schulz, Andreas;6;1.0
+1200;Lausen, Berthold;Groenen, Patrick J.F.;6;1.0
+1201;Lausen, Berthold;Hastie, Trevor;6;2.0
+1202;Lausen, Berthold;Hennig, Christian;6;1.0
+1203;Lausen, Berthold;Jajuga, Krzysztof;6;1.0
+1204;Lausen, Berthold;Leisch, Friedrich;6;3.0
+1205;Lausen, Berthold;McLachlan, Geoff;6;2.0
+1206;Lausen, Berthold;Meulman, Jacqueline;6;1.0
+1207;Lausen, Berthold;Murtagh, Fionn;6;1.0
+1208;Lausen, Berthold;Palumbo, Francesco;6;2.0
+1209;Lausen, Berthold;Tibshirani, Robert;6;2.0
+1210;Lausen, Berthold;Van Mechelen Iven;6;1.0
+1211;Lausen, Berthold;Gilles Celeux;6;1.0
+1212;Lausen, Berthold;Rudolf Kruse;6;3.0
+1213;Lausen, Berthold;Vermunt, Jeroen;6;1.0
+1214;Lausen, Berthold;Vichi, Maurizio;6;2.0
+1215;Lausen, Berthold;Wolfgang A. Gaul;6;2.0
+1216;Lausen, Berthold;Edvin Diday;6;1.0
+1217;Leisch, Friedrich;Hastie, Trevor;6;2.0
+1218;Leisch, Friedrich;Hennig, Christian;6;6.0
+1219;Leisch, Friedrich;McLachlan, Geoff;6;8.0
+1220;Leisch, Friedrich;Tibshirani, Robert;6;1.0
+1221;Leisch, Friedrich;Van Mechelen Iven;6;1.0
+1222;Leisch, Friedrich;Paula Brito;6;2.0
+1223;Leisch, Friedrich;Gilles Celeux;6;4.0
+1224;Leisch, Friedrich;Vermunt, Jeroen;6;2.0
+1225;Leisch, Friedrich;Vichi, Maurizio;6;4.0
+1226;Leisch, Friedrich;Wojtek J Krzanowski;6;1.0
+1227;Leisch, Friedrich;Adrian Raftery;6;6.0
+1228;Makarenkov, Vladimir;Batagelj, Vladimir;6;1.0
+1229;Makarenkov, Vladimir;Ferligoj, Anuska;6;1.0
+1230;Makarenkov, Vladimir;Mirkin, Boris;6;1.0
+1231;Makarenkov, Vladimir;Wolfgang A. Gaul;6;1.0
+1232;McLachlan, Geoff;Hastie, Trevor;6;5.0
+1233;McLachlan, Geoff;Hennig, Christian;6;1.0
+1234;McLachlan, Geoff;Meulman, Jacqueline;6;1.0
+1235;McLachlan, Geoff;Palumbo, Francesco;6;1.0
+1236;McLachlan, Geoff;Tibshirani, Robert;6;6.0
+1237;McLachlan, Geoff;Gilles Celeux;6;2.0
+1238;McLachlan, Geoff;Vermunt, Jeroen;6;1.0
+1239;McLachlan, Geoff;Wojtek J Krzanowski;6;1.0
+1240;McLachlan, Geoff;Adrian Raftery;6;7.0
+1241;Meulman, Jacqueline;Batagelj, Vladimir;6;1.0
+1242;Meulman, Jacqueline;Groenen, Patrick J.F.;6;2.0
+1243;Meulman, Jacqueline;Hastie, Trevor;6;2.0
+1244;Meulman, Jacqueline;Kiers, Henk;6;1.0
+1245;Meulman, Jacqueline;Tibshirani, Robert;6;4.0
+1246;Meulman, Jacqueline;Wolfgang A. Gaul;6;1.0
+1247;Meulman, Jacqueline;Gilbert Saporta;6;1.0
+1248;Meulman, Jacqueline;Edvin Diday;6;1.0
+1249;Mirkin, Boris;Hastie, Trevor;6;1.0
+1250;Mirkin, Boris;McLachlan, Geoff;6;2.0
+1251;Mirkin, Boris;Murtagh, Fionn;6;1.0
+1252;Mirkin, Boris;Tibshirani, Robert;6;1.0
+1253;Mirkin, Boris;Van Mechelen Iven;6;2.0
+1254;Mirkin, Boris;Gilles Celeux;6;1.0
+1255;Mirkin, Boris;Wojtek J Krzanowski;6;2.0
+1256;Mirkin, Boris;Edvin Diday;6;1.0
+1257;Mirkin, Boris;Adrian Raftery;6;1.0
+1258;Murtagh, Fionn;Groenen, Patrick J.F.;6;1.0
+1259;Murtagh, Fionn;McLachlan, Geoff;6;1.0
+1260;Murtagh, Fionn;Wolfgang A. Gaul;6;1.0
+1261;Murtagh, Fionn;Wojtek J Krzanowski;6;1.0
+1262;Murtagh, Fionn;Gilbert Saporta;6;1.0
+1263;Murtagh, Fionn;Edvin Diday;6;1.0
+1264;Palumbo, Francesco;Kiers, Henk;6;1.0
+1265;Palumbo, Francesco;Vichi, Maurizio;6;1.0
+1266;Riani, Marco;McLachlan, Geoff;6;1.0
+1267;Riani, Marco;Vichi, Maurizio;6;3.0
+1268;Riani, Marco;Edvin Diday;6;1.0
+1269;Riani, Marco;Adrian Raftery;6;2.0
+1270;Rocci, Roberto;Hastie, Trevor;6;1.0
+1271;Rocci, Roberto;Kiers, Henk;6;1.0
+1272;Rocci, Roberto;McLachlan, Geoff;6;4.0
+1273;Rocci, Roberto;Riani, Marco;6;1.0
+1274;Rocci, Roberto;Tibshirani, Robert;6;1.0
+1275;Rocci, Roberto;Van Mechelen Iven;6;1.0
+1276;Rocci, Roberto;Gilles Celeux;6;3.0
+1277;Rocci, Roberto;Vichi, Maurizio;6;3.0
+1278;Rocci, Roberto;Wolfgang A. Gaul;6;1.0
+1279;Rocci, Roberto;Gilbert Saporta;6;1.0
+1280;Rocci, Roberto;Edvin Diday;6;1.0
+1281;Rocci, Roberto;Adrian Raftery;6;1.0
+1282;Steinley, Doug;Batagelj, Vladimir;6;1.0
+1283;Steinley, Doug;Ferligoj, Anuska;6;1.0
+1284;Steinley, Doug;Groenen, Patrick J.F.;6;1.0
+1285;Steinley, Doug;Hastie, Trevor;6;5.0
+1286;Steinley, Doug;Hennig, Christian;6;1.0
+1287;Steinley, Doug;Kiers, Henk;6;1.0
+1288;Steinley, Doug;Leisch, Friedrich;6;1.0
+1289;Steinley, Doug;McLachlan, Geoff;6;3.0
+1290;Steinley, Doug;Meulman, Jacqueline;6;7.0
+1291;Steinley, Doug;Mirkin, Boris;6;4.0
+1292;Steinley, Doug;Tibshirani, Robert;6;5.0
+1293;Steinley, Doug;Van Mechelen Iven;6;1.0
+1294;Steinley, Doug;Vermunt, Jeroen;6;1.0
+1295;Steinley, Doug;Vichi, Maurizio;6;3.0
+1296;Steinley, Doug;Wolfgang A. Gaul;6;9.0
+1297;Steinley, Doug;Wojtek J Krzanowski;6;4.0
+1298;Steinley, Doug;Gilbert Saporta;6;1.0
+1299;Steinley, Doug;Edvin Diday;6;1.0
+1300;Steinley, Doug;Adrian Raftery;6;4.0
+1301;Tibshirani, Robert;De Carvalho, Francisco De Assis Tenhorio;6;1.0
+1302;Tibshirani, Robert;Hastie, Trevor;6;7.0
+1303;Tibshirani, Robert;McLachlan, Geoff;6;2.0
+1304;Tibshirani, Robert;Murtagh, Fionn;6;1.0
+1305;Tibshirani, Robert;Frank Klawonn;6;1.0
+1306;Tibshirani, Robert;Verde, Rosanna;6;1.0
+1307;Tibshirani, Robert;Wolfgang A. Gaul;6;2.0
+1308;Tibshirani, Robert;Wojtek J Krzanowski;6;2.0
+1309;Tibshirani, Robert;Adrian Raftery;6;1.0
+1310;Van Mechelen Iven;Groenen, Patrick J.F.;6;5.0
+1311;Van Mechelen Iven;Hastie, Trevor;6;1.0
+1312;Van Mechelen Iven;Jajuga, Krzysztof;6;1.0
+1313;Van Mechelen Iven;Kiers, Henk;6;3.0
+1314;Van Mechelen Iven;McLachlan, Geoff;6;1.0
+1315;Van Mechelen Iven;Mirkin, Boris;6;2.0
+1316;Van Mechelen Iven;Rocci, Roberto;6;2.0
+1317;Van Mechelen Iven;Steinley, Doug;6;1.0
+1318;Van Mechelen Iven;Tibshirani, Robert;6;1.0
+1319;Van Mechelen Iven;Renato Coppi;6;1.0
+1320;Van Mechelen Iven;Vichi, Maurizio;6;3.0
+1321;Van Mechelen Iven;Wolfgang A. Gaul;6;4.0
+1322;Van Mechelen Iven;Wojtek J Krzanowski;6;3.0
+1323;Van Mechelen Iven;Adrian Raftery;6;1.0
+1324;Paula Brito;Batagelj, Vladimir;6;1.0
+1325;Paula Brito;Bertrand, Patrice;6;2.0
+1326;Paula Brito;De Carvalho, Francisco De Assis Tenhorio;6;4.0
+1327;Paula Brito;Ferligoj, Anuska;6;1.0
+1328;Paula Brito;Groenen, Patrick J.F.;6;1.0
+1329;Paula Brito;Kuntz, Pascale;6;1.0
+1330;Paula Brito;Leisch, Friedrich;6;1.0
+1331;Paula Brito;McLachlan, Geoff;6;1.0
+1332;Paula Brito;Meulman, Jacqueline;6;2.0
+1333;Paula Brito;Mirkin, Boris;6;1.0
+1334;Paula Brito;Murtagh, Fionn;6;1.0
+1335;Paula Brito;Palumbo, Francesco;6;2.0
+1336;Paula Brito;Riani, Marco;6;1.0
+1337;Paula Brito;Gilles Celeux;6;1.0
+1338;Paula Brito;Alain Guenoche;6;1.0
+1339;Paula Brito;Vichi, Maurizio;6;1.0
+1340;Paula Brito;Wolfgang A. Gaul;6;1.0
+1341;Paula Brito;Gilbert Saporta;6;1.0
+1342;Paula Brito;Edvin Diday;6;2.0
+1343;Gilles Celeux;Hastie, Trevor;6;1.0
+1344;Gilles Celeux;McLachlan, Geoff;6;1.0
+1345;Gilles Celeux;Tibshirani, Robert;6;1.0
+1346;Gilles Celeux;Vermunt, Jeroen;6;1.0
+1347;Renato Coppi;Hastie, Trevor;6;1.0
+1348;Renato Coppi;Kiers, Henk;6;1.0
+1349;Renato Coppi;Mirkin, Boris;6;1.0
+1350;Renato Coppi;Tibshirani, Robert;6;1.0
+1351;Renato Coppi;Van Mechelen Iven;6;1.0
+1352;Renato Coppi;Verde, Rosanna;6;1.0
+1353;Alain Guenoche;Batagelj, Vladimir;6;2.0
+1354;Frank Klawonn;Groenen, Patrick J.F.;6;2.0
+1355;Frank Klawonn;Hastie, Trevor;6;1.0
+1356;Frank Klawonn;McLachlan, Geoff;6;1.0
+1357;Frank Klawonn;Tibshirani, Robert;6;1.0
+1358;Frank Klawonn;Rudolf Kruse;6;1.0
+1359;Rudolf Kruse;Groenen, Patrick J.F.;6;2.0
+1360;Rudolf Kruse;Frank Klawonn;6;1.0
+1361;Verde, Rosanna;Batagelj, Vladimir;6;1.0
+1362;Verde, Rosanna;Bertrand, Patrice;6;1.0
+1363;Verde, Rosanna;De Carvalho, Francisco De Assis Tenhorio;6;1.0
+1364;Verde, Rosanna;Ferligoj, Anuska;6;1.0
+1365;Verde, Rosanna;Groenen, Patrick J.F.;6;1.0
+1366;Verde, Rosanna;Kiers, Henk;6;1.0
+1367;Verde, Rosanna;Meulman, Jacqueline;6;1.0
+1368;Verde, Rosanna;Palumbo, Francesco;6;1.0
+1369;Verde, Rosanna;Gilles Celeux;6;2.0
+1370;Verde, Rosanna;Renato Coppi;6;1.0
+1371;Verde, Rosanna;Edvin Diday;6;2.0
+1372;Vermunt, Jeroen;De Carvalho, Francisco De Assis Tenhorio;6;1.0
+1373;Vermunt, Jeroen;Hennig, Christian;6;1.0
+1374;Vermunt, Jeroen;Lausen, Berthold;6;2.0
+1375;Vermunt, Jeroen;McLachlan, Geoff;6;2.0
+1376;Vermunt, Jeroen;Tibshirani, Robert;6;1.0
+1377;Vermunt, Jeroen;Gilles Celeux;6;1.0
+1378;Vichi, Maurizio;Bertrand, Patrice;6;1.0
+1379;Vichi, Maurizio;Ferligoj, Anuska;6;1.0
+1380;Vichi, Maurizio;Hennig, Christian;6;1.0
+1381;Vichi, Maurizio;Kiers, Henk;6;1.0
+1382;Vichi, Maurizio;Leisch, Friedrich;6;1.0
+1383;Vichi, Maurizio;McLachlan, Geoff;6;3.0
+1384;Vichi, Maurizio;Meulman, Jacqueline;6;1.0
+1385;Vichi, Maurizio;Riani, Marco;6;1.0
+1386;Vichi, Maurizio;Rocci, Roberto;6;2.0
+1387;Vichi, Maurizio;Van Mechelen Iven;6;1.0
+1388;Vichi, Maurizio;Paula Brito;6;1.0
+1389;Vichi, Maurizio;Gilles Celeux;6;1.0
+1390;Vichi, Maurizio;Renato Coppi;6;1.0
+1391;Vichi, Maurizio;Vermunt, Jeroen;6;1.0
+1392;Vichi, Maurizio;Wolfgang A. Gaul;6;1.0
+1393;Vichi, Maurizio;Edvin Diday;6;2.0
+1394;Vichi, Maurizio;Adrian Raftery;6;1.0
+1395;Wolfgang A. Gaul;Bertrand, Patrice;6;1.0
+1396;Wolfgang A. Gaul;Ferligoj, Anuska;6;1.0
+1397;Wolfgang A. Gaul;McLachlan, Geoff;6;1.0
+1398;Wolfgang A. Gaul;Paula Brito;6;1.0
+1399;Wolfgang A. Gaul;Vichi, Maurizio;6;1.0
+1400;Wolfgang A. Gaul;Gilbert Saporta;6;1.0
+1401;Wolfgang A. Gaul;Edvin Diday;6;1.0
+1402;Wolfgang A. Gaul;Adrian Raftery;6;1.0
+1403;Wojtek J Krzanowski;Hastie, Trevor;6;1.0
+1404;Wojtek J Krzanowski;McLachlan, Geoff;6;1.0
+1405;Wojtek J Krzanowski;Meulman, Jacqueline;6;1.0
+1406;Wojtek J Krzanowski;Riani, Marco;6;1.0
+1407;Gilbert Saporta;Bertrand, Patrice;6;1.0
+1408;Gilbert Saporta;Hastie, Trevor;6;1.0
+1409;Gilbert Saporta;Hennig, Christian;6;1.0
+1410;Gilbert Saporta;Palumbo, Francesco;6;1.0
+1411;Gilbert Saporta;Vichi, Maurizio;6;1.0
+1412;Gilbert Saporta;Edvin Diday;6;1.0
+1413;Edvin Diday;Batagelj, Vladimir;6;1.0
+1414;Edvin Diday;Bertrand, Patrice;6;1.0
+1415;Edvin Diday;Groenen, Patrick J.F.;6;1.0
+1416;Edvin Diday;Kiers, Henk;6;1.0
+1417;Edvin Diday;Paula Brito;6;1.0
+1418;Edvin Diday;Renato Coppi;6;1.0
+1419;Edvin Diday;Verde, Rosanna;6;1.0
+1420;Edvin Diday;Vichi, Maurizio;6;1.0
+1421;Edvin Diday;Gilbert Saporta;6;1.0
+1422;Adrian Raftery;Batagelj, Vladimir;6;1.0
+1423;Adrian Raftery;Ferligoj, Anuska;6;1.0
+1424;Adrian Raftery;Hastie, Trevor;6;3.0
+1425;Adrian Raftery;Leisch, Friedrich;6;1.0
+1426;Adrian Raftery;McLachlan, Geoff;6;1.0
+1427;Adrian Raftery;Meulman, Jacqueline;6;1.0
+1428;Adrian Raftery;Riani, Marco;6;1.0
+1429;Adrian Raftery;Tibshirani, Robert;6;3.0
+1430;Adrian Raftery;Gilles Celeux;6;1.0
+1431;Adrian Raftery;Rudolf Kruse;6;1.0
+1432;Adrian Raftery;Vichi, Maurizio;6;1.0
+1433;Batagelj, Vladimir;Ferligoj, Anuska;7;2.0
+1434;Batagelj, Vladimir;Steinley, Doug;7;1.0
+1435;Batagelj, Vladimir;Rudolf Kruse;7;1.0
+1436;Batagelj, Vladimir;Adrian Raftery;7;1.0
+1437;Bertrand, Patrice;Edvin Diday;7;1.0
+1438;Bodjanova, Slavka;Rudolf Kruse;7;1.0
+1439;Braak, Cajo ter;Groenen, Patrick J.F.;7;2.0
+1440;Braak, Cajo ter;Kiers, Henk;7;2.0
+1441;Braak, Cajo ter;McLachlan, Geoff;7;1.0
+1442;Braak, Cajo ter;Tibshirani, Robert;7;2.0
+1443;Braak, Cajo ter;Adrian Raftery;7;1.0
+1444;De Carvalho, Francisco De Assis Tenhorio;Bertrand, Patrice;7;3.0
+1445;De Carvalho, Francisco De Assis Tenhorio;Groenen, Patrick J.F.;7;4.0
+1446;De Carvalho, Francisco De Assis Tenhorio;Hennig, Christian;7;1.0
+1447;De Carvalho, Francisco De Assis Tenhorio;Kiers, Henk;7;1.0
+1448;De Carvalho, Francisco De Assis Tenhorio;Palumbo, Francesco;7;3.0
+1449;De Carvalho, Francisco De Assis Tenhorio;Paula Brito;7;6.0
+1450;De Carvalho, Francisco De Assis Tenhorio;Gilles Celeux;7;4.0
+1451;De Carvalho, Francisco De Assis Tenhorio;Verde, Rosanna;7;5.0
+1452;De Carvalho, Francisco De Assis Tenhorio;Wolfgang A. Gaul;7;2.0
+1453;De Carvalho, Francisco De Assis Tenhorio;Gilbert Saporta;7;1.0
+1454;De Carvalho, Francisco De Assis Tenhorio;Edvin Diday;7;6.0
+1455;Ferligoj, Anuska;Batagelj, Vladimir;7;4.0
+1456;Ferligoj, Anuska;Bertrand, Patrice;7;1.0
+1457;Ferligoj, Anuska;De Carvalho, Francisco De Assis Tenhorio;7;1.0
+1458;Ferligoj, Anuska;Paula Brito;7;1.0
+1459;Ferligoj, Anuska;Wolfgang A. Gaul;7;1.0
+1460;Geyer-Schulz, Andreas;Tibshirani, Robert;7;1.0
+1461;Geyer-Schulz, Andreas;Wolfgang A. Gaul;7;1.0
+1462;Gorban, Alexander N;Bertrand, Patrice;7;1.0
+1463;Gorban, Alexander N;Hastie, Trevor;7;3.0
+1464;Gorban, Alexander N;Mirkin, Boris;7;2.0
+1465;Gorban, Alexander N;Tibshirani, Robert;7;2.0
+1466;Gorban, Alexander N;Verde, Rosanna;7;1.0
+1467;Gorban, Alexander N;Edvin Diday;7;2.0
+1468;Groenen, Patrick J.F.;Batagelj, Vladimir;7;1.0
+1469;Groenen, Patrick J.F.;Bertrand, Patrice;7;1.0
+1470;Groenen, Patrick J.F.;De Carvalho, Francisco De Assis Tenhorio;7;1.0
+1471;Groenen, Patrick J.F.;Ferligoj, Anuska;7;1.0
+1472;Groenen, Patrick J.F.;Hastie, Trevor;7;3.0
+1473;Groenen, Patrick J.F.;Jajuga, Krzysztof;7;1.0
+1474;Groenen, Patrick J.F.;Meulman, Jacqueline;7;1.0
+1475;Groenen, Patrick J.F.;Mirkin, Boris;7;1.0
+1476;Groenen, Patrick J.F.;Palumbo, Francesco;7;1.0
+1477;Groenen, Patrick J.F.;Rocci, Roberto;7;1.0
+1478;Groenen, Patrick J.F.;Steinley, Doug;7;1.0
+1479;Groenen, Patrick J.F.;Tibshirani, Robert;7;3.0
+1480;Groenen, Patrick J.F.;Van Mechelen Iven;7;1.0
+1481;Groenen, Patrick J.F.;Vermunt, Jeroen;7;3.0
+1482;Groenen, Patrick J.F.;Wolfgang A. Gaul;7;1.0
+1483;Hennig, Christian;Bertrand, Patrice;7;1.0
+1484;Hennig, Christian;Groenen, Patrick J.F.;7;1.0
+1485;Hennig, Christian;Hastie, Trevor;7;2.0
+1486;Hennig, Christian;Jajuga, Krzysztof;7;1.0
+1487;Hennig, Christian;Leisch, Friedrich;7;1.0
+1488;Hennig, Christian;Makarenkov, Vladimir;7;1.0
+1489;Hennig, Christian;McLachlan, Geoff;7;2.0
+1490;Hennig, Christian;Steinley, Doug;7;1.0
+1491;Hennig, Christian;Tibshirani, Robert;7;2.0
+1492;Hennig, Christian;Van Mechelen Iven;7;1.0
+1493;Hennig, Christian;Paula Brito;7;2.0
+1494;Hennig, Christian;Gilles Celeux;7;2.0
+1495;Hennig, Christian;Renato Coppi;7;1.0
+1496;Hennig, Christian;Alain Guenoche;7;1.0
+1497;Hennig, Christian;Rudolf Kruse;7;2.0
+1498;Hennig, Christian;Adrian Raftery;7;4.0
+1499;Hruschka, Harald;Hastie, Trevor;7;1.0
+1500;Hruschka, Harald;Tibshirani, Robert;7;1.0
+1501;Jajuga, Krzysztof;Braak, Cajo ter;7;2.0
+1502;Jajuga, Krzysztof;Hennig, Christian;7;1.0
+1503;Jajuga, Krzysztof;Steinley, Doug;7;2.0
+1504;Jajuga, Krzysztof;Van Mechelen Iven;7;2.0
+1505;Jajuga, Krzysztof;Paula Brito;7;2.0
+1506;Jajuga, Krzysztof;Gilles Celeux;7;2.0
+1507;Jajuga, Krzysztof;Renato Coppi;7;2.0
+1508;Jajuga, Krzysztof;Alain Guenoche;7;2.0
+1509;Jajuga, Krzysztof;Frank Klawonn;7;1.0
+1510;Jajuga, Krzysztof;Rudolf Kruse;7;1.0
+1511;Jajuga, Krzysztof;Vichi, Maurizio;7;1.0
+1512;Kiers, Henk;Braak, Cajo ter;7;1.0
+1513;Kiers, Henk;Groenen, Patrick J.F.;7;2.0
+1514;Kiers, Henk;McLachlan, Geoff;7;1.0
+1515;Kiers, Henk;Meulman, Jacqueline;7;1.0
+1516;Kiers, Henk;Rocci, Roberto;7;1.0
+1517;Kiers, Henk;Steinley, Doug;7;2.0
+1518;Kiers, Henk;Tibshirani, Robert;7;2.0
+1519;Kiers, Henk;Van Mechelen Iven;7;3.0
+1520;Kiers, Henk;Renato Coppi;7;2.0
+1521;Kiers, Henk;Verde, Rosanna;7;1.0
+1522;Kiers, Henk;Vichi, Maurizio;7;2.0
+1523;Kiers, Henk;Edvin Diday;7;1.0
+1524;Kuntz, Pascale;Bertrand, Patrice;7;1.0
+1525;Kuntz, Pascale;Verde, Rosanna;7;1.0
+1526;Lausen, Berthold;Hastie, Trevor;7;1.0
+1527;Lausen, Berthold;Leisch, Friedrich;7;1.0
+1528;Lausen, Berthold;Tibshirani, Robert;7;2.0
+1529;Lausen, Berthold;Rudolf Kruse;7;1.0
+1530;Leisch, Friedrich;Hastie, Trevor;7;2.0
+1531;Leisch, Friedrich;Hennig, Christian;7;3.0
+1532;Leisch, Friedrich;Lausen, Berthold;7;1.0
+1533;Leisch, Friedrich;McLachlan, Geoff;7;1.0
+1534;Leisch, Friedrich;Meulman, Jacqueline;7;1.0
+1535;Leisch, Friedrich;Tibshirani, Robert;7;3.0
+1536;Leisch, Friedrich;Paula Brito;7;2.0
+1537;Leisch, Friedrich;Gilles Celeux;7;2.0
+1538;Leisch, Friedrich;Vichi, Maurizio;7;4.0
+1539;Leisch, Friedrich;Adrian Raftery;7;4.0
+1540;Makarenkov, Vladimir;Batagelj, Vladimir;7;3.0
+1541;Makarenkov, Vladimir;Braak, Cajo ter;7;1.0
+1542;Makarenkov, Vladimir;Ferligoj, Anuska;7;3.0
+1543;Makarenkov, Vladimir;Groenen, Patrick J.F.;7;1.0
+1544;Makarenkov, Vladimir;Kiers, Henk;7;1.0
+1545;Makarenkov, Vladimir;McLachlan, Geoff;7;1.0
+1546;Makarenkov, Vladimir;Mirkin, Boris;7;1.0
+1547;Makarenkov, Vladimir;Tibshirani, Robert;7;1.0
+1548;Makarenkov, Vladimir;Alain Guenoche;7;1.0
+1549;McLachlan, Geoff;De Carvalho, Francisco De Assis Tenhorio;7;1.0
+1550;McLachlan, Geoff;Hastie, Trevor;7;5.0
+1551;McLachlan, Geoff;Hennig, Christian;7;3.0
+1552;McLachlan, Geoff;Meulman, Jacqueline;7;1.0
+1553;McLachlan, Geoff;Tibshirani, Robert;7;11.0
+1554;McLachlan, Geoff;Paula Brito;7;1.0
+1555;McLachlan, Geoff;Adrian Raftery;7;4.0
+1556;Meulman, Jacqueline;Groenen, Patrick J.F.;7;1.0
+1557;Meulman, Jacqueline;Leisch, Friedrich;7;1.0
+1558;Mirkin, Boris;Bertrand, Patrice;7;1.0
+1559;Mirkin, Boris;De Carvalho, Francisco De Assis Tenhorio;7;1.0
+1560;Mirkin, Boris;Gorban, Alexander N;7;1.0
+1561;Mirkin, Boris;Hastie, Trevor;7;1.0
+1562;Mirkin, Boris;Leisch, Friedrich;7;1.0
+1563;Mirkin, Boris;McLachlan, Geoff;7;1.0
+1564;Mirkin, Boris;Murtagh, Fionn;7;2.0
+1565;Mirkin, Boris;Steinley, Doug;7;1.0
+1566;Mirkin, Boris;Tibshirani, Robert;7;1.0
+1567;Mirkin, Boris;Paula Brito;7;1.0
+1568;Mirkin, Boris;Verde, Rosanna;7;1.0
+1569;Mirkin, Boris;Wolfgang A. Gaul;7;1.0
+1570;Mirkin, Boris;Wojtek J Krzanowski;7;1.0
+1571;Mirkin, Boris;Adrian Raftery;7;1.0
+1572;Murtagh, Fionn;Hastie, Trevor;7;2.0
+1573;Murtagh, Fionn;Mirkin, Boris;7;2.0
+1574;Murtagh, Fionn;Steinley, Doug;7;2.0
+1575;Murtagh, Fionn;Tibshirani, Robert;7;1.0
+1576;Murtagh, Fionn;Van Mechelen Iven;7;2.0
+1577;Murtagh, Fionn;Wolfgang A. Gaul;7;2.0
+1578;Murtagh, Fionn;Adrian Raftery;7;3.0
+1579;Palumbo, Francesco;Kiers, Henk;7;2.0
+1580;Palumbo, Francesco;Verde, Rosanna;7;2.0
+1581;Palumbo, Francesco;Vichi, Maurizio;7;1.0
+1582;Palumbo, Francesco;Gilbert Saporta;7;2.0
+1583;Riani, Marco;Hastie, Trevor;7;1.0
+1584;Riani, Marco;Hennig, Christian;7;1.0
+1585;Riani, Marco;Tibshirani, Robert;7;1.0
+1586;Riani, Marco;Paula Brito;7;1.0
+1587;Riani, Marco;Vichi, Maurizio;7;2.0
+1588;Riani, Marco;Wolfgang A. Gaul;7;1.0
+1589;Riani, Marco;Adrian Raftery;7;2.0
+1590;Rocci, Roberto;Kiers, Henk;7;1.0
+1591;Rocci, Roberto;Renato Coppi;7;1.0
+1592;Steinley, Doug;Batagelj, Vladimir;7;4.0
+1593;Steinley, Doug;Bertrand, Patrice;7;1.0
+1594;Steinley, Doug;De Carvalho, Francisco De Assis Tenhorio;7;1.0
+1595;Steinley, Doug;Ferligoj, Anuska;7;4.0
+1596;Steinley, Doug;Hastie, Trevor;7;2.0
+1597;Steinley, Doug;McLachlan, Geoff;7;3.0
+1598;Steinley, Doug;Meulman, Jacqueline;7;5.0
+1599;Steinley, Doug;Tibshirani, Robert;7;2.0
+1600;Steinley, Doug;Paula Brito;7;2.0
+1601;Steinley, Doug;Vermunt, Jeroen;7;1.0
+1602;Steinley, Doug;Wojtek J Krzanowski;7;1.0
+1603;Steinley, Doug;Adrian Raftery;7;3.0
+1604;Tibshirani, Robert;Hastie, Trevor;7;6.0
+1605;Tibshirani, Robert;McLachlan, Geoff;7;1.0
+1606;Tibshirani, Robert;Gilles Celeux;7;1.0
+1607;Tibshirani, Robert;Wolfgang A. Gaul;7;1.0
+1608;Tibshirani, Robert;Wojtek J Krzanowski;7;1.0
+1609;Van Mechelen Iven;Bertrand, Patrice;7;1.0
+1610;Van Mechelen Iven;Groenen, Patrick J.F.;7;1.0
+1611;Van Mechelen Iven;Kiers, Henk;7;6.0
+1612;Van Mechelen Iven;Vichi, Maurizio;7;1.0
+1613;Van Mechelen Iven;Gilbert Saporta;7;1.0
+1614;Van Mechelen Iven;Edvin Diday;7;1.0
+1615;Van Mechelen Iven;Adrian Raftery;7;2.0
+1616;Paula Brito;Bertrand, Patrice;7;1.0
+1617;Paula Brito;De Carvalho, Francisco De Assis Tenhorio;7;1.0
+1618;Paula Brito;Steinley, Doug;7;1.0
+1619;Gilles Celeux;Braak, Cajo ter;7;2.0
+1620;Gilles Celeux;Groenen, Patrick J.F.;7;1.0
+1621;Gilles Celeux;Hennig, Christian;7;1.0
+1622;Gilles Celeux;Jajuga, Krzysztof;7;1.0
+1623;Gilles Celeux;McLachlan, Geoff;7;1.0
+1624;Gilles Celeux;Meulman, Jacqueline;7;1.0
+1625;Gilles Celeux;Steinley, Doug;7;2.0
+1626;Gilles Celeux;Van Mechelen Iven;7;2.0
+1627;Gilles Celeux;Paula Brito;7;1.0
+1628;Gilles Celeux;Renato Coppi;7;2.0
+1629;Gilles Celeux;Alain Guenoche;7;1.0
+1630;Gilles Celeux;Rudolf Kruse;7;1.0
+1631;Renato Coppi;Batagelj, Vladimir;7;1.0
+1632;Renato Coppi;Braak, Cajo ter;7;2.0
+1633;Renato Coppi;Ferligoj, Anuska;7;1.0
+1634;Renato Coppi;Murtagh, Fionn;7;1.0
+1635;Renato Coppi;Steinley, Doug;7;2.0
+1636;Renato Coppi;Tibshirani, Robert;7;1.0
+1637;Renato Coppi;Rudolf Kruse;7;1.0
+1638;Renato Coppi;Edvin Diday;7;1.0
+1639;Alain Guenoche;Braak, Cajo ter;7;2.0
+1640;Alain Guenoche;Jajuga, Krzysztof;7;1.0
+1641;Frank Klawonn;Braak, Cajo ter;7;1.0
+1642;Frank Klawonn;Groenen, Patrick J.F.;7;3.0
+1643;Frank Klawonn;Hastie, Trevor;7;1.0
+1644;Frank Klawonn;Hennig, Christian;7;1.0
+1645;Frank Klawonn;Jajuga, Krzysztof;7;1.0
+1646;Frank Klawonn;McLachlan, Geoff;7;1.0
+1647;Frank Klawonn;Steinley, Doug;7;1.0
+1648;Frank Klawonn;Tibshirani, Robert;7;1.0
+1649;Frank Klawonn;Van Mechelen Iven;7;1.0
+1650;Rudolf Kruse;Bodjanova, Slavka;7;1.0
+1651;Rudolf Kruse;Braak, Cajo ter;7;1.0
+1652;Rudolf Kruse;Groenen, Patrick J.F.;7;2.0
+1653;Rudolf Kruse;Hruschka, Harald;7;1.0
+1654;Rudolf Kruse;Steinley, Doug;7;1.0
+1655;Rudolf Kruse;Tibshirani, Robert;7;1.0
+1656;Rudolf Kruse;Paula Brito;7;1.0
+1657;Verde, Rosanna;Bertrand, Patrice;7;1.0
+1658;Verde, Rosanna;De Carvalho, Francisco De Assis Tenhorio;7;1.0
+1659;Verde, Rosanna;Ferligoj, Anuska;7;3.0
+1660;Verde, Rosanna;Gilbert Saporta;7;1.0
+1661;Verde, Rosanna;Edvin Diday;7;1.0
+1662;Verde, Rosanna;Adrian Raftery;7;1.0
+1663;Vermunt, Jeroen;Batagelj, Vladimir;7;2.0
+1664;Vermunt, Jeroen;Braak, Cajo ter;7;1.0
+1665;Vermunt, Jeroen;Ferligoj, Anuska;7;2.0
+1666;Vermunt, Jeroen;Lausen, Berthold;7;1.0
+1667;Vichi, Maurizio;Kiers, Henk;7;1.0
+1668;Vichi, Maurizio;Lausen, Berthold;7;1.0
+1669;Vichi, Maurizio;Meulman, Jacqueline;7;1.0
+1670;Vichi, Maurizio;Steinley, Doug;7;1.0
+1671;Vichi, Maurizio;Gilbert Saporta;7;1.0
+1672;Vichi, Maurizio;Edvin Diday;7;1.0
+1673;Wolfgang A. Gaul;Meulman, Jacqueline;7;1.0
+1674;Wolfgang A. Gaul;Frank Klawonn;7;1.0
+1675;Wolfgang A. Gaul;Rudolf Kruse;7;1.0
+1676;Wojtek J Krzanowski;Hastie, Trevor;7;1.0
+1677;Wojtek J Krzanowski;McLachlan, Geoff;7;1.0
+1678;Wojtek J Krzanowski;Steinley, Doug;7;1.0
+1679;Wojtek J Krzanowski;Tibshirani, Robert;7;1.0
+1680;Gilbert Saporta;Bertrand, Patrice;7;1.0
+1681;Gilbert Saporta;De Carvalho, Francisco De Assis Tenhorio;7;1.0
+1682;Gilbert Saporta;Groenen, Patrick J.F.;7;2.0
+1683;Gilbert Saporta;Hennig, Christian;7;1.0
+1684;Gilbert Saporta;Kiers, Henk;7;1.0
+1685;Gilbert Saporta;Lausen, Berthold;7;1.0
+1686;Gilbert Saporta;McLachlan, Geoff;7;1.0
+1687;Gilbert Saporta;Mirkin, Boris;7;1.0
+1688;Gilbert Saporta;Riani, Marco;7;2.0
+1689;Gilbert Saporta;Rocci, Roberto;7;1.0
+1690;Gilbert Saporta;Paula Brito;7;1.0
+1691;Gilbert Saporta;Gilles Celeux;7;1.0
+1692;Gilbert Saporta;Vermunt, Jeroen;7;1.0
+1693;Gilbert Saporta;Vichi, Maurizio;7;1.0
+1694;Gilbert Saporta;Edvin Diday;7;1.0
+1695;Edvin Diday;Hastie, Trevor;7;1.0
+1696;Edvin Diday;Tibshirani, Robert;7;1.0
+1697;Adrian Raftery;Batagelj, Vladimir;7;1.0
+1698;Adrian Raftery;Groenen, Patrick J.F.;7;1.0
+1699;Adrian Raftery;Hastie, Trevor;7;1.0
+1700;Adrian Raftery;McLachlan, Geoff;7;1.0
+1701;Adrian Raftery;Palumbo, Francesco;7;1.0
+1702;Adrian Raftery;Tibshirani, Robert;7;1.0
+1703;Adrian Raftery;Gilles Celeux;7;1.0
+1704;Adrian Raftery;Frank Klawonn;7;1.0
+1705;Adrian Raftery;Rudolf Kruse;7;1.0
+1706;Adrian Raftery;Verde, Rosanna;7;1.0
+1707;Adrian Raftery;Vermunt, Jeroen;7;1.0
+1708;Adrian Raftery;Wojtek J Krzanowski;7;1.0
+1709;Batagelj, Vladimir;Bertrand, Patrice;8;1.0
+1710;Batagelj, Vladimir;De Carvalho, Francisco De Assis Tenhorio;8;2.0
+1711;Batagelj, Vladimir;Ferligoj, Anuska;8;3.0
+1712;Batagelj, Vladimir;Steinley, Doug;8;1.0
+1713;Batagelj, Vladimir;Paula Brito;8;2.0
+1714;Batagelj, Vladimir;Rudolf Kruse;8;1.0
+1715;Batagelj, Vladimir;Verde, Rosanna;8;1.0
+1716;Batagelj, Vladimir;Wolfgang A. Gaul;8;2.0
+1717;Batagelj, Vladimir;Edvin Diday;8;2.0
+1718;Batagelj, Vladimir;Adrian Raftery;8;1.0
+1719;Bertrand, Patrice;De Carvalho, Francisco De Assis Tenhorio;8;2.0
+1720;Bertrand, Patrice;Groenen, Patrick J.F.;8;1.0
+1721;Bertrand, Patrice;Hastie, Trevor;8;1.0
+1722;Bertrand, Patrice;Hennig, Christian;8;1.0
+1723;Bertrand, Patrice;Jajuga, Krzysztof;8;1.0
+1724;Bertrand, Patrice;Leisch, Friedrich;8;1.0
+1725;Bertrand, Patrice;Tibshirani, Robert;8;1.0
+1726;Bertrand, Patrice;Paula Brito;8;1.0
+1727;Bertrand, Patrice;Verde, Rosanna;8;1.0
+1728;Bertrand, Patrice;Wojtek J Krzanowski;8;1.0
+1729;Bertrand, Patrice;Edvin Diday;8;2.0
+1730;Bertrand, Patrice;Adrian Raftery;8;1.0
+1731;Bodjanova, Slavka;Rudolf Kruse;8;1.0
+1732;Braak, Cajo ter;Kiers, Henk;8;1.0
+1733;Braak, Cajo ter;Tibshirani, Robert;8;3.0
+1734;Braak, Cajo ter;Renato Coppi;8;1.0
+1735;Braak, Cajo ter;Adrian Raftery;8;1.0
+1736;De Carvalho, Francisco De Assis Tenhorio;Bertrand, Patrice;8;2.0
+1737;De Carvalho, Francisco De Assis Tenhorio;Groenen, Patrick J.F.;8;2.0
+1738;De Carvalho, Francisco De Assis Tenhorio;Hastie, Trevor;8;2.0
+1739;De Carvalho, Francisco De Assis Tenhorio;Jajuga, Krzysztof;8;3.0
+1740;De Carvalho, Francisco De Assis Tenhorio;McLachlan, Geoff;8;2.0
+1741;De Carvalho, Francisco De Assis Tenhorio;Meulman, Jacqueline;8;1.0
+1742;De Carvalho, Francisco De Assis Tenhorio;Murtagh, Fionn;8;1.0
+1743;De Carvalho, Francisco De Assis Tenhorio;Palumbo, Francesco;8;2.0
+1744;De Carvalho, Francisco De Assis Tenhorio;Steinley, Doug;8;2.0
+1745;De Carvalho, Francisco De Assis Tenhorio;Tibshirani, Robert;8;1.0
+1746;De Carvalho, Francisco De Assis Tenhorio;Paula Brito;8;5.0
+1747;De Carvalho, Francisco De Assis Tenhorio;Gilles Celeux;8;2.0
+1748;De Carvalho, Francisco De Assis Tenhorio;Verde, Rosanna;8;2.0
+1749;De Carvalho, Francisco De Assis Tenhorio;Vichi, Maurizio;8;2.0
+1750;De Carvalho, Francisco De Assis Tenhorio;Wolfgang A. Gaul;8;2.0
+1751;De Carvalho, Francisco De Assis Tenhorio;Edvin Diday;8;2.0
+1752;Ferligoj, Anuska;Batagelj, Vladimir;8;8.0
+1753;Ferligoj, Anuska;Bertrand, Patrice;8;1.0
+1754;Ferligoj, Anuska;De Carvalho, Francisco De Assis Tenhorio;8;1.0
+1755;Ferligoj, Anuska;Steinley, Doug;8;4.0
+1756;Ferligoj, Anuska;Paula Brito;8;1.0
+1757;Ferligoj, Anuska;Wolfgang A. Gaul;8;2.0
+1758;Ferligoj, Anuska;Gilbert Saporta;8;2.0
+1759;Ferligoj, Anuska;Adrian Raftery;8;2.0
+1760;Geyer-Schulz, Andreas;Groenen, Patrick J.F.;8;1.0
+1761;Geyer-Schulz, Andreas;Hennig, Christian;8;1.0
+1762;Geyer-Schulz, Andreas;Kuntz, Pascale;8;1.0
+1763;Geyer-Schulz, Andreas;McLachlan, Geoff;8;1.0
+1764;Geyer-Schulz, Andreas;Meulman, Jacqueline;8;1.0
+1765;Geyer-Schulz, Andreas;Tibshirani, Robert;8;1.0
+1766;Geyer-Schulz, Andreas;Paula Brito;8;1.0
+1767;Geyer-Schulz, Andreas;Frank Klawonn;8;2.0
+1768;Geyer-Schulz, Andreas;Rudolf Kruse;8;2.0
+1769;Geyer-Schulz, Andreas;Vermunt, Jeroen;8;1.0
+1770;Geyer-Schulz, Andreas;Vichi, Maurizio;8;1.0
+1771;Geyer-Schulz, Andreas;Wolfgang A. Gaul;8;2.0
+1772;Geyer-Schulz, Andreas;Edvin Diday;8;1.0
+1773;Gorban, Alexander N;Bertrand, Patrice;8;2.0
+1774;Groenen, Patrick J.F.;Batagelj, Vladimir;8;1.0
+1775;Groenen, Patrick J.F.;Bertrand, Patrice;8;2.0
+1776;Groenen, Patrick J.F.;Braak, Cajo ter;8;1.0
+1777;Groenen, Patrick J.F.;De Carvalho, Francisco De Assis Tenhorio;8;3.0
+1778;Groenen, Patrick J.F.;Hastie, Trevor;8;3.0
+1779;Groenen, Patrick J.F.;Hennig, Christian;8;3.0
+1780;Groenen, Patrick J.F.;Kiers, Henk;8;1.0
+1781;Groenen, Patrick J.F.;Kuntz, Pascale;8;1.0
+1782;Groenen, Patrick J.F.;Leisch, Friedrich;8;3.0
+1783;Groenen, Patrick J.F.;Makarenkov, Vladimir;8;1.0
+1784;Groenen, Patrick J.F.;Meulman, Jacqueline;8;2.0
+1785;Groenen, Patrick J.F.;Palumbo, Francesco;8;1.0
+1786;Groenen, Patrick J.F.;Steinley, Doug;8;1.0
+1787;Groenen, Patrick J.F.;Tibshirani, Robert;8;4.0
+1788;Groenen, Patrick J.F.;Paula Brito;8;2.0
+1789;Groenen, Patrick J.F.;Renato Coppi;8;1.0
+1790;Groenen, Patrick J.F.;Alain Guenoche;8;2.0
+1791;Groenen, Patrick J.F.;Verde, Rosanna;8;2.0
+1792;Groenen, Patrick J.F.;Vermunt, Jeroen;8;1.0
+1793;Groenen, Patrick J.F.;Wolfgang A. Gaul;8;1.0
+1794;Groenen, Patrick J.F.;Edvin Diday;8;1.0
+1795;Groenen, Patrick J.F.;Adrian Raftery;8;1.0
+1796;Hastie, Trevor;Paula Brito;8;1.0
+1797;Hastie, Trevor;Wojtek J Krzanowski;8;1.0
+1798;Hennig, Christian;Bertrand, Patrice;8;1.0
+1799;Hennig, Christian;Hastie, Trevor;8;2.0
+1800;Hennig, Christian;Hruschka, Harald;8;1.0
+1801;Hennig, Christian;Kiers, Henk;8;1.0
+1802;Hennig, Christian;Leisch, Friedrich;8;1.0
+1803;Hennig, Christian;McLachlan, Geoff;8;1.0
+1804;Hennig, Christian;Mirkin, Boris;8;1.0
+1805;Hennig, Christian;Rocci, Roberto;8;1.0
+1806;Hennig, Christian;Steinley, Doug;8;1.0
+1807;Hennig, Christian;Tibshirani, Robert;8;2.0
+1808;Hennig, Christian;Paula Brito;8;1.0
+1809;Hennig, Christian;Alain Guenoche;8;1.0
+1810;Hennig, Christian;Rudolf Kruse;8;1.0
+1811;Hennig, Christian;Verde, Rosanna;8;1.0
+1812;Hennig, Christian;Vermunt, Jeroen;8;1.0
+1813;Hennig, Christian;Wolfgang A. Gaul;8;2.0
+1814;Hennig, Christian;Wojtek J Krzanowski;8;1.0
+1815;Hennig, Christian;Edvin Diday;8;1.0
+1816;Hennig, Christian;Adrian Raftery;8;4.0
+1817;Hruschka, Harald;Hastie, Trevor;8;3.0
+1818;Hruschka, Harald;Tibshirani, Robert;8;3.0
+1819;Hruschka, Harald;Wolfgang A. Gaul;8;1.0
+1820;Jajuga, Krzysztof;Batagelj, Vladimir;8;1.0
+1821;Jajuga, Krzysztof;Bertrand, Patrice;8;1.0
+1822;Jajuga, Krzysztof;Bodjanova, Slavka;8;1.0
+1823;Jajuga, Krzysztof;De Carvalho, Francisco De Assis Tenhorio;8;1.0
+1824;Jajuga, Krzysztof;Ferligoj, Anuska;8;1.0
+1825;Jajuga, Krzysztof;Groenen, Patrick J.F.;8;1.0
+1826;Jajuga, Krzysztof;Hennig, Christian;8;1.0
+1827;Jajuga, Krzysztof;Kiers, Henk;8;1.0
+1828;Jajuga, Krzysztof;Lausen, Berthold;8;1.0
+1829;Jajuga, Krzysztof;Makarenkov, Vladimir;8;1.0
+1830;Jajuga, Krzysztof;Murtagh, Fionn;8;1.0
+1831;Jajuga, Krzysztof;Rocci, Roberto;8;1.0
+1832;Jajuga, Krzysztof;Tibshirani, Robert;8;1.0
+1833;Jajuga, Krzysztof;Alain Guenoche;8;1.0
+1834;Jajuga, Krzysztof;Vichi, Maurizio;8;1.0
+1835;Jajuga, Krzysztof;Wolfgang A. Gaul;8;1.0
+1836;Jajuga, Krzysztof;Gilbert Saporta;8;1.0
+1837;Jajuga, Krzysztof;Edvin Diday;8;1.0
+1838;Kiers, Henk;Batagelj, Vladimir;8;1.0
+1839;Kiers, Henk;Bertrand, Patrice;8;1.0
+1840;Kiers, Henk;Braak, Cajo ter;8;1.0
+1841;Kiers, Henk;De Carvalho, Francisco De Assis Tenhorio;8;1.0
+1842;Kiers, Henk;Groenen, Patrick J.F.;8;4.0
+1843;Kiers, Henk;Hennig, Christian;8;2.0
+1844;Kiers, Henk;Kuntz, Pascale;8;1.0
+1845;Kiers, Henk;Lausen, Berthold;8;1.0
+1846;Kiers, Henk;Makarenkov, Vladimir;8;1.0
+1847;Kiers, Henk;Meulman, Jacqueline;8;1.0
+1848;Kiers, Henk;Mirkin, Boris;8;1.0
+1849;Kiers, Henk;Palumbo, Francesco;8;1.0
+1850;Kiers, Henk;Riani, Marco;8;1.0
+1851;Kiers, Henk;Rocci, Roberto;8;1.0
+1852;Kiers, Henk;Tibshirani, Robert;8;1.0
+1853;Kiers, Henk;Van Mechelen Iven;8;3.0
+1854;Kiers, Henk;Paula Brito;8;1.0
+1855;Kiers, Henk;Renato Coppi;8;2.0
+1856;Kiers, Henk;Alain Guenoche;8;1.0
+1857;Kiers, Henk;Verde, Rosanna;8;1.0
+1858;Kiers, Henk;Vermunt, Jeroen;8;1.0
+1859;Kiers, Henk;Vichi, Maurizio;8;2.0
+1860;Kiers, Henk;Wolfgang A. Gaul;8;1.0
+1861;Kiers, Henk;Edvin Diday;8;1.0
+1862;Kuntz, Pascale;Murtagh, Fionn;8;1.0
+1863;Kuntz, Pascale;Alain Guenoche;8;1.0
+1864;Lausen, Berthold;Braak, Cajo ter;8;1.0
+1865;Lausen, Berthold;Groenen, Patrick J.F.;8;1.0
+1866;Lausen, Berthold;Hastie, Trevor;8;2.0
+1867;Lausen, Berthold;Hennig, Christian;8;1.0
+1868;Lausen, Berthold;Leisch, Friedrich;8;2.0
+1869;Lausen, Berthold;Steinley, Doug;8;1.0
+1870;Lausen, Berthold;Tibshirani, Robert;8;2.0
+1871;Lausen, Berthold;Rudolf Kruse;8;1.0
+1872;Lausen, Berthold;Vermunt, Jeroen;8;1.0
+1873;Lausen, Berthold;Edvin Diday;8;1.0
+1874;Leisch, Friedrich;Hastie, Trevor;8;5.0
+1875;Leisch, Friedrich;Hennig, Christian;8;3.0
+1876;Leisch, Friedrich;McLachlan, Geoff;8;1.0
+1877;Leisch, Friedrich;Tibshirani, Robert;8;5.0
+1878;Leisch, Friedrich;Paula Brito;8;3.0
+1879;Leisch, Friedrich;Gilles Celeux;8;1.0
+1880;Leisch, Friedrich;Vermunt, Jeroen;8;1.0
+1881;Leisch, Friedrich;Adrian Raftery;8;2.0
+1882;Makarenkov, Vladimir;Batagelj, Vladimir;8;1.0
+1883;Makarenkov, Vladimir;Braak, Cajo ter;8;1.0
+1884;Makarenkov, Vladimir;Ferligoj, Anuska;8;1.0
+1885;Makarenkov, Vladimir;Groenen, Patrick J.F.;8;1.0
+1886;Makarenkov, Vladimir;Hennig, Christian;8;1.0
+1887;Makarenkov, Vladimir;Kiers, Henk;8;1.0
+1888;Makarenkov, Vladimir;Lausen, Berthold;8;1.0
+1889;Makarenkov, Vladimir;Mirkin, Boris;8;2.0
+1890;Makarenkov, Vladimir;Alain Guenoche;8;2.0
+1891;McLachlan, Geoff;Bertrand, Patrice;8;1.0
+1892;McLachlan, Geoff;Hastie, Trevor;8;4.0
+1893;McLachlan, Geoff;Leisch, Friedrich;8;2.0
+1894;McLachlan, Geoff;Steinley, Doug;8;1.0
+1895;McLachlan, Geoff;Tibshirani, Robert;8;6.0
+1896;McLachlan, Geoff;Gilles Celeux;8;3.0
+1897;McLachlan, Geoff;Rudolf Kruse;8;1.0
+1898;McLachlan, Geoff;Adrian Raftery;8;7.0
+1899;Meulman, Jacqueline;Braak, Cajo ter;8;1.0
+1900;Meulman, Jacqueline;De Carvalho, Francisco De Assis Tenhorio;8;2.0
+1901;Meulman, Jacqueline;Groenen, Patrick J.F.;8;2.0
+1902;Meulman, Jacqueline;Hastie, Trevor;8;2.0
+1903;Meulman, Jacqueline;Kiers, Henk;8;1.0
+1904;Meulman, Jacqueline;Tibshirani, Robert;8;3.0
+1905;Meulman, Jacqueline;Edvin Diday;8;1.0
+1906;Meulman, Jacqueline;Adrian Raftery;8;1.0
+1907;Mirkin, Boris;Bertrand, Patrice;8;1.0
+1908;Mirkin, Boris;Gorban, Alexander N;8;1.0
+1909;Mirkin, Boris;Groenen, Patrick J.F.;8;1.0
+1910;Mirkin, Boris;Hastie, Trevor;8;2.0
+1911;Mirkin, Boris;Hennig, Christian;8;1.0
+1912;Mirkin, Boris;Makarenkov, Vladimir;8;1.0
+1913;Mirkin, Boris;McLachlan, Geoff;8;3.0
+1914;Mirkin, Boris;Murtagh, Fionn;8;4.0
+1915;Mirkin, Boris;Steinley, Doug;8;2.0
+1916;Mirkin, Boris;Tibshirani, Robert;8;4.0
+1917;Mirkin, Boris;Gilles Celeux;8;1.0
+1918;Mirkin, Boris;Rudolf Kruse;8;1.0
+1919;Mirkin, Boris;Wojtek J Krzanowski;8;1.0
+1920;Mirkin, Boris;Edvin Diday;8;1.0
+1921;Mirkin, Boris;Adrian Raftery;8;1.0
+1922;Murtagh, Fionn;Batagelj, Vladimir;8;1.0
+1923;Murtagh, Fionn;Hastie, Trevor;8;2.0
+1924;Murtagh, Fionn;Hennig, Christian;8;2.0
+1925;Murtagh, Fionn;Hruschka, Harald;8;1.0
+1926;Murtagh, Fionn;McLachlan, Geoff;8;1.0
+1927;Murtagh, Fionn;Mirkin, Boris;8;9.0
+1928;Murtagh, Fionn;Rocci, Roberto;8;1.0
+1929;Murtagh, Fionn;Steinley, Doug;8;1.0
+1930;Murtagh, Fionn;Tibshirani, Robert;8;1.0
+1931;Murtagh, Fionn;Vichi, Maurizio;8;1.0
+1932;Murtagh, Fionn;Wolfgang A. Gaul;8;3.0
+1933;Murtagh, Fionn;Gilbert Saporta;8;1.0
+1934;Murtagh, Fionn;Edvin Diday;8;1.0
+1935;Murtagh, Fionn;Adrian Raftery;8;5.0
+1936;Palumbo, Francesco;Bertrand, Patrice;8;1.0
+1937;Palumbo, Francesco;De Carvalho, Francisco De Assis Tenhorio;8;1.0
+1938;Palumbo, Francesco;Groenen, Patrick J.F.;8;1.0
+1939;Palumbo, Francesco;Kiers, Henk;8;3.0
+1940;Palumbo, Francesco;Kuntz, Pascale;8;1.0
+1941;Palumbo, Francesco;Meulman, Jacqueline;8;2.0
+1942;Palumbo, Francesco;Mirkin, Boris;8;1.0
+1943;Palumbo, Francesco;Verde, Rosanna;8;1.0
+1944;Palumbo, Francesco;Vichi, Maurizio;8;1.0
+1945;Palumbo, Francesco;Wojtek J Krzanowski;8;1.0
+1946;Palumbo, Francesco;Gilbert Saporta;8;1.0
+1947;Palumbo, Francesco;Adrian Raftery;8;1.0
+1948;Riani, Marco;Groenen, Patrick J.F.;8;1.0
+1949;Riani, Marco;Hastie, Trevor;8;1.0
+1950;Riani, Marco;Rocci, Roberto;8;1.0
+1951;Riani, Marco;Tibshirani, Robert;8;1.0
+1952;Riani, Marco;Vichi, Maurizio;8;1.0
+1953;Riani, Marco;Wolfgang A. Gaul;8;1.0
+1954;Riani, Marco;Adrian Raftery;8;1.0
+1955;Rocci, Roberto;Bertrand, Patrice;8;1.0
+1956;Rocci, Roberto;Groenen, Patrick J.F.;8;1.0
+1957;Rocci, Roberto;Hastie, Trevor;8;1.0
+1958;Rocci, Roberto;Hennig, Christian;8;2.0
+1959;Rocci, Roberto;Hruschka, Harald;8;1.0
+1960;Rocci, Roberto;Kiers, Henk;8;3.0
+1961;Rocci, Roberto;Lausen, Berthold;8;1.0
+1962;Rocci, Roberto;McLachlan, Geoff;8;2.0
+1963;Rocci, Roberto;Meulman, Jacqueline;8;1.0
+1964;Rocci, Roberto;Mirkin, Boris;8;1.0
+1965;Rocci, Roberto;Murtagh, Fionn;8;1.0
+1966;Rocci, Roberto;Palumbo, Francesco;8;3.0
+1967;Rocci, Roberto;Riani, Marco;8;1.0
+1968;Rocci, Roberto;Tibshirani, Robert;8;1.0
+1969;Rocci, Roberto;Gilles Celeux;8;1.0
+1970;Rocci, Roberto;Renato Coppi;8;2.0
+1971;Rocci, Roberto;Verde, Rosanna;8;1.0
+1972;Rocci, Roberto;Vermunt, Jeroen;8;1.0
+1973;Rocci, Roberto;Vichi, Maurizio;8;5.0
+1974;Rocci, Roberto;Wolfgang A. Gaul;8;2.0
+1975;Rocci, Roberto;Gilbert Saporta;8;2.0
+1976;Rocci, Roberto;Edvin Diday;8;5.0
+1977;Rocci, Roberto;Adrian Raftery;8;1.0
+1978;Steinley, Doug;Batagelj, Vladimir;8;3.0
+1979;Steinley, Doug;Ferligoj, Anuska;8;3.0
+1980;Steinley, Doug;Groenen, Patrick J.F.;8;4.0
+1981;Steinley, Doug;Hastie, Trevor;8;4.0
+1982;Steinley, Doug;Hennig, Christian;8;2.0
+1983;Steinley, Doug;Kiers, Henk;8;2.0
+1984;Steinley, Doug;Leisch, Friedrich;8;2.0
+1985;Steinley, Doug;McLachlan, Geoff;8;8.0
+1986;Steinley, Doug;Meulman, Jacqueline;8;3.0
+1987;Steinley, Doug;Tibshirani, Robert;8;4.0
+1988;Steinley, Doug;Gilles Celeux;8;2.0
+1989;Steinley, Doug;Vermunt, Jeroen;8;5.0
+1990;Steinley, Doug;Vichi, Maurizio;8;2.0
+1991;Steinley, Doug;Wolfgang A. Gaul;8;2.0
+1992;Steinley, Doug;Wojtek J Krzanowski;8;2.0
+1993;Steinley, Doug;Edvin Diday;8;1.0
+1994;Steinley, Doug;Adrian Raftery;8;6.0
+1995;Tibshirani, Robert;Groenen, Patrick J.F.;8;1.0
+1996;Tibshirani, Robert;Hastie, Trevor;8;4.0
+1997;Tibshirani, Robert;McLachlan, Geoff;8;3.0
+1998;Tibshirani, Robert;Meulman, Jacqueline;8;2.0
+1999;Tibshirani, Robert;Murtagh, Fionn;8;1.0
+2000;Tibshirani, Robert;Palumbo, Francesco;8;1.0
+2001;Tibshirani, Robert;Gilles Celeux;8;1.0
+2002;Tibshirani, Robert;Wolfgang A. Gaul;8;1.0
+2003;Tibshirani, Robert;Wojtek J Krzanowski;8;1.0
+2004;Tibshirani, Robert;Adrian Raftery;8;1.0
+2005;Van Mechelen Iven;Bertrand, Patrice;8;1.0
+2006;Van Mechelen Iven;Groenen, Patrick J.F.;8;1.0
+2007;Van Mechelen Iven;Hastie, Trevor;8;1.0
+2008;Van Mechelen Iven;Hennig, Christian;8;1.0
+2009;Van Mechelen Iven;Kiers, Henk;8;5.0
+2010;Van Mechelen Iven;Mirkin, Boris;8;3.0
+2011;Van Mechelen Iven;Rocci, Roberto;8;1.0
+2012;Van Mechelen Iven;Steinley, Doug;8;2.0
+2013;Van Mechelen Iven;Tibshirani, Robert;8;2.0
+2014;Van Mechelen Iven;Vichi, Maurizio;8;1.0
+2015;Van Mechelen Iven;Wolfgang A. Gaul;8;1.0
+2016;Van Mechelen Iven;Wojtek J Krzanowski;8;1.0
+2017;Van Mechelen Iven;Edvin Diday;8;1.0
+2018;Paula Brito;Batagelj, Vladimir;8;2.0
+2019;Paula Brito;Bertrand, Patrice;8;1.0
+2020;Paula Brito;De Carvalho, Francisco De Assis Tenhorio;8;5.0
+2021;Paula Brito;Ferligoj, Anuska;8;1.0
+2022;Paula Brito;Groenen, Patrick J.F.;8;1.0
+2023;Paula Brito;Hennig, Christian;8;1.0
+2024;Paula Brito;Jajuga, Krzysztof;8;1.0
+2025;Paula Brito;Kiers, Henk;8;1.0
+2026;Paula Brito;McLachlan, Geoff;8;1.0
+2027;Paula Brito;Palumbo, Francesco;8;3.0
+2028;Paula Brito;Vichi, Maurizio;8;2.0
+2029;Paula Brito;Edvin Diday;8;1.0
+2030;Gilles Celeux;Hastie, Trevor;8;1.0
+2031;Gilles Celeux;Hennig, Christian;8;1.0
+2032;Gilles Celeux;Leisch, Friedrich;8;1.0
+2033;Gilles Celeux;McLachlan, Geoff;8;2.0
+2034;Gilles Celeux;Tibshirani, Robert;8;1.0
+2035;Gilles Celeux;Adrian Raftery;8;1.0
+2036;Renato Coppi;Tibshirani, Robert;8;1.0
+2037;Alain Guenoche;Braak, Cajo ter;8;1.0
+2038;Alain Guenoche;Groenen, Patrick J.F.;8;1.0
+2039;Alain Guenoche;Mirkin, Boris;8;1.0
+2040;Alain Guenoche;Gilles Celeux;8;1.0
+2041;Alain Guenoche;Edvin Diday;8;1.0
+2042;Frank Klawonn;Bertrand, Patrice;8;1.0
+2043;Frank Klawonn;De Carvalho, Francisco De Assis Tenhorio;8;1.0
+2044;Frank Klawonn;Leisch, Friedrich;8;1.0
+2045;Frank Klawonn;Adrian Raftery;8;1.0
+2046;Rudolf Kruse;Braak, Cajo ter;8;1.0
+2047;Rudolf Kruse;Lausen, Berthold;8;1.0
+2048;Rudolf Kruse;Edvin Diday;8;1.0
+2049;Verde, Rosanna;De Carvalho, Francisco De Assis Tenhorio;8;1.0
+2050;Verde, Rosanna;Ferligoj, Anuska;8;2.0
+2051;Verde, Rosanna;Kuntz, Pascale;8;1.0
+2052;Verde, Rosanna;Lausen, Berthold;8;1.0
+2053;Verde, Rosanna;Makarenkov, Vladimir;8;1.0
+2054;Verde, Rosanna;Meulman, Jacqueline;8;1.0
+2055;Verde, Rosanna;Riani, Marco;8;1.0
+2056;Verde, Rosanna;Rocci, Roberto;8;2.0
+2057;Verde, Rosanna;Gilles Celeux;8;1.0
+2058;Verde, Rosanna;Alain Guenoche;8;1.0
+2059;Verde, Rosanna;Rudolf Kruse;8;1.0
+2060;Verde, Rosanna;Vichi, Maurizio;8;1.0
+2061;Verde, Rosanna;Adrian Raftery;8;1.0
+2062;Vermunt, Jeroen;Lausen, Berthold;8;2.0
+2063;Vermunt, Jeroen;McLachlan, Geoff;8;1.0
+2064;Vermunt, Jeroen;Steinley, Doug;8;2.0
+2065;Vermunt, Jeroen;Tibshirani, Robert;8;1.0
+2066;Vermunt, Jeroen;Gilles Celeux;8;1.0
+2067;Vermunt, Jeroen;Rudolf Kruse;8;1.0
+2068;Vichi, Maurizio;Bertrand, Patrice;8;1.0
+2069;Vichi, Maurizio;De Carvalho, Francisco De Assis Tenhorio;8;2.0
+2070;Vichi, Maurizio;Geyer-Schulz, Andreas;8;1.0
+2071;Vichi, Maurizio;Hastie, Trevor;8;1.0
+2072;Vichi, Maurizio;Hennig, Christian;8;1.0
+2073;Vichi, Maurizio;Jajuga, Krzysztof;8;1.0
+2074;Vichi, Maurizio;Kiers, Henk;8;1.0
+2075;Vichi, Maurizio;Kuntz, Pascale;8;1.0
+2076;Vichi, Maurizio;Lausen, Berthold;8;1.0
+2077;Vichi, Maurizio;Makarenkov, Vladimir;8;1.0
+2078;Vichi, Maurizio;McLachlan, Geoff;8;1.0
+2079;Vichi, Maurizio;Meulman, Jacqueline;8;1.0
+2080;Vichi, Maurizio;Murtagh, Fionn;8;1.0
+2081;Vichi, Maurizio;Palumbo, Francesco;8;1.0
+2082;Vichi, Maurizio;Riani, Marco;8;2.0
+2083;Vichi, Maurizio;Rocci, Roberto;8;2.0
+2084;Vichi, Maurizio;Tibshirani, Robert;8;1.0
+2085;Vichi, Maurizio;Van Mechelen Iven;8;1.0
+2086;Vichi, Maurizio;Alain Guenoche;8;1.0
+2087;Vichi, Maurizio;Verde, Rosanna;8;2.0
+2088;Vichi, Maurizio;Vermunt, Jeroen;8;1.0
+2089;Vichi, Maurizio;Wolfgang A. Gaul;8;1.0
+2090;Vichi, Maurizio;Gilbert Saporta;8;1.0
+2091;Vichi, Maurizio;Edvin Diday;8;2.0
+2092;Wolfgang A. Gaul;Batagelj, Vladimir;8;1.0
+2093;Wolfgang A. Gaul;Bertrand, Patrice;8;2.0
+2094;Wolfgang A. Gaul;De Carvalho, Francisco De Assis Tenhorio;8;2.0
+2095;Wolfgang A. Gaul;Ferligoj, Anuska;8;2.0
+2096;Wolfgang A. Gaul;Geyer-Schulz, Andreas;8;2.0
+2097;Wolfgang A. Gaul;Groenen, Patrick J.F.;8;2.0
+2098;Wolfgang A. Gaul;Hruschka, Harald;8;1.0
+2099;Wolfgang A. Gaul;Jajuga, Krzysztof;8;2.0
+2100;Wolfgang A. Gaul;Kiers, Henk;8;2.0
+2101;Wolfgang A. Gaul;Kuntz, Pascale;8;1.0
+2102;Wolfgang A. Gaul;Lausen, Berthold;8;2.0
+2103;Wolfgang A. Gaul;Makarenkov, Vladimir;8;1.0
+2104;Wolfgang A. Gaul;McLachlan, Geoff;8;1.0
+2105;Wolfgang A. Gaul;Meulman, Jacqueline;8;3.0
+2106;Wolfgang A. Gaul;Mirkin, Boris;8;1.0
+2107;Wolfgang A. Gaul;Murtagh, Fionn;8;2.0
+2108;Wolfgang A. Gaul;Riani, Marco;8;1.0
+2109;Wolfgang A. Gaul;Rocci, Roberto;8;2.0
+2110;Wolfgang A. Gaul;Steinley, Doug;8;1.0
+2111;Wolfgang A. Gaul;Van Mechelen Iven;8;1.0
+2112;Wolfgang A. Gaul;Paula Brito;8;1.0
+2113;Wolfgang A. Gaul;Alain Guenoche;8;1.0
+2114;Wolfgang A. Gaul;Frank Klawonn;8;1.0
+2115;Wolfgang A. Gaul;Rudolf Kruse;8;1.0
+2116;Wolfgang A. Gaul;Verde, Rosanna;8;2.0
+2117;Wolfgang A. Gaul;Vermunt, Jeroen;8;1.0
+2118;Wolfgang A. Gaul;Wojtek J Krzanowski;8;1.0
+2119;Wolfgang A. Gaul;Gilbert Saporta;8;1.0
+2120;Wolfgang A. Gaul;Edvin Diday;8;2.0
+2121;Wojtek J Krzanowski;Braak, Cajo ter;8;1.0
+2122;Wojtek J Krzanowski;De Carvalho, Francisco De Assis Tenhorio;8;1.0
+2123;Wojtek J Krzanowski;Groenen, Patrick J.F.;8;1.0
+2124;Wojtek J Krzanowski;McLachlan, Geoff;8;1.0
+2125;Gilbert Saporta;Vichi, Maurizio;8;1.0
+2126;Edvin Diday;Batagelj, Vladimir;8;1.0
+2127;Edvin Diday;Groenen, Patrick J.F.;8;1.0
+2128;Edvin Diday;Jajuga, Krzysztof;8;1.0
+2129;Edvin Diday;Lausen, Berthold;8;1.0
+2130;Edvin Diday;McLachlan, Geoff;8;1.0
+2131;Edvin Diday;Meulman, Jacqueline;8;1.0
+2132;Edvin Diday;Palumbo, Francesco;8;1.0
+2133;Edvin Diday;Steinley, Doug;8;1.0
+2134;Edvin Diday;Gilles Celeux;8;1.0
+2135;Edvin Diday;Renato Coppi;8;1.0
+2136;Edvin Diday;Frank Klawonn;8;1.0
+2137;Edvin Diday;Rudolf Kruse;8;1.0
+2138;Edvin Diday;Verde, Rosanna;8;1.0
+2139;Edvin Diday;Adrian Raftery;8;1.0
+2140;Adrian Raftery;Groenen, Patrick J.F.;8;1.0
+2141;Adrian Raftery;Hastie, Trevor;8;1.0
+2142;Adrian Raftery;Hennig, Christian;8;1.0
+2143;Adrian Raftery;Gilles Celeux;8;1.0
+2144;Batagelj, Vladimir;Braak, Cajo ter;9;1.0
+2145;Batagelj, Vladimir;Ferligoj, Anuska;9;4.0
+2146;Batagelj, Vladimir;Hennig, Christian;9;1.0
+2147;Batagelj, Vladimir;Murtagh, Fionn;9;1.0
+2148;Batagelj, Vladimir;Riani, Marco;9;1.0
+2149;Batagelj, Vladimir;Adrian Raftery;9;1.0
+2150;Bertrand, Patrice;De Carvalho, Francisco De Assis Tenhorio;9;4.0
+2151;Bertrand, Patrice;Groenen, Patrick J.F.;9;1.0
+2152;Bertrand, Patrice;Hennig, Christian;9;1.0
+2153;Bertrand, Patrice;Mirkin, Boris;9;4.0
+2154;Bertrand, Patrice;Murtagh, Fionn;9;1.0
+2155;Bertrand, Patrice;Steinley, Doug;9;1.0
+2156;Bertrand, Patrice;Paula Brito;9;4.0
+2157;Bertrand, Patrice;Alain Guenoche;9;1.0
+2158;Bertrand, Patrice;Verde, Rosanna;9;1.0
+2159;Bertrand, Patrice;Vermunt, Jeroen;9;1.0
+2160;Bertrand, Patrice;Vichi, Maurizio;9;1.0
+2161;Bertrand, Patrice;Wolfgang A. Gaul;9;2.0
+2162;Bertrand, Patrice;Edvin Diday;9;3.0
+2163;Bertrand, Patrice;Adrian Raftery;9;1.0
+2164;Bodjanova, Slavka;Rudolf Kruse;9;1.0
+2165;Braak, Cajo ter;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2166;Braak, Cajo ter;Meulman, Jacqueline;9;1.0
+2167;Braak, Cajo ter;Tibshirani, Robert;9;2.0
+2168;Braak, Cajo ter;Gilles Celeux;9;1.0
+2169;Braak, Cajo ter;Verde, Rosanna;9;1.0
+2170;De Carvalho, Francisco De Assis Tenhorio;Meulman, Jacqueline;9;1.0
+2171;De Carvalho, Francisco De Assis Tenhorio;Gilles Celeux;9;1.0
+2172;De Carvalho, Francisco De Assis Tenhorio;Frank Klawonn;9;1.0
+2173;De Carvalho, Francisco De Assis Tenhorio;Rudolf Kruse;9;1.0
+2174;De Carvalho, Francisco De Assis Tenhorio;Verde, Rosanna;9;2.0
+2175;De Carvalho, Francisco De Assis Tenhorio;Gilbert Saporta;9;1.0
+2176;De Carvalho, Francisco De Assis Tenhorio;Edvin Diday;9;1.0
+2177;Ferligoj, Anuska;Murtagh, Fionn;9;1.0
+2178;Geyer-Schulz, Andreas;Batagelj, Vladimir;9;1.0
+2179;Geyer-Schulz, Andreas;Lausen, Berthold;9;1.0
+2180;Geyer-Schulz, Andreas;Meulman, Jacqueline;9;1.0
+2181;Geyer-Schulz, Andreas;Wolfgang A. Gaul;9;3.0
+2182;Geyer-Schulz, Andreas;Edvin Diday;9;1.0
+2183;Gorban, Alexander N;Batagelj, Vladimir;9;1.0
+2184;Gorban, Alexander N;Bertrand, Patrice;9;1.0
+2185;Gorban, Alexander N;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2186;Gorban, Alexander N;Geyer-Schulz, Andreas;9;1.0
+2187;Gorban, Alexander N;Hastie, Trevor;9;2.0
+2188;Gorban, Alexander N;Tibshirani, Robert;9;2.0
+2189;Gorban, Alexander N;Adrian Raftery;9;1.0
+2190;Groenen, Patrick J.F.;Batagelj, Vladimir;9;1.0
+2191;Groenen, Patrick J.F.;Braak, Cajo ter;9;1.0
+2192;Groenen, Patrick J.F.;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2193;Groenen, Patrick J.F.;Ferligoj, Anuska;9;1.0
+2194;Groenen, Patrick J.F.;Hastie, Trevor;9;4.0
+2195;Groenen, Patrick J.F.;Hennig, Christian;9;3.0
+2196;Groenen, Patrick J.F.;Meulman, Jacqueline;9;2.0
+2197;Groenen, Patrick J.F.;Riani, Marco;9;1.0
+2198;Groenen, Patrick J.F.;Rocci, Roberto;9;1.0
+2199;Groenen, Patrick J.F.;Steinley, Doug;9;3.0
+2200;Groenen, Patrick J.F.;Tibshirani, Robert;9;3.0
+2201;Groenen, Patrick J.F.;Van Mechelen Iven;9;1.0
+2202;Groenen, Patrick J.F.;Paula Brito;9;1.0
+2203;Groenen, Patrick J.F.;Alain Guenoche;9;1.0
+2204;Groenen, Patrick J.F.;Verde, Rosanna;9;3.0
+2205;Groenen, Patrick J.F.;Vermunt, Jeroen;9;3.0
+2206;Groenen, Patrick J.F.;Vichi, Maurizio;9;1.0
+2207;Groenen, Patrick J.F.;Edvin Diday;9;3.0
+2208;Groenen, Patrick J.F.;Adrian Raftery;9;2.0
+2209;Hastie, Trevor;Wojtek J Krzanowski;9;1.0
+2210;Hennig, Christian;Batagelj, Vladimir;9;1.0
+2211;Hennig, Christian;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2212;Hennig, Christian;Ferligoj, Anuska;9;1.0
+2213;Hennig, Christian;Geyer-Schulz, Andreas;9;1.0
+2214;Hennig, Christian;Groenen, Patrick J.F.;9;1.0
+2215;Hennig, Christian;Hastie, Trevor;9;1.0
+2216;Hennig, Christian;Hruschka, Harald;9;1.0
+2217;Hennig, Christian;Leisch, Friedrich;9;1.0
+2218;Hennig, Christian;McLachlan, Geoff;9;6.0
+2219;Hennig, Christian;Meulman, Jacqueline;9;1.0
+2220;Hennig, Christian;Rocci, Roberto;9;4.0
+2221;Hennig, Christian;Steinley, Doug;9;2.0
+2222;Hennig, Christian;Tibshirani, Robert;9;1.0
+2223;Hennig, Christian;Van Mechelen Iven;9;1.0
+2224;Hennig, Christian;Paula Brito;9;2.0
+2225;Hennig, Christian;Gilles Celeux;9;4.0
+2226;Hennig, Christian;Renato Coppi;9;1.0
+2227;Hennig, Christian;Alain Guenoche;9;1.0
+2228;Hennig, Christian;Frank Klawonn;9;1.0
+2229;Hennig, Christian;Rudolf Kruse;9;3.0
+2230;Hennig, Christian;Verde, Rosanna;9;3.0
+2231;Hennig, Christian;Vermunt, Jeroen;9;2.0
+2232;Hennig, Christian;Vichi, Maurizio;9;2.0
+2233;Hennig, Christian;Wolfgang A. Gaul;9;1.0
+2234;Hennig, Christian;Edvin Diday;9;1.0
+2235;Hennig, Christian;Adrian Raftery;9;6.0
+2236;Hruschka, Harald;McLachlan, Geoff;9;1.0
+2237;Hruschka, Harald;Tibshirani, Robert;9;1.0
+2238;Hruschka, Harald;Gilles Celeux;9;1.0
+2239;Jajuga, Krzysztof;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2240;Kiers, Henk;Hastie, Trevor;9;1.0
+2241;Kiers, Henk;Meulman, Jacqueline;9;2.0
+2242;Kiers, Henk;Rocci, Roberto;9;1.0
+2243;Kiers, Henk;Tibshirani, Robert;9;1.0
+2244;Kiers, Henk;Van Mechelen Iven;9;2.0
+2245;Kiers, Henk;Renato Coppi;9;1.0
+2246;Lausen, Berthold;Bertrand, Patrice;9;2.0
+2247;Lausen, Berthold;Bodjanova, Slavka;9;1.0
+2248;Lausen, Berthold;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2249;Lausen, Berthold;Ferligoj, Anuska;9;2.0
+2250;Lausen, Berthold;Geyer-Schulz, Andreas;9;2.0
+2251;Lausen, Berthold;Groenen, Patrick J.F.;9;1.0
+2252;Lausen, Berthold;Hennig, Christian;9;2.0
+2253;Lausen, Berthold;Jajuga, Krzysztof;9;2.0
+2254;Lausen, Berthold;Kiers, Henk;9;1.0
+2255;Lausen, Berthold;Kuntz, Pascale;9;1.0
+2256;Lausen, Berthold;Leisch, Friedrich;9;1.0
+2257;Lausen, Berthold;Makarenkov, Vladimir;9;2.0
+2258;Lausen, Berthold;McLachlan, Geoff;9;1.0
+2259;Lausen, Berthold;Meulman, Jacqueline;9;3.0
+2260;Lausen, Berthold;Mirkin, Boris;9;1.0
+2261;Lausen, Berthold;Palumbo, Francesco;9;1.0
+2262;Lausen, Berthold;Riani, Marco;9;2.0
+2263;Lausen, Berthold;Tibshirani, Robert;9;2.0
+2264;Lausen, Berthold;Van Mechelen Iven;9;2.0
+2265;Lausen, Berthold;Alain Guenoche;9;1.0
+2266;Lausen, Berthold;Vermunt, Jeroen;9;1.0
+2267;Lausen, Berthold;Vichi, Maurizio;9;2.0
+2268;Lausen, Berthold;Wolfgang A. Gaul;9;3.0
+2269;Lausen, Berthold;Gilbert Saporta;9;1.0
+2270;Lausen, Berthold;Edvin Diday;9;3.0
+2271;Leisch, Friedrich;Hastie, Trevor;9;2.0
+2272;Leisch, Friedrich;Hennig, Christian;9;1.0
+2273;Leisch, Friedrich;Riani, Marco;9;1.0
+2274;Leisch, Friedrich;Steinley, Doug;9;2.0
+2275;Leisch, Friedrich;Tibshirani, Robert;9;2.0
+2276;Leisch, Friedrich;Vichi, Maurizio;9;1.0
+2277;Makarenkov, Vladimir;Batagelj, Vladimir;9;1.0
+2278;Makarenkov, Vladimir;Bertrand, Patrice;9;1.0
+2279;Makarenkov, Vladimir;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2280;Makarenkov, Vladimir;Ferligoj, Anuska;9;1.0
+2281;Makarenkov, Vladimir;Groenen, Patrick J.F.;9;1.0
+2282;Makarenkov, Vladimir;Hennig, Christian;9;1.0
+2283;Makarenkov, Vladimir;Kiers, Henk;9;1.0
+2284;Makarenkov, Vladimir;Lausen, Berthold;9;2.0
+2285;Makarenkov, Vladimir;Mirkin, Boris;9;2.0
+2286;Makarenkov, Vladimir;Alain Guenoche;9;2.0
+2287;McLachlan, Geoff;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2288;McLachlan, Geoff;Hastie, Trevor;9;4.0
+2289;McLachlan, Geoff;Hennig, Christian;9;3.0
+2290;McLachlan, Geoff;Lausen, Berthold;9;1.0
+2291;McLachlan, Geoff;Leisch, Friedrich;9;3.0
+2292;McLachlan, Geoff;Meulman, Jacqueline;9;1.0
+2293;McLachlan, Geoff;Murtagh, Fionn;9;1.0
+2294;McLachlan, Geoff;Tibshirani, Robert;9;7.0
+2295;McLachlan, Geoff;Paula Brito;9;1.0
+2296;McLachlan, Geoff;Gilles Celeux;9;7.0
+2297;McLachlan, Geoff;Rudolf Kruse;9;1.0
+2298;McLachlan, Geoff;Vermunt, Jeroen;9;1.0
+2299;McLachlan, Geoff;Wojtek J Krzanowski;9;1.0
+2300;McLachlan, Geoff;Adrian Raftery;9;10.0
+2301;Meulman, Jacqueline;Groenen, Patrick J.F.;9;2.0
+2302;Meulman, Jacqueline;Kiers, Henk;9;1.0
+2303;Meulman, Jacqueline;McLachlan, Geoff;9;1.0
+2304;Meulman, Jacqueline;Palumbo, Francesco;9;1.0
+2305;Meulman, Jacqueline;Renato Coppi;9;1.0
+2306;Meulman, Jacqueline;Verde, Rosanna;9;1.0
+2307;Meulman, Jacqueline;Vermunt, Jeroen;9;1.0
+2308;Meulman, Jacqueline;Adrian Raftery;9;1.0
+2309;Mirkin, Boris;Hastie, Trevor;9;1.0
+2310;Mirkin, Boris;Hennig, Christian;9;1.0
+2311;Mirkin, Boris;Makarenkov, Vladimir;9;3.0
+2312;Mirkin, Boris;Steinley, Doug;9;2.0
+2313;Mirkin, Boris;Tibshirani, Robert;9;2.0
+2314;Mirkin, Boris;Alain Guenoche;9;4.0
+2315;Mirkin, Boris;Gilbert Saporta;9;1.0
+2316;Murtagh, Fionn;Batagelj, Vladimir;9;2.0
+2317;Murtagh, Fionn;Leisch, Friedrich;9;1.0
+2318;Murtagh, Fionn;Mirkin, Boris;9;1.0
+2319;Murtagh, Fionn;Steinley, Doug;9;2.0
+2320;Murtagh, Fionn;Van Mechelen Iven;9;2.0
+2321;Murtagh, Fionn;Wolfgang A. Gaul;9;2.0
+2322;Murtagh, Fionn;Gilbert Saporta;9;3.0
+2323;Palumbo, Francesco;De Carvalho, Francisco De Assis Tenhorio;9;2.0
+2324;Palumbo, Francesco;Groenen, Patrick J.F.;9;2.0
+2325;Palumbo, Francesco;Hastie, Trevor;9;2.0
+2326;Palumbo, Francesco;Hennig, Christian;9;1.0
+2327;Palumbo, Francesco;Hruschka, Harald;9;1.0
+2328;Palumbo, Francesco;Kiers, Henk;9;2.0
+2329;Palumbo, Francesco;Lausen, Berthold;9;1.0
+2330;Palumbo, Francesco;Leisch, Friedrich;9;1.0
+2331;Palumbo, Francesco;Mirkin, Boris;9;1.0
+2332;Palumbo, Francesco;Murtagh, Fionn;9;1.0
+2333;Palumbo, Francesco;Steinley, Doug;9;1.0
+2334;Palumbo, Francesco;Vichi, Maurizio;9;2.0
+2335;Palumbo, Francesco;Gilbert Saporta;9;1.0
+2336;Palumbo, Francesco;Edvin Diday;9;1.0
+2337;Riani, Marco;Groenen, Patrick J.F.;9;1.0
+2338;Riani, Marco;Hastie, Trevor;9;1.0
+2339;Riani, Marco;Hennig, Christian;9;1.0
+2340;Riani, Marco;Palumbo, Francesco;9;1.0
+2341;Riani, Marco;Rocci, Roberto;9;1.0
+2342;Riani, Marco;Tibshirani, Robert;9;1.0
+2343;Riani, Marco;Rudolf Kruse;9;1.0
+2344;Riani, Marco;Vichi, Maurizio;9;1.0
+2345;Riani, Marco;Adrian Raftery;9;1.0
+2346;Rocci, Roberto;Hennig, Christian;9;1.0
+2347;Rocci, Roberto;Kiers, Henk;9;2.0
+2348;Rocci, Roberto;Tibshirani, Robert;9;2.0
+2349;Rocci, Roberto;Van Mechelen Iven;9;1.0
+2350;Rocci, Roberto;Renato Coppi;9;2.0
+2351;Steinley, Doug;Batagelj, Vladimir;9;4.0
+2352;Steinley, Doug;Ferligoj, Anuska;9;5.0
+2353;Steinley, Doug;Groenen, Patrick J.F.;9;3.0
+2354;Steinley, Doug;McLachlan, Geoff;9;1.0
+2355;Steinley, Doug;Meulman, Jacqueline;9;1.0
+2356;Steinley, Doug;Mirkin, Boris;9;1.0
+2357;Steinley, Doug;Van Mechelen Iven;9;2.0
+2358;Steinley, Doug;Alain Guenoche;9;1.0
+2359;Steinley, Doug;Vermunt, Jeroen;9;1.0
+2360;Steinley, Doug;Adrian Raftery;9;2.0
+2361;Tibshirani, Robert;Bertrand, Patrice;9;1.0
+2362;Tibshirani, Robert;Hastie, Trevor;9;2.0
+2363;Tibshirani, Robert;Leisch, Friedrich;9;1.0
+2364;Tibshirani, Robert;Murtagh, Fionn;9;1.0
+2365;Tibshirani, Robert;Paula Brito;9;1.0
+2366;Van Mechelen Iven;Geyer-Schulz, Andreas;9;1.0
+2367;Van Mechelen Iven;Kiers, Henk;9;5.0
+2368;Van Mechelen Iven;Meulman, Jacqueline;9;2.0
+2369;Van Mechelen Iven;Mirkin, Boris;9;1.0
+2370;Van Mechelen Iven;Palumbo, Francesco;9;1.0
+2371;Van Mechelen Iven;Steinley, Doug;9;1.0
+2372;Van Mechelen Iven;Vermunt, Jeroen;9;2.0
+2373;Van Mechelen Iven;Wolfgang A. Gaul;9;2.0
+2374;Van Mechelen Iven;Wojtek J Krzanowski;9;2.0
+2375;Paula Brito;Batagelj, Vladimir;9;3.0
+2376;Paula Brito;De Carvalho, Francisco De Assis Tenhorio;9;3.0
+2377;Paula Brito;Ferligoj, Anuska;9;2.0
+2378;Paula Brito;Groenen, Patrick J.F.;9;1.0
+2379;Paula Brito;Hastie, Trevor;9;1.0
+2380;Paula Brito;Jajuga, Krzysztof;9;2.0
+2381;Paula Brito;Kiers, Henk;9;2.0
+2382;Paula Brito;McLachlan, Geoff;9;1.0
+2383;Paula Brito;Palumbo, Francesco;9;1.0
+2384;Paula Brito;Steinley, Doug;9;1.0
+2385;Paula Brito;Tibshirani, Robert;9;1.0
+2386;Paula Brito;Vichi, Maurizio;9;1.0
+2387;Paula Brito;Gilbert Saporta;9;2.0
+2388;Gilles Celeux;Hastie, Trevor;9;1.0
+2389;Gilles Celeux;Meulman, Jacqueline;9;1.0
+2390;Gilles Celeux;Steinley, Doug;9;1.0
+2391;Gilles Celeux;Tibshirani, Robert;9;1.0
+2392;Gilles Celeux;Vermunt, Jeroen;9;1.0
+2393;Renato Coppi;Hastie, Trevor;9;1.0
+2394;Renato Coppi;Kiers, Henk;9;1.0
+2395;Renato Coppi;Riani, Marco;9;1.0
+2396;Renato Coppi;Rocci, Roberto;9;1.0
+2397;Renato Coppi;Tibshirani, Robert;9;1.0
+2398;Renato Coppi;Verde, Rosanna;9;1.0
+2399;Renato Coppi;Vichi, Maurizio;9;1.0
+2400;Renato Coppi;Gilbert Saporta;9;2.0
+2401;Alain Guenoche;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2402;Alain Guenoche;Groenen, Patrick J.F.;9;1.0
+2403;Alain Guenoche;Edvin Diday;9;2.0
+2404;Frank Klawonn;Hruschka, Harald;9;1.0
+2405;Frank Klawonn;Jajuga, Krzysztof;9;1.0
+2406;Frank Klawonn;Kiers, Henk;9;1.0
+2407;Frank Klawonn;Mirkin, Boris;9;1.0
+2408;Frank Klawonn;Murtagh, Fionn;9;1.0
+2409;Frank Klawonn;Paula Brito;9;1.0
+2410;Frank Klawonn;Renato Coppi;9;1.0
+2411;Frank Klawonn;Wojtek J Krzanowski;9;1.0
+2412;Rudolf Kruse;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2413;Rudolf Kruse;Jajuga, Krzysztof;9;1.0
+2414;Rudolf Kruse;Riani, Marco;9;1.0
+2415;Rudolf Kruse;Renato Coppi;9;1.0
+2416;Rudolf Kruse;Frank Klawonn;9;1.0
+2417;Rudolf Kruse;Wolfgang A. Gaul;9;1.0
+2418;Rudolf Kruse;Edvin Diday;9;1.0
+2419;Verde, Rosanna;Bertrand, Patrice;9;2.0
+2420;Verde, Rosanna;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2421;Verde, Rosanna;Lausen, Berthold;9;1.0
+2422;Verde, Rosanna;McLachlan, Geoff;9;1.0
+2423;Verde, Rosanna;Meulman, Jacqueline;9;1.0
+2424;Verde, Rosanna;Palumbo, Francesco;9;1.0
+2425;Verde, Rosanna;Rocci, Roberto;9;1.0
+2426;Verde, Rosanna;Paula Brito;9;2.0
+2427;Verde, Rosanna;Gilbert Saporta;9;2.0
+2428;Verde, Rosanna;Adrian Raftery;9;2.0
+2429;Vermunt, Jeroen;Geyer-Schulz, Andreas;9;1.0
+2430;Vermunt, Jeroen;Lausen, Berthold;9;1.0
+2431;Vermunt, Jeroen;McLachlan, Geoff;9;2.0
+2432;Vermunt, Jeroen;Rocci, Roberto;9;1.0
+2433;Vermunt, Jeroen;Tibshirani, Robert;9;1.0
+2434;Vermunt, Jeroen;Van Mechelen Iven;9;1.0
+2435;Vermunt, Jeroen;Gilles Celeux;9;1.0
+2436;Vermunt, Jeroen;Rudolf Kruse;9;1.0
+2437;Vermunt, Jeroen;Verde, Rosanna;9;1.0
+2438;Vermunt, Jeroen;Vichi, Maurizio;9;1.0
+2439;Vermunt, Jeroen;Wojtek J Krzanowski;9;1.0
+2440;Vichi, Maurizio;Batagelj, Vladimir;9;1.0
+2441;Vichi, Maurizio;Bertrand, Patrice;9;1.0
+2442;Vichi, Maurizio;Bodjanova, Slavka;9;1.0
+2443;Vichi, Maurizio;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2444;Vichi, Maurizio;Ferligoj, Anuska;9;1.0
+2445;Vichi, Maurizio;Hastie, Trevor;9;1.0
+2446;Vichi, Maurizio;Hennig, Christian;9;1.0
+2447;Vichi, Maurizio;Meulman, Jacqueline;9;1.0
+2448;Vichi, Maurizio;Murtagh, Fionn;9;1.0
+2449;Vichi, Maurizio;Riani, Marco;9;1.0
+2450;Vichi, Maurizio;Steinley, Doug;9;1.0
+2451;Vichi, Maurizio;Tibshirani, Robert;9;1.0
+2452;Vichi, Maurizio;Frank Klawonn;9;1.0
+2453;Vichi, Maurizio;Rudolf Kruse;9;1.0
+2454;Vichi, Maurizio;Verde, Rosanna;9;1.0
+2455;Vichi, Maurizio;Edvin Diday;9;1.0
+2456;Wolfgang A. Gaul;Bertrand, Patrice;9;1.0
+2457;Wolfgang A. Gaul;De Carvalho, Francisco De Assis Tenhorio;9;1.0
+2458;Wolfgang A. Gaul;Ferligoj, Anuska;9;1.0
+2459;Wolfgang A. Gaul;Geyer-Schulz, Andreas;9;2.0
+2460;Wolfgang A. Gaul;Groenen, Patrick J.F.;9;1.0
+2461;Wolfgang A. Gaul;Lausen, Berthold;9;1.0
+2462;Wolfgang A. Gaul;Meulman, Jacqueline;9;1.0
+2463;Wolfgang A. Gaul;Mirkin, Boris;9;1.0
+2464;Wolfgang A. Gaul;Frank Klawonn;9;1.0
+2465;Wolfgang A. Gaul;Rudolf Kruse;9;1.0
+2466;Wojtek J Krzanowski;Kiers, Henk;9;1.0
+2467;Gilbert Saporta;Braak, Cajo ter;9;1.0
+2468;Gilbert Saporta;Groenen, Patrick J.F.;9;1.0
+2469;Gilbert Saporta;Meulman, Jacqueline;9;1.0
+2470;Gilbert Saporta;Tibshirani, Robert;9;1.0
+2471;Gilbert Saporta;Paula Brito;9;1.0
+2472;Gilbert Saporta;Edvin Diday;9;1.0
+2473;Gilbert Saporta;Adrian Raftery;9;1.0
+2474;Edvin Diday;Palumbo, Francesco;9;1.0
+2475;Edvin Diday;Steinley, Doug;9;1.0
+2476;Edvin Diday;Paula Brito;9;1.0
+2477;Edvin Diday;Verde, Rosanna;9;1.0
+2478;Edvin Diday;Vichi, Maurizio;9;1.0
+2479;Edvin Diday;Gilbert Saporta;9;1.0
+2480;Adrian Raftery;Bertrand, Patrice;9;1.0
+2481;Adrian Raftery;Braak, Cajo ter;9;1.0
+2482;Adrian Raftery;Hastie, Trevor;9;1.0
+2483;Adrian Raftery;McLachlan, Geoff;9;2.0
+2484;Adrian Raftery;Meulman, Jacqueline;9;1.0
+2485;Adrian Raftery;Riani, Marco;9;1.0
+2486;Adrian Raftery;Rocci, Roberto;9;1.0
+2487;Adrian Raftery;Steinley, Doug;9;2.0
+2488;Adrian Raftery;Tibshirani, Robert;9;2.0
+2489;Adrian Raftery;Vermunt, Jeroen;9;2.0
+2490;Adrian Raftery;Vichi, Maurizio;9;1.0
+2491;Adrian Raftery;Wojtek J Krzanowski;9;1.0
+2492;Batagelj, Vladimir;De Carvalho, Francisco De Assis Tenhorio;10;1.0
+2493;Batagelj, Vladimir;Ferligoj, Anuska;10;5.0
+2494;Batagelj, Vladimir;Groenen, Patrick J.F.;10;1.0
+2495;Batagelj, Vladimir;Jajuga, Krzysztof;10;1.0
+2496;Batagelj, Vladimir;Kiers, Henk;10;1.0
+2497;Batagelj, Vladimir;Mirkin, Boris;10;1.0
+2498;Batagelj, Vladimir;Murtagh, Fionn;10;1.0
+2499;Batagelj, Vladimir;Van Mechelen Iven;10;1.0
+2500;Batagelj, Vladimir;Paula Brito;10;1.0
+2501;Batagelj, Vladimir;Verde, Rosanna;10;2.0
+2502;Batagelj, Vladimir;Vichi, Maurizio;10;1.0
+2503;Batagelj, Vladimir;Wolfgang A. Gaul;10;1.0
+2504;Batagelj, Vladimir;Edvin Diday;10;1.0
+2505;Bertrand, Patrice;Kiers, Henk;10;1.0
+2506;Bertrand, Patrice;Gilles Celeux;10;1.0
+2507;Bertrand, Patrice;Rudolf Kruse;10;1.0
+2508;Bertrand, Patrice;Gilbert Saporta;10;1.0
+2509;Braak, Cajo ter;McLachlan, Geoff;10;1.0
+2510;Braak, Cajo ter;Tibshirani, Robert;10;2.0
+2511;Braak, Cajo ter;Wojtek J Krzanowski;10;1.0
+2512;De Carvalho, Francisco De Assis Tenhorio;Bertrand, Patrice;10;2.0
+2513;De Carvalho, Francisco De Assis Tenhorio;Lausen, Berthold;10;1.0
+2514;De Carvalho, Francisco De Assis Tenhorio;Mirkin, Boris;10;2.0
+2515;De Carvalho, Francisco De Assis Tenhorio;Rocci, Roberto;10;1.0
+2516;De Carvalho, Francisco De Assis Tenhorio;Van Mechelen Iven;10;1.0
+2517;De Carvalho, Francisco De Assis Tenhorio;Paula Brito;10;1.0
+2518;De Carvalho, Francisco De Assis Tenhorio;Gilles Celeux;10;3.0
+2519;De Carvalho, Francisco De Assis Tenhorio;Verde, Rosanna;10;1.0
+2520;De Carvalho, Francisco De Assis Tenhorio;Vichi, Maurizio;10;3.0
+2521;De Carvalho, Francisco De Assis Tenhorio;Wolfgang A. Gaul;10;1.0
+2522;De Carvalho, Francisco De Assis Tenhorio;Gilbert Saporta;10;1.0
+2523;Ferligoj, Anuska;Batagelj, Vladimir;10;2.0
+2524;Ferligoj, Anuska;De Carvalho, Francisco De Assis Tenhorio;10;1.0
+2525;Ferligoj, Anuska;Edvin Diday;10;1.0
+2526;Gorban, Alexander N;Hastie, Trevor;10;7.0
+2527;Gorban, Alexander N;Tibshirani, Robert;10;6.0
+2528;Groenen, Patrick J.F.;Ferligoj, Anuska;10;1.0
+2529;Groenen, Patrick J.F.;Hastie, Trevor;10;5.0
+2530;Groenen, Patrick J.F.;Meulman, Jacqueline;10;4.0
+2531;Groenen, Patrick J.F.;Mirkin, Boris;10;1.0
+2532;Groenen, Patrick J.F.;Tibshirani, Robert;10;3.0
+2533;Groenen, Patrick J.F.;Van Mechelen Iven;10;1.0
+2534;Groenen, Patrick J.F.;Vermunt, Jeroen;10;1.0
+2535;Groenen, Patrick J.F.;Wojtek J Krzanowski;10;1.0
+2536;Groenen, Patrick J.F.;Edvin Diday;10;1.0
+2537;Groenen, Patrick J.F.;Adrian Raftery;10;1.0
+2538;Hastie, Trevor;Braak, Cajo ter;10;1.0
+2539;Hastie, Trevor;De Carvalho, Francisco De Assis Tenhorio;10;2.0
+2540;Hastie, Trevor;Hennig, Christian;10;1.0
+2541;Hastie, Trevor;McLachlan, Geoff;10;1.0
+2542;Hastie, Trevor;Wojtek J Krzanowski;10;1.0
+2543;Hastie, Trevor;Adrian Raftery;10;1.0
+2544;Hennig, Christian;Batagelj, Vladimir;10;2.0
+2545;Hennig, Christian;De Carvalho, Francisco De Assis Tenhorio;10;2.0
+2546;Hennig, Christian;Ferligoj, Anuska;10;2.0
+2547;Hennig, Christian;Groenen, Patrick J.F.;10;1.0
+2548;Hennig, Christian;Hastie, Trevor;10;2.0
+2549;Hennig, Christian;Hruschka, Harald;10;1.0
+2550;Hennig, Christian;Kiers, Henk;10;1.0
+2551;Hennig, Christian;Leisch, Friedrich;10;3.0
+2552;Hennig, Christian;Makarenkov, Vladimir;10;1.0
+2553;Hennig, Christian;McLachlan, Geoff;10;1.0
+2554;Hennig, Christian;Meulman, Jacqueline;10;1.0
+2555;Hennig, Christian;Mirkin, Boris;10;1.0
+2556;Hennig, Christian;Murtagh, Fionn;10;3.0
+2557;Hennig, Christian;Rocci, Roberto;10;2.0
+2558;Hennig, Christian;Steinley, Doug;10;3.0
+2559;Hennig, Christian;Tibshirani, Robert;10;7.0
+2560;Hennig, Christian;Van Mechelen Iven;10;4.0
+2561;Hennig, Christian;Paula Brito;10;1.0
+2562;Hennig, Christian;Gilles Celeux;10;2.0
+2563;Hennig, Christian;Vichi, Maurizio;10;1.0
+2564;Hennig, Christian;Wolfgang A. Gaul;10;2.0
+2565;Hennig, Christian;Wojtek J Krzanowski;10;1.0
+2566;Hennig, Christian;Adrian Raftery;10;3.0
+2567;Hruschka, Harald;Gilles Celeux;10;1.0
+2568;Hruschka, Harald;Adrian Raftery;10;2.0
+2569;Jajuga, Krzysztof;Groenen, Patrick J.F.;10;1.0
+2570;Jajuga, Krzysztof;Kiers, Henk;10;1.0
+2571;Jajuga, Krzysztof;McLachlan, Geoff;10;1.0
+2572;Jajuga, Krzysztof;Van Mechelen Iven;10;1.0
+2573;Jajuga, Krzysztof;Vichi, Maurizio;10;1.0
+2574;Jajuga, Krzysztof;Wolfgang A. Gaul;10;1.0
+2575;Kiers, Henk;Hastie, Trevor;10;2.0
+2576;Kiers, Henk;Mirkin, Boris;10;1.0
+2577;Kiers, Henk;Tibshirani, Robert;10;3.0
+2578;Kiers, Henk;Van Mechelen Iven;10;6.0
+2579;Kuntz, Pascale;Lausen, Berthold;10;2.0
+2580;Kuntz, Pascale;Edvin Diday;10;1.0
+2581;Lausen, Berthold;Leisch, Friedrich;10;3.0
+2582;Lausen, Berthold;McLachlan, Geoff;10;2.0
+2583;Lausen, Berthold;Tibshirani, Robert;10;1.0
+2584;Lausen, Berthold;Gilles Celeux;10;2.0
+2585;Lausen, Berthold;Adrian Raftery;10;3.0
+2586;Leisch, Friedrich;Braak, Cajo ter;10;1.0
+2587;Leisch, Friedrich;Hastie, Trevor;10;7.0
+2588;Leisch, Friedrich;Hennig, Christian;10;1.0
+2589;Leisch, Friedrich;McLachlan, Geoff;10;1.0
+2590;Leisch, Friedrich;Steinley, Doug;10;1.0
+2591;Leisch, Friedrich;Tibshirani, Robert;10;6.0
+2592;Leisch, Friedrich;Van Mechelen Iven;10;1.0
+2593;Leisch, Friedrich;Paula Brito;10;1.0
+2594;Leisch, Friedrich;Gilles Celeux;10;2.0
+2595;Leisch, Friedrich;Vermunt, Jeroen;10;2.0
+2596;Leisch, Friedrich;Gilbert Saporta;10;1.0
+2597;Leisch, Friedrich;Adrian Raftery;10;3.0
+2598;Makarenkov, Vladimir;Bertrand, Patrice;10;1.0
+2599;Makarenkov, Vladimir;De Carvalho, Francisco De Assis Tenhorio;10;1.0
+2600;Makarenkov, Vladimir;Hennig, Christian;10;2.0
+2601;Makarenkov, Vladimir;Lausen, Berthold;10;1.0
+2602;Makarenkov, Vladimir;Mirkin, Boris;10;3.0
+2603;Makarenkov, Vladimir;Murtagh, Fionn;10;1.0
+2604;Makarenkov, Vladimir;Steinley, Doug;10;3.0
+2605;Makarenkov, Vladimir;Paula Brito;10;1.0
+2606;Makarenkov, Vladimir;Adrian Raftery;10;1.0
+2607;McLachlan, Geoff;Braak, Cajo ter;10;1.0
+2608;McLachlan, Geoff;Hastie, Trevor;10;4.0
+2609;McLachlan, Geoff;Kiers, Henk;10;1.0
+2610;McLachlan, Geoff;Leisch, Friedrich;10;7.0
+2611;McLachlan, Geoff;Rocci, Roberto;10;1.0
+2612;McLachlan, Geoff;Tibshirani, Robert;10;11.0
+2613;McLachlan, Geoff;Gilles Celeux;10;9.0
+2614;McLachlan, Geoff;Vichi, Maurizio;10;2.0
+2615;McLachlan, Geoff;Adrian Raftery;10;9.0
+2616;Meulman, Jacqueline;De Carvalho, Francisco De Assis Tenhorio;10;1.0
+2617;Meulman, Jacqueline;Groenen, Patrick J.F.;10;1.0
+2618;Meulman, Jacqueline;Hastie, Trevor;10;1.0
+2619;Meulman, Jacqueline;Kiers, Henk;10;1.0
+2620;Meulman, Jacqueline;Tibshirani, Robert;10;3.0
+2621;Meulman, Jacqueline;Wojtek J Krzanowski;10;1.0
+2622;Mirkin, Boris;Hastie, Trevor;10;1.0
+2623;Mirkin, Boris;Hennig, Christian;10;1.0
+2624;Mirkin, Boris;Lausen, Berthold;10;1.0
+2625;Mirkin, Boris;Makarenkov, Vladimir;10;2.0
+2626;Mirkin, Boris;Murtagh, Fionn;10;2.0
+2627;Mirkin, Boris;Steinley, Doug;10;3.0
+2628;Mirkin, Boris;Tibshirani, Robert;10;1.0
+2629;Mirkin, Boris;Van Mechelen Iven;10;1.0
+2630;Mirkin, Boris;Alain Guenoche;10;1.0
+2631;Mirkin, Boris;Adrian Raftery;10;2.0
+2632;Murtagh, Fionn;Batagelj, Vladimir;10;2.0
+2633;Murtagh, Fionn;Bertrand, Patrice;10;1.0
+2634;Murtagh, Fionn;De Carvalho, Francisco De Assis Tenhorio;10;1.0
+2635;Murtagh, Fionn;Ferligoj, Anuska;10;1.0
+2636;Murtagh, Fionn;Groenen, Patrick J.F.;10;1.0
+2637;Murtagh, Fionn;Hastie, Trevor;10;1.0
+2638;Murtagh, Fionn;Hennig, Christian;10;2.0
+2639;Murtagh, Fionn;Hruschka, Harald;10;1.0
+2640;Murtagh, Fionn;Kiers, Henk;10;1.0
+2641;Murtagh, Fionn;Leisch, Friedrich;10;1.0
+2642;Murtagh, Fionn;Makarenkov, Vladimir;10;1.0
+2643;Murtagh, Fionn;McLachlan, Geoff;10;2.0
+2644;Murtagh, Fionn;Meulman, Jacqueline;10;1.0
+2645;Murtagh, Fionn;Mirkin, Boris;10;3.0
+2646;Murtagh, Fionn;Rocci, Roberto;10;1.0
+2647;Murtagh, Fionn;Steinley, Doug;10;2.0
+2648;Murtagh, Fionn;Tibshirani, Robert;10;1.0
+2649;Murtagh, Fionn;Van Mechelen Iven;10;1.0
+2650;Murtagh, Fionn;Paula Brito;10;1.0
+2651;Murtagh, Fionn;Gilles Celeux;10;1.0
+2652;Murtagh, Fionn;Vichi, Maurizio;10;1.0
+2653;Murtagh, Fionn;Wolfgang A. Gaul;10;1.0
+2654;Murtagh, Fionn;Gilbert Saporta;10;1.0
+2655;Murtagh, Fionn;Adrian Raftery;10;2.0
+2656;Palumbo, Francesco;Bertrand, Patrice;10;1.0
+2657;Palumbo, Francesco;De Carvalho, Francisco De Assis Tenhorio;10;1.0
+2658;Palumbo, Francesco;Hastie, Trevor;10;1.0
+2659;Palumbo, Francesco;Kiers, Henk;10;1.0
+2660;Palumbo, Francesco;Kuntz, Pascale;10;1.0
+2661;Palumbo, Francesco;McLachlan, Geoff;10;1.0
+2662;Palumbo, Francesco;Mirkin, Boris;10;1.0
+2663;Palumbo, Francesco;Murtagh, Fionn;10;1.0
+2664;Palumbo, Francesco;Rocci, Roberto;10;1.0
+2665;Palumbo, Francesco;Steinley, Doug;10;1.0
+2666;Palumbo, Francesco;Vermunt, Jeroen;10;1.0
+2667;Palumbo, Francesco;Gilbert Saporta;10;1.0
+2668;Palumbo, Francesco;Adrian Raftery;10;1.0
+2669;Riani, Marco;Hennig, Christian;10;4.0
+2670;Riani, Marco;Lausen, Berthold;10;2.0
+2671;Riani, Marco;McLachlan, Geoff;10;3.0
+2672;Riani, Marco;Rocci, Roberto;10;1.0
+2673;Riani, Marco;Steinley, Doug;10;1.0
+2674;Riani, Marco;Gilles Celeux;10;2.0
+2675;Riani, Marco;Vichi, Maurizio;10;1.0
+2676;Riani, Marco;Adrian Raftery;10;3.0
+2677;Rocci, Roberto;De Carvalho, Francisco De Assis Tenhorio;10;1.0
+2678;Rocci, Roberto;Groenen, Patrick J.F.;10;1.0
+2679;Rocci, Roberto;Hennig, Christian;10;3.0
+2680;Rocci, Roberto;Hruschka, Harald;10;1.0
+2681;Rocci, Roberto;Kiers, Henk;10;3.0
+2682;Rocci, Roberto;Lausen, Berthold;10;1.0
+2683;Rocci, Roberto;Leisch, Friedrich;10;1.0
+2684;Rocci, Roberto;Makarenkov, Vladimir;10;1.0
+2685;Rocci, Roberto;McLachlan, Geoff;10;8.0
+2686;Rocci, Roberto;Meulman, Jacqueline;10;1.0
+2687;Rocci, Roberto;Mirkin, Boris;10;1.0
+2688;Rocci, Roberto;Murtagh, Fionn;10;1.0
+2689;Rocci, Roberto;Palumbo, Francesco;10;1.0
+2690;Rocci, Roberto;Steinley, Doug;10;1.0
+2691;Rocci, Roberto;Tibshirani, Robert;10;3.0
+2692;Rocci, Roberto;Van Mechelen Iven;10;2.0
+2693;Rocci, Roberto;Paula Brito;10;1.0
+2694;Rocci, Roberto;Gilles Celeux;10;4.0
+2695;Rocci, Roberto;Renato Coppi;10;1.0
+2696;Rocci, Roberto;Vermunt, Jeroen;10;2.0
+2697;Rocci, Roberto;Vichi, Maurizio;10;2.0
+2698;Rocci, Roberto;Adrian Raftery;10;7.0
+2699;Steinley, Doug;Batagelj, Vladimir;10;1.0
+2700;Steinley, Doug;Ferligoj, Anuska;10;1.0
+2701;Steinley, Doug;Groenen, Patrick J.F.;10;2.0
+2702;Steinley, Doug;Hastie, Trevor;10;1.0
+2703;Steinley, Doug;Hennig, Christian;10;1.0
+2704;Steinley, Doug;Kiers, Henk;10;1.0
+2705;Steinley, Doug;McLachlan, Geoff;10;6.0
+2706;Steinley, Doug;Meulman, Jacqueline;10;3.0
+2707;Steinley, Doug;Mirkin, Boris;10;1.0
+2708;Steinley, Doug;Murtagh, Fionn;10;1.0
+2709;Steinley, Doug;Tibshirani, Robert;10;2.0
+2710;Steinley, Doug;Van Mechelen Iven;10;3.0
+2711;Steinley, Doug;Paula Brito;10;1.0
+2712;Steinley, Doug;Gilles Celeux;10;4.0
+2713;Steinley, Doug;Vermunt, Jeroen;10;3.0
+2714;Steinley, Doug;Vichi, Maurizio;10;1.0
+2715;Steinley, Doug;Wolfgang A. Gaul;10;2.0
+2716;Steinley, Doug;Wojtek J Krzanowski;10;2.0
+2717;Steinley, Doug;Adrian Raftery;10;6.0
+2718;Tibshirani, Robert;McLachlan, Geoff;10;1.0
+2719;Tibshirani, Robert;Murtagh, Fionn;10;1.0
+2720;Tibshirani, Robert;Wojtek J Krzanowski;10;1.0
+2721;Tibshirani, Robert;Adrian Raftery;10;1.0
+2722;Van Mechelen Iven;Groenen, Patrick J.F.;10;1.0
+2723;Van Mechelen Iven;Hastie, Trevor;10;1.0
+2724;Van Mechelen Iven;Hennig, Christian;10;1.0
+2725;Van Mechelen Iven;Kiers, Henk;10;1.0
+2726;Van Mechelen Iven;Leisch, Friedrich;10;1.0
+2727;Van Mechelen Iven;McLachlan, Geoff;10;1.0
+2728;Van Mechelen Iven;Meulman, Jacqueline;10;2.0
+2729;Van Mechelen Iven;Steinley, Doug;10;4.0
+2730;Van Mechelen Iven;Tibshirani, Robert;10;2.0
+2731;Van Mechelen Iven;Vermunt, Jeroen;10;2.0
+2732;Van Mechelen Iven;Vichi, Maurizio;10;1.0
+2733;Van Mechelen Iven;Wojtek J Krzanowski;10;1.0
+2734;Paula Brito;Bertrand, Patrice;10;1.0
+2735;Paula Brito;Hruschka, Harald;10;1.0
+2736;Paula Brito;Jajuga, Krzysztof;10;1.0
+2737;Paula Brito;Kiers, Henk;10;2.0
+2738;Paula Brito;McLachlan, Geoff;10;1.0
+2739;Paula Brito;Palumbo, Francesco;10;3.0
+2740;Paula Brito;Tibshirani, Robert;10;1.0
+2741;Paula Brito;Gilles Celeux;10;1.0
+2742;Paula Brito;Vichi, Maurizio;10;1.0
+2743;Paula Brito;Adrian Raftery;10;1.0
+2744;Gilles Celeux;Hennig, Christian;10;1.0
+2745;Gilles Celeux;Leisch, Friedrich;10;1.0
+2746;Gilles Celeux;McLachlan, Geoff;10;1.0
+2747;Gilles Celeux;Tibshirani, Robert;10;1.0
+2748;Gilles Celeux;Adrian Raftery;10;1.0
+2749;Frank Klawonn;Bertrand, Patrice;10;1.0
+2750;Frank Klawonn;De Carvalho, Francisco De Assis Tenhorio;10;1.0
+2751;Frank Klawonn;McLachlan, Geoff;10;1.0
+2752;Frank Klawonn;Palumbo, Francesco;10;1.0
+2753;Rudolf Kruse;De Carvalho, Francisco De Assis Tenhorio;10;1.0
+2754;Rudolf Kruse;Jajuga, Krzysztof;10;1.0
+2755;Rudolf Kruse;McLachlan, Geoff;10;1.0
+2756;Rudolf Kruse;Renato Coppi;10;1.0
+2757;Verde, Rosanna;Bertrand, Patrice;10;1.0
+2758;Verde, Rosanna;De Carvalho, Francisco De Assis Tenhorio;10;1.0
+2759;Verde, Rosanna;Ferligoj, Anuska;10;3.0
+2760;Verde, Rosanna;Hennig, Christian;10;1.0
+2761;Verde, Rosanna;Hruschka, Harald;10;1.0
+2762;Verde, Rosanna;Tibshirani, Robert;10;1.0
+2763;Verde, Rosanna;Paula Brito;10;1.0
+2764;Verde, Rosanna;Gilbert Saporta;10;1.0
+2765;Verde, Rosanna;Adrian Raftery;10;1.0
+2766;Vermunt, Jeroen;Lausen, Berthold;10;2.0
+2767;Vermunt, Jeroen;McLachlan, Geoff;10;1.0
+2768;Vermunt, Jeroen;Steinley, Doug;10;2.0
+2769;Vermunt, Jeroen;Tibshirani, Robert;10;2.0
+2770;Vermunt, Jeroen;Gilles Celeux;10;1.0
+2771;Vermunt, Jeroen;Rudolf Kruse;10;1.0
+2772;Vichi, Maurizio;Hastie, Trevor;10;2.0
+2773;Vichi, Maurizio;Meulman, Jacqueline;10;1.0
+2774;Vichi, Maurizio;Palumbo, Francesco;10;1.0
+2775;Vichi, Maurizio;Tibshirani, Robert;10;2.0
+2776;Vichi, Maurizio;Renato Coppi;10;1.0
+2777;Vichi, Maurizio;Vermunt, Jeroen;10;1.0
+2778;Vichi, Maurizio;Wojtek J Krzanowski;10;1.0
+2779;Vichi, Maurizio;Gilbert Saporta;10;1.0
+2780;Vichi, Maurizio;Edvin Diday;10;1.0
+2781;Vichi, Maurizio;Adrian Raftery;10;1.0
+2782;Wojtek J Krzanowski;Geyer-Schulz, Andreas;10;1.0
+2783;Wojtek J Krzanowski;Kiers, Henk;10;1.0
+2784;Wojtek J Krzanowski;Renato Coppi;10;2.0
+2785;Wojtek J Krzanowski;Frank Klawonn;10;1.0
+2786;Wojtek J Krzanowski;Rudolf Kruse;10;1.0
+2787;Wojtek J Krzanowski;Vichi, Maurizio;10;1.0
+2788;Gilbert Saporta;Bertrand, Patrice;10;1.0
+2789;Gilbert Saporta;Kiers, Henk;10;1.0
+2790;Gilbert Saporta;Leisch, Friedrich;10;1.0
+2791;Gilbert Saporta;Meulman, Jacqueline;10;1.0
+2792;Gilbert Saporta;Murtagh, Fionn;10;1.0
+2793;Gilbert Saporta;Palumbo, Francesco;10;1.0
+2794;Gilbert Saporta;Riani, Marco;10;1.0
+2795;Gilbert Saporta;Vichi, Maurizio;10;2.0
+2796;Gilbert Saporta;Adrian Raftery;10;1.0
+2797;Edvin Diday;Batagelj, Vladimir;10;1.0
+2798;Edvin Diday;Groenen, Patrick J.F.;10;1.0
+2799;Edvin Diday;Meulman, Jacqueline;10;1.0
+2800;Adrian Raftery;Batagelj, Vladimir;10;1.0
+2801;Adrian Raftery;Braak, Cajo ter;10;2.0
+2802;Adrian Raftery;Hennig, Christian;10;1.0
+2803;Adrian Raftery;McLachlan, Geoff;10;2.0
