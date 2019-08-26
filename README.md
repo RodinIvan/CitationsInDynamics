@@ -11,6 +11,7 @@ Data in ```researchers_citations.csv``` is organised in the following way:
 
 If you use this dataset in your work, please, refer to the following paper:
 
+```
 @inproceedings{rodin2017supercluster,
   title={Supercluster in Statics and Dynamics: An Approximate Structure Imitating a Rough Set},
   author={Rodin, Ivan and Mirkin, Boris},
@@ -19,3 +20,4 @@ If you use this dataset in your work, please, refer to the following paper:
   year={2017},
   organization={Springer}
 }
+```
